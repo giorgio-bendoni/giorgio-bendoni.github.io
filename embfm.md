@@ -1,6 +1,7 @@
 ---
 layout: page
-title: <font style="font-size:14pt ">Economics of Money, Banking and Financial Markets</font>
+fontsize: 14pt
+title: Economics of Money, Banking and Financial Markets
 ---
 
 this is a section about my eaching activities on embfm
