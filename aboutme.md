@@ -22,7 +22,7 @@ My interests span over four different streams, around the economics of:
 
 ## Teaching Responsibilities
 I teach several undergraduate modules in the BSc programmes in Economics, Business Economics and Economics, Banking and Finance, and in the BA Economics and Management:
-1.Issues in Finance and Banking (L4)
+1. Issues in Finance and Banking (L4)
 2. Mathematics for Economists (L4)
 3. Economics of Money, Banking and Financial Markets (L5 - Module coordinator)
 4. International Banking and Financial Instruments (L6 - Module coordinator)
