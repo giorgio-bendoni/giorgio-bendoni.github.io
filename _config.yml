@@ -14,9 +14,9 @@ author: Giorgio Bendoni
 navbar-links:
   About Me: "aboutme"
   Teaching:
-#    - Issues In: "issues_in"
+    - Issues In: "issues_in"
     - EMBFM: "embfm"
-#    - IBFI: "ibfi"
+    - IBFI: "ibfi"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
