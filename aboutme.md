@@ -1,16 +1,30 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Senior Teaching Fellow affiliated to the Subject Group of Economics and Finance at the University of Portsmouth
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have had a long career in the Italian Navy (as a pilot and as a ship Captain) before moving into managerial positions within the Aviation and Marine Industry, the Technology sector and then into Academia and Charitable Organisations.
 
-What else do you need?
 
-### my history
+## Research Interests
+My interests span over four different streams, around the economics of:
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+1. growth, and how to develop and deploy appropriate and effective monetary, fiscal and economic policies;
+2. war, defence and security, and their representations and understanding through the use of economic models and theories;
+3. charitable organisations;
+4. aerospace and maritime industries.  
+
+
+## Teaching Responsibilities
+I teach several undergraduate modules in the BSc programmes in Economics, Business Economics and Economics, Banking and Finance, and in the BA Economics and Management:
+1.Issues in Finance and Banking (L4)
+2. Mathematics for Economists (L4)
+3. Economics of Money, Banking and Financial Markets (L5 - Module coordinator)
+4. International Banking and Financial Instruments (L6 - Module coordinator)
+
+I am the Senior Tutor for the Subject Group Economics and Finance, the Level 4 Year Tutor and a dissertation supervisor at undergraduate (L6) and postgraduate (L7) level. 
+
+
