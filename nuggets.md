@@ -1,5 +1,5 @@
 ---
 layout: page
-title: nuggets
+title: Nuggets
 ---
 This is a page dedicated to nuggets
