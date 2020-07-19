@@ -17,9 +17,9 @@ navbar-links:
 #    - Issues In: "issues_in"
 #    - EMBFM: "embfm"
 #    - IBFI: "ibfi"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: ""
 #  Blog: "blog"
 
