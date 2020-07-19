@@ -14,9 +14,9 @@ author: Giorgio Bendoni
 navbar-links:
   About Me: "aboutme"
   Teaching:
-    - Issues In: "issues_in"
-    - EMBFM: "embfm"
-    - IBFI: "ibfi"
+    - Issues In Finance and Banking: "issues_in"
+    - Economics of Money, Banking and Financial Markets: "embfm"
+    - International Banking and Financial Instruments: "ibfi"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
