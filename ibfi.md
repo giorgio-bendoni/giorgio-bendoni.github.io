@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IBFI
+title: International Banking and Financial Instruments
 ---
 
 this is a section about my eaching activities
