@@ -13,15 +13,15 @@ author: Giorgio Bendoni
 
 navbar-links:
   About Me: "aboutme"
-  Teaching: "teaching"
-    - Issues In: "issues_in"
-    - EMBFM: "embfm"
-    - IBFI: "ibfi"
+#  Teaching: "teaching"
+#    - Issues In: "issues_in"
+#    - EMBFM: "embfm"
+#    - IBFI: "ibfi"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: ""
-  Blog: "blog"
+#  Author's home: ""
+#  Blog: "blog"
 
 # --- Logo --- #
 
