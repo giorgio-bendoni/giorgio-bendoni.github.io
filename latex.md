@@ -1,5 +1,5 @@
 ---
 layout: page
-title: latex
+title: LaTeX
 ---
 this is a page dedicated to latex
