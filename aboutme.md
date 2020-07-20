@@ -4,6 +4,8 @@ title:
 subtitle: 
 ---
 
+# About me
+
 I am a Senior Teaching Fellow affiliated to the Subject Group of Economics and Finance at the University of Portsmouth
 
 I have had a long career in the Italian Navy (as a pilot and as a ship Captain) before moving into managerial positions within the Aviation and Marine Industry, the Technology sector and then into Academia and Charitable Organisations.
