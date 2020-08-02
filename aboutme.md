@@ -31,4 +31,4 @@ I teach several undergraduate modules in the _BSc_ programmes in _Economics_, _B
 I am the Senior Tutor for the Subject Group Economics and Finance, the Level 4 Year Tutor and a dissertation supervisor at undergraduate (L6) and postgraduate (L7) level. 
 
 ## Other interests
-I am the Director of Aviation and Accountable Manager at [Wilthsire Air Ambulance](https://www.wiltshireairambulance.co.uk) and the Lead Examiner for the Diploma in Company Direction of the [Institute of Directors](www.iod.com). I provide consultancy services in the domains of helicopters, charities, strategic and financial planning.
+I am the Director of Aviation and Accountable Manager at [Wiltshire Air Ambulance](https://www.wiltshireairambulance.co.uk) and the Lead Examiner for the Diploma in Company Direction of the [Institute of Directors](https://www.iod.com). I provide consultancy services in the domains of helicopters, charities, strategic and financial planning.
