@@ -22,13 +22,13 @@ My interests span over four different streams, around the economics of:
 
 
 ## Teaching Responsibilities
-I teach several undergraduate modules in the _BSc_ programmes in _Economics_, _Business Economics_, _Economics, Banking and Finance_, and in the _BA Economics and Management_:
+I teach several undergraduate modules in the _BSc_ programmes in _Economics_; _Business Economics_; _Economics, Banking and Finance_, and in the _BA Economics and Management_:
 1. Issues in Finance and Banking
 2. Mathematics for Economists
 3. Economics of Money, Banking and Financial Markets
 4. International Banking and Financial Instruments
 
-I am the Senior Tutor for the Subject Group Economics and Finance, the Level 4 Year Tutor and a dissertation supervisor at undergraduate (L6) and postgraduate (L7) level. 
+I am the Senior Tutor for the Subject Group Economics and Finance, the Level 4 Year Tutor and a dissertation supervisor at undergraduate and postgraduate level. 
 
 ## Other interests
 I am the Director of Aviation and Accountable Manager at [Wiltshire Air Ambulance](https://www.wiltshireairambulance.co.uk) and the Lead Examiner for the Diploma in Company Direction of the [Institute of Directors](https://www.iod.com). I provide consultancy services in the domains of helicopters, charities, strategic and financial planning.
