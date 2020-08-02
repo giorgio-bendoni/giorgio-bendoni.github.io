@@ -4,7 +4,7 @@ title:
 subtitle: 
 ---
 
-# About me
+## About me
 
 I am a Senior Teaching Fellow affiliated to the Subject Group of Economics and Finance at the University of Portsmouth
 
