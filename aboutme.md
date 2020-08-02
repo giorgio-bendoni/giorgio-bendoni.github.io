@@ -6,9 +6,9 @@ subtitle:
 
 ## About me
 
-I am a Senior Teaching Fellow affiliated to the Subject Group of Economics and Finance at the University of Portsmouth
+I am a Senior Teaching Fellow affiliated to the Subject Group of Economics and Finance at the University of Portsmouth.
 
-I have had a long career in the Italian Navy (as a pilot and as a ship Captain) before moving into managerial positions within the Aviation and Marine Industry, the Technology sector and then into Academia and Charitable Organisations.
+I have had a long career in the Italian Navy (as a pilot and as a ship captain) before moving into managerial positions within the aviation and marine industry, the technology sector and then into academia and charitable organisations.
 
 I hold a MSc in Finance, MSc and BSc in Maritime Sciences; I graduated from the Italian Naval Academy, the Brasilian Naval War College, the Italian Armed Forces War College and the Italian Society of International Organisation. 
 
