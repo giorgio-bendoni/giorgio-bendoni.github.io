@@ -14,7 +14,7 @@ I hold a MSc in Finance, MSc and BSc in Maritime Sciences; I graduated from the 
 
 
 ## Research Interests
-My interests span over four different streams, around the economics of:
+My interests span over four different streams:
 1. productivity and economic growth;
 2. war, defence and security, and their understanding through the use of economic models and theories;
 3. charitable organisations;
