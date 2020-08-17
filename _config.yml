@@ -4,7 +4,7 @@
 title: Giorgio Bendoni
 
 # Short description of your site
-description: Note personali
+description: Personal website
 
 # Your name to show in the footer
 author: Giorgio Bendoni
@@ -13,12 +13,10 @@ author: Giorgio Bendoni
 
 navbar-links:
   About Me: "aboutme"
-  Teaching:
-    - Issues In Finance and Banking: "issues_in"
-    - Economics of Money, Banking and Financial Markets: "embfm"
-    - International Banking and Financial Instruments: "ibfi"
+  Teaching: "Teaching"
   LaTeX: "latex"
   Nuggets: "nuggets"
+  CV: "CV"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -91,7 +89,7 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#428bca"
+navbar-col: "#88def0"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
