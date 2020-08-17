@@ -9,12 +9,12 @@ title:
 this is a section about my teaching activities
 
 
-<h4 id="issues_in">Issues in Finance abd Banking</h4>
+<h4 id="issues_in">Issues in Finance and Banking</h4>
 <hr />
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce risus nunc, congue vitae condimentum et, laoreet commodo diam. Suspendisse imperdiet lectus et eros hendrerit, quis viverra ex ornare. Suspendisse porta lorem ac turpis lobortis pellentesque. Nam molestie magna ac urna ultricies, vitae tempus nisl commodo. In quis efficitur orci. Etiam elementum nisl quis nulla dignissim fringilla. Aenean blandit lorem a viverra facilisis. Aenean et erat non sem tempus viverra eu ut nibh. Sed molestie dui vitae commodo ultrices.
 
-<h4 id="embfm">Ecoomics of Money, Banking and Financial Markets</h4>
+<h4 id="embfm">Economics of Money, Banking and Financial Markets</h4>
 <hr />
 Vivamus interdum ex nulla, ut bibendum sem dictum non. Vestibulum convallis nibh ac consectetur suscipit. Fusce faucibus vestibulum nisi consectetur lacinia. Vivamus elit risus, pretium eu posuere ac, posuere vel metus. Aliquam erat volutpat. Quisque tellus felis, dictum vel turpis sagittis, porttitor malesuada nulla. Nunc quis elementum risus. Aenean volutpat lorem et dapibus pharetra. Etiam eget est odio. Nunc cursus orci in nisl venenatis, ac ullamcorper ipsum fringilla. Sed ac euismod tellus, et malesuada metus. Sed scelerisque porta nisl, sit amet iaculis dui tempor et. Curabitur varius augue nec erat molestie, non semper leo mattis. Vestibulum convallis metus eget pellentesque tincidunt. Vestibulum vitae est fringilla, bibendum mi nec, feugiat tortor.
 
