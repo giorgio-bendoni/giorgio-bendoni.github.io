@@ -6,7 +6,7 @@ title:
 <h3 id="About me">About me</h3>
 <hr />
 
-I am a [Senior Teaching Fellow](https://https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/giorgio-bendoni) affiliated to the Subject Group of Economics and Finance at the [University of Portsmouth](https://www.port.ac.uk).
+I am a [Senior Teaching Fellow](https://researchportal.port.ac.uk/portal/en/persons/giorgio-bendoni(f78fd62b-bcbd-478c-a975-3f155aef6504).html) affiliated to the Subject Group of Economics and Finance at the [University of Portsmouth](https://www.port.ac.uk).
 
 I have had a long career in the Italian Navy (as a pilot and as a ship captain) before moving into managerial positions within the aviation and marine industry, the technology sector and then into academia and charitable organisations.
 
