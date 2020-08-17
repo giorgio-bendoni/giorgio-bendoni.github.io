@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 
-subtitle: 
 ---
 
 <h3 id="About me">About me</h3>
