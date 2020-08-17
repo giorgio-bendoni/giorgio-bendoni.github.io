@@ -4,7 +4,8 @@ title:
 subtitle: 
 ---
 
-## About me
+<h3 id="About me">About me</h3>
+<hr />
 
 I am a [Senior Teaching Fellow](https://https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/giorgio-bendoni) affiliated to the Subject Group of Economics and Finance at the [University of Portsmouth](https://www.port.ac.uk).
 
@@ -13,7 +14,9 @@ I have had a long career in the Italian Navy (as a pilot and as a ship captain) 
 I hold a MSc in Finance, MSc and BSc in Maritime Sciences; I graduated from the Italian Naval Academy, the Brasilian Naval War College, the Italian Armed Forces War College and the Italian Society of International Organisation. 
 
 
-## Research Interests
+<h3 id="Research interestd">Research Interests</h3>
+<hr />
+
 My interests span over four different streams:
 1. productivity and economic growth;
 2. war, defence and security, and their understanding through the use of economic models and theories;
