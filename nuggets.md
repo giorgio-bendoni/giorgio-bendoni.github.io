@@ -1,5 +1,8 @@
 ---
 layout: page
-title: Nuggets
+title:
 ---
+
+<h3 id="nuggets">Nuggets</h3>
+<hr />
 This is a page dedicated to nuggets
