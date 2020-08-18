@@ -6,7 +6,6 @@ title:
 <h3 id="teaching">Teaching</h3>
 <hr />
 This section is dedicated to the subjects for which I have responsibility as the _Module Coordinator_
-
 <br><br>
 <h4 id="issues_in"><a href="https://register.port.ac.uk/ords/f?p=111:19:::NO::P19_UNIT_ID:1876085004">Issues in Finance and Banking - U25863</a></h4>
 <hr />
