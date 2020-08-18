@@ -29,7 +29,7 @@ title:
   + 3 Helicopter Sqn - Head of Operations 
   + ITS Garibaldi - Sqn Commanding Officer
 + Mercuri Urval - Senior Business consultant
-+ Helicopters Italia - Director Genereal
++ Helicopters Italia - Director General
 + Helitalia - Managing Director
 + Camper&Nicholsons Yachting - Managing Director
 + Sloane Helicopters - Director
