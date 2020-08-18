@@ -4,7 +4,7 @@ title:
 ---
 
 <h3 id="CV">Curriculum Vitae</h3>
-<hr />
+<hr /><br>
 <h4>Education</h4>
 <hr />
 + Maturita' classica - College, classical studies
@@ -17,7 +17,7 @@ title:
 + Istituto Superiore di Stato Maggiore Interforze - Italian MoD, Center for Defence Higher Studies
 + MSc Finance - University of Leicester
 + Diploma in Company Direction - Institute of Directors
-<br>
+<br><br>
 <h4>Professional experience</h4>
 <hr />
 + Italian Navy Commissioned Officer
@@ -36,7 +36,7 @@ title:
 + Institute of Directors - Lead Examiner
 + Wiltshire Air Ambulance - Director of Aviation / Accountable Manager
 + University of Portsmouth - Senior Teaching Fellow
-<br>
+<br><br>
 <h4>Other experiences</h4>
 <hr />
 + Hollybrook Primary - Governor
@@ -46,9 +46,9 @@ title:
 + Institute of Directors - Accreditation and Standards Committee - member
 + University of Portmsouth - Finance Committee - Staff representative
 + Civil Aviation Authority - Onshore Helicopter Safety Leadership Group - member
-<br>
+<br><br>
 <h4>Professional qualifications</h4>
 <hr />
 + Chartered Director (IoD)
-+ Helicopter Pilot (US Navy)
++ Helicopter pilot (US Navy)
 + Fixed wing pilot (US Navy)
