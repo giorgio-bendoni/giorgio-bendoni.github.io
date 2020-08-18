@@ -9,7 +9,7 @@ title:
 this is a section about my teaching activities
 
 
-<h4 id="issues_in">Issues in Finance and Banking - U25863</h4>
+<h4 id="issues_in">[Issues in Finance and Banking - U25863]()</h4>
 <hr />
 The purpose of this module is to provide first year students in the _BSc Economics, Finance and Banking_ with a first exposure to a selected number of _issues_ or topics of particular relevance to their course. The five _issues_ are:
 1. Money
@@ -19,9 +19,11 @@ The purpose of this module is to provide first year students in the _BSc Economi
 5. Risks and regulations 
 
 
-<h4 id="embfm">Economics of Money, Banking and Financial Markets</h4>
+<h4 id="embfm">[Economics of Money, Banking and Financial Markets - U25844](https://register.port.ac.uk/ords/f?p=111:19:::NO::P19_UNIT_ID:1854820903)</h4>
 <hr />
-Vivamus interdum ex nulla, ut bibendum sem dictum non. Vestibulum convallis nibh ac consectetur suscipit. Fusce faucibus vestibulum nisi consectetur lacinia. Vivamus elit risus, pretium eu posuere ac, posuere vel metus. Aliquam erat volutpat. Quisque tellus felis, dictum vel turpis sagittis, porttitor malesuada nulla. Nunc quis elementum risus. Aenean volutpat lorem et dapibus pharetra. Etiam eget est odio. Nunc cursus orci in nisl venenatis, ac ullamcorper ipsum fringilla. Sed ac euismod tellus, et malesuada metus. Sed scelerisque porta nisl, sit amet iaculis dui tempor et. Curabitur varius augue nec erat molestie, non semper leo mattis. Vestibulum convallis metus eget pellentesque tincidunt. Vestibulum vitae est fringilla, bibendum mi nec, feugiat tortor.
+This is a core module in the second year of the course _BSc Economics, Finance and Banking_ and an optional module for the other courses in Business, Economics and Management. The module is split in two streams:
+1. Banking and Financial Markets (FM) - 
+2. Central banks and Monetary Policy (MP) - 
 
 
 <h4 id="IBFI">International Banking and Financial Instruments</h4>
