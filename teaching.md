@@ -19,7 +19,7 @@ The purpose of this module is to provide first year students in the _BSc Economi
 5. Risks and regulations 
 
 
-<hr style="height:5px;color:gray" />
+<hr style="height:10px;color:gray" />
 
 <h4 id="embfm">Economics of Money, Banking and Financial Markets</h4>
 <hr />
