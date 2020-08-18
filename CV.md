@@ -7,7 +7,7 @@ title:
 <hr />
 
 <h4>Education</h4>
-+ Maturita' classica
++ Maturita' classica - College, classical studies
 + Accademia Navale - Italian Navy, Naval Academy
 + Corso Superiore di Stato Maggiore - Italian Navy, Staff Officer Course
 + Scuola Comando Navale - Italian Navy, Naval Command School
