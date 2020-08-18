@@ -15,7 +15,7 @@ title:
 + Laurea Magistrale in Scienze Marittime e Navali (MSc) - Universita' di Pisa
 + Curso de Comando e Estado Maior - Brasilian Navy, Naval War College
 + Istituto Superiore di Stato Maggiore Interforze - Italian MoD, Center for Defence Higher Studies
-+ MSc Finance, University of Leicester
++ MSc Finance - University of Leicester
 
 <h4>Professional experiences</h4>
 + Italian Navy Commissioned Officer
