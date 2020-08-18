@@ -17,8 +17,8 @@ The purpose of this module is to provide first year students in the _BSc Economi
 3. Financial markets and products
 4. Monetary systems
 5. Risks and regulations 
-<br>
 
+<br>
 <h4 id="embfm"><a href="https://register.port.ac.uk/ords/f?p=111:19:::NO::P19_UNIT_ID:1854820903">Economics of Money, Banking and Financial Markets - U25844 </a></h4>
 <hr />
 This is a core module in the second year of the course _BSc Economics, Finance and Banking_ and an optional module for the other courses in Business, Economics and Management. The module is split in two streams:
