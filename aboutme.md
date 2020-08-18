@@ -12,7 +12,6 @@ I have had a long career in the Italian Navy (as a pilot and as a ship captain) 
 
 I hold a MSc in Finance, MSc and BSc in Maritime Sciences; I graduated from the Italian Naval Academy, the Brasilian Naval War College, the Italian Armed Forces War College and the Italian Society of International Organisation. 
 
-
 <h3 id="Research interestd">Research Interests</h3>
 <hr />
 
@@ -21,6 +20,7 @@ My interests span over four different streams:
 2. war, defence and security, and their understanding through the use of economic models and theories;
 3. charitable organisations;
 4. aerospace and maritime industries.  
+
 
 <h3 id="Teaching Responsibilities">Teaching Responsibilities</h3>
 <hr />
@@ -31,6 +31,7 @@ I teach several undergraduate modules in the _BSc_ programmes in _Economics_; _B
 4. International Banking and Financial Instruments
 
 I am the Senior Tutor for the Subject Group Economics and Finance, the Level 4 Year Tutor and a dissertation supervisor at undergraduate and postgraduate level. 
+
 
 <h3 id="Other Interests">Other Interests</h3>
 <hr />
