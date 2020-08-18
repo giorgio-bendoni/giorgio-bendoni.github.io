@@ -6,7 +6,7 @@ title:
 <h3 id="CV">Curriculum Vitae</h3>
 <hr />
 
-### Education
+<h4>Education</h4>
 + Maturita' classica
 + Accademia Navale - Italian Navy, Naval Academy
 + Corso Superiore di Stato Maggiore - Italian Navy, Staff Officer Course
@@ -17,7 +17,7 @@ title:
 + Curso de Comando e Estado Maior - Brasilian Navy, Naval War College
 + Istituto Superiore di Stato Maggiore Interforze - Italian Ministry of Defence, Center for Defence Higher Studies
 
-### Professional experiences
+<h4>Professional experiences</h4>
 + Italian Navy Commissioned Officer
   + Patrol Vessel Mango - Commanding officer
   + ITS Grecale - Commanding officer
@@ -35,7 +35,7 @@ title:
 + Wiltshire Air Ambulance - Director of Aviation / Accountable Manager
 + University of Portsmouth - Senior Teaching Fellow
 
-### Professional qualificationa
+<h4>Professional qualifications</h4>
 + Chartered Director (IoD)
 + Helicopter Pilot (US Navy)
 + Fixed wing pilot (US Navy)
