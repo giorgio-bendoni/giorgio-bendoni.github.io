@@ -5,8 +5,7 @@ title:
 
 <h3 id="teaching">Teaching</h3>
 <hr />
-
-this is a section about my teaching activities
+This section is dedicated to the subjects for which I have responsibility as the _Module Coordinator_
 
 <br><br>
 <h4 id="issues_in">[Issues in Finance and Banking - U25863]()</h4>
@@ -26,4 +25,6 @@ This is a core module in the second year of the course _BSc Economics, Finance a
 <br><br>
 <h4 id="IBFI">International Banking and Financial Instruments</h4>
 <hr />
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce risus nunc, congue vitae condimentum et, laoreet commodo diam. Suspendisse imperdiet lectus et eros hendrerit, quis viverra ex ornare. Suspendisse porta lorem ac turpis lobortis pellentesque. Nam molestie magna ac urna ultricies, vitae tempus nisl commodo. In quis efficitur orci. Etiam elementum nisl quis nulla dignissim fringilla. Aenean blandit lorem a viverra facilisis. Aenean et erat non sem tempus viverra eu ut nibh. Sed molestie dui vitae commodo ultrices.
+This is a core module in the third year of the course _BSc Economics, Finance and Banking_ and an optional module for the other courses in Business, Economics and Management. The module is split in two streams:
+1. International Banking (IB) - 
+2. Financial Instruments (FI) - 
