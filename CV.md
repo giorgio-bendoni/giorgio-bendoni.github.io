@@ -13,9 +13,9 @@ title:
 + Scuola Comando Navale - Italian Navy, Naval Command School
 + Laurea in Scienze Marittime e Navali (BSc) - Universita' di Pisa
 + Laurea Magistrale in Scienze Marittime e Navali (MSc) - Universita' di Pisa
-+ MSc Finance, University of Leicester
 + Curso de Comando e Estado Maior - Brasilian Navy, Naval War College
-+ Istituto Superiore di Stato Maggiore Interforze - Italian Ministry of Defence, Center for Defence Higher Studies
++ Istituto Superiore di Stato Maggiore Interforze - Italian MoD, Center for Defence Higher Studies
++ MSc Finance, University of Leicester
 
 <h4>Professional experiences</h4>
 + Italian Navy Commissioned Officer
