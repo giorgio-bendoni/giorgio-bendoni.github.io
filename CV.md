@@ -5,7 +5,6 @@ title:
 
 <h3 id="CV">Curriculum Vitae</h3>
 <hr />
-<br>
 <h4>Education</h4>
 <hr />
 + Maturita' classica - College, classical studies
