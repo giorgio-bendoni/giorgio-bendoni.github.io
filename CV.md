@@ -7,6 +7,7 @@ title:
 <hr />
 
 <h4>Education</h4>
+<hr />
 + Maturita' classica - College, classical studies
 + Accademia Navale - Italian Navy, Naval Academy
 + Corso Superiore di Stato Maggiore - Italian Navy, Staff Officer Course
@@ -17,7 +18,8 @@ title:
 + Istituto Superiore di Stato Maggiore Interforze - Italian MoD, Center for Defence Higher Studies
 + MSc Finance - University of Leicester
 
-<h4>Professional experiences</h4>
+<h4>Professional experience</h4>
+<hr />
 + Italian Navy Commissioned Officer
   + Patrol Vessel Mango - Commanding officer
   + ITS Grecale - Commanding officer
@@ -29,13 +31,26 @@ title:
 + Mercuri Urval - Senior Business consultant
 + Helicopters Italia - Director Genereal
 + Helitalia - Managing Director
-+ Camper&Nicholsons - Managing Director
++ Camper&Nicholsons Yachting - Managing Director
 + Sloane Helicopters - Director
 + Institute of Directors - Lead Examiner
 + Wiltshire Air Ambulance - Director of Aviation / Accountable Manager
 + University of Portsmouth - Senior Teaching Fellow
 
+<h4>Other experiences</h4>
+<hr />
++ Hollybrook Primary - Governor
++ Richard Taunton Sixth Form College - Governor
++ Institute of Directors - Chairman of the Hampshire branch
++ Hampshire and IoW Business Alliance (HIBA) - Board member
++ Institute of Directors - Accreditation and Standards Committee - member
++ University of Portmsouth - Finance Committee - Staff representative
++ Civil Aviation Authority - Onshore Helicopter Safety Leadership Group - member
+
+
+
 <h4>Professional qualifications</h4>
+<hr />
 + Chartered Director (IoD)
 + Helicopter Pilot (US Navy)
 + Fixed wing pilot (US Navy)
