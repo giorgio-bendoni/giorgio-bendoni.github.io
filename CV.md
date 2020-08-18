@@ -22,7 +22,7 @@ title:
 <hr />
 + Italian Navy Commissioned Officer
   + Patrol Vessel Mango - Commanding officer
-  + ITS Grecale - Commanding officer
+  + <a href="https://en.wikipedia.org/wiki/Maestrale-class_frigate">ITS Grecale</a> - Commanding officer
   + 2 Corvette Sqn - Commanding Officer
   + Italian Navy MoD - Deputy director of Personnel
 + Italian Navy Pilot
