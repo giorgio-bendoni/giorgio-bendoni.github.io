@@ -2,7 +2,8 @@
 <h4>International Banking and Financial Instruments</h4>
 <hr />
 
-### Module overview
+<h5>Module overview</h5>
+<hr />
 This is a core module for Level 6 BSc (Econ)(Hons) Economics, Finance and Banking, C1826S. This is an optional module for Level 6:
 + BA (Hons) Economics and Management, C2413S
 + BA (Hons) European Business, C2275F
