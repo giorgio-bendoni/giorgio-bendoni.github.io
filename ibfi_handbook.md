@@ -1,5 +1,5 @@
 
-<h4>International Banking and Financial Instruments</h4>
+<h3>International Banking and Financial Instruments</h3>
 <hr />
 
 <h5>Module overview</h5>
