@@ -5,7 +5,7 @@
 
 <h5>Module overview</h5>
 <hr />
-This is a core module for Level 6 BSc (Hons) Economics, Finance and Banking, C1826S. This is an optional module for Level 6:
+This is a Level 6 core module for the course _BSc Economics, Finance and Banking_, C1826S. This is an optional module for Level 6:
 + BA Economics and Management, C2413S
 + BA European Business, C2275F
 + BSc Business Economics, C1823S
