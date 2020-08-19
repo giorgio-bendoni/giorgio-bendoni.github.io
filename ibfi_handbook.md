@@ -5,11 +5,11 @@
 
 <h5>Module overview</h5>
 <hr />
-This is a core module for Level 6 BSc (Econ)(Hons) Economics, Finance and Banking, C1826S. This is an optional module for Level 6:
+This is a core module for Level 6 BSc (Hons) Economics, Finance and Banking, C1826S. This is an optional module for Level 6:
 + BA (Hons) Economics and Management, C2413S
 + BA (Hons) European Business, C2275F
-+ BSc (Econ)(Hons) Business Economics, C1823S
-+ BSc (Econ)(Hons) Economics, C1824S
++ BSc (Hons) Business Economics, C1823S
++ BSc (Hons) Economics, C1824S
 <br>
 <h5>Aims</h5>
 <hr />
@@ -28,7 +28,7 @@ On successful completion of this module, students should be able, at threshold l
 <br>
 <h5>Teaching and planned activities</h5>
 <hr>
-The module is delivered via a combination of 24 lectures and 24 seminars over one term of 12 weeks. The programme is structured such that the two streams (International Banking [IB] and Financial Instruments [FI]) are delivered in parallel. 
+The module is delivered via a combination of 22 lectures and 22 seminars over one term of 1 weeks. The programme is structured such that the two streams (International Banking [IB] and Financial Instruments [FI]) are delivered in parallel. 
 Lectures concentrate on introducing concepts,theories, information and practices relevant to international banking and financial instruments.
 Seminars are structured to develop an understanding of the material introduced in the lectures, to offer opportunities for formative assessment in practicing techniques introduced in the lectures and to critically review contemporary issues.
 <br>
