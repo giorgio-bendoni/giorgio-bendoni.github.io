@@ -1,0 +1,77 @@
+﻿
+## International Banking and Financial Instruments
+
+
+### Module overview
+This is a core module for Level 6 BSc (Econ)(Hons) Economics, Finance and Banking, C1826S. This is an optional module for Level 6:
++ BA (Hons) Economics and Management, C2413S
++ BA (Hons) European Business, C2275F
++ BSc (Econ)(Hons) Business Economics, C1823S
++ BSc (Econ)(Hons) Economics, C1824S
+### Aims
+1. To outline the difficulties and opportunities of financial risk management and banking on an international scale.
+2. To investigate comparative institutional and policy approaches to the regulation of inter-national banking and financial markets.
+3. To provide an understanding of future, forwards, swaps and options markets.
+### Learning outcomes
+On successful completion of this module, students should be able, at threshold level, to:
+1. Show understanding of the functions and complexity of international banking and financial markets by addressing a realistic problem scenario.
+2. Organise and present appropriate data to frame a problem in the area of banking and finance and identify a solution.
+3. Show understanding of the issues surrounding the effective regulation of financial systems.
+4. Implement strategies involving financial derivatives in measurement and management of financial risk, hedging, speculation, and arbitrage.
+5. Critically evaluate and demonstrate knowledge of the empirical research literature in the area
+### Teaching and planned activities
+The module is delivered via a combination of 24 lectures and 24 seminars over one term of 12 weeks. The programme is structured such that the two streams (International Banking [IB] and Financial Instruments [FI]) are delivered in parallel. 
+Lectures concentrate on introducing concepts,theories, information and practices relevant to international banking and financial instruments.
+Seminars are structured to develop an understanding of the material introduced in the lectures, to offer opportunities for formative assessment in practicing techniques introduced in the lectures and to critically review contemporary issues.
+### Assessment
+#### Coursework 1 (IB) - 25%
+One 1,000-word individual essay that addresses all [Learning Outcomes]. Submission via Turnitin by tbd November 2020. 
+#### Coursework 2 (FI) - 25%
+One 1,000-word individual essay that addresses all [Learning Outcomes]. Submission via Turnitin by tbd December 2020.
+#### Coursework 3 (IB) - 10%
+One [30] questions online quiz that addresses LO 1 - 3.
+#### Coursework 4 (FI) - [25%]
+One [30] questions online quiz that addresses LO 2 - 4
+####  Coursework 5 (IB) - 15%
+One 800-word individual essay that addresses LO 3 - 5
+### Programme outline - TB1 - 2020
+#### International Banking
+|  Week  | Lecture                              | Seminar                              |
+|:------:|--------------------------------------|--------------------------|
+|  5 Oct | International banking                | What is banking          |
+| 12 Oct | IB services                          | International Banking    |
+| 19 Oct | Banking systems                      | IB services              |
+| 26 Oct | Central banking                      | Banking systems          |
+|  2 Nov | Country assessment                   | Central banking          |
+|  9 Nov | Consolidation week                   | Consolidation Week       |
+| 16 Nov | International Financial Architecture | Country assessment       |
+| 23 Nov | Regulation of banks                  | International Financial Architecture |
+| 30 Nov | Banking risks                        | Regulation of Banks      |
+|  7 Dec | Banking risks management I           | Banking risks            |
+|  4 Jan | Banking risks management II          | Banking risks management I|
+| 11 Jan | xxxxxxxx                             | Banking risks management II|
+| 18 Jan | Overview                             | Overview                 |
+
+#### Financial Instruments
+|  Week  | Lecture                              | Seminar                              |
+|:------:|--------------------------------------|--------------------------|
+|  5 Oct | Introduction                         | Introduction             |
+| 12 Oct | Interest rates, bonds                |     |
+| 19 Oct |                       |               |
+| 26 Oct |                       |           |
+|  2 Nov |                    |           |
+|  9 Nov | Consolidation week                   | Consolidation Week       |
+| 16 Nov |  |        |
+| 23 Nov |                   |  |
+| 30 Nov |                         |       |
+|  7 Dec |            |             |
+|  4 Jan |           | |
+| 11 Jan |                              | |
+| 18 Jan |                                      |                          |
+
+### Reading list
+1. Mishkin, F (2018). _The economics of Money Banking and Financial Markets_ (12th edition, Global Edition). Pearson
+2. Casu, B, Girardone, C, Molyneux, P. (2015). _Introduction to banking_ (2nd edition). Pearson
+3. Hull, J. (2016). _Fundamentals of futures and options markets_ (8th edition, global edition). Pearson
+4. Arnold, G. (2014). _FT Guide to Banking_. Pearson
+
