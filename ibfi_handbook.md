@@ -9,22 +9,27 @@ This is a core module for Level 6 BSc (Econ)(Hons) Economics, Finance and Bankin
 + BA (Hons) European Business, C2275F
 + BSc (Econ)(Hons) Business Economics, C1823S
 + BSc (Econ)(Hons) Economics, C1824S
-### Aims
+
+<h5>Aims</h5>
+<hr />
 1. To outline the difficulties and opportunities of financial risk management and banking on an international scale.
 2. To investigate comparative institutional and policy approaches to the regulation of inter-national banking and financial markets.
 3. To provide an understanding of future, forwards, swaps and options markets.
-### Learning outcomes
+
+<h5>Learning outcomes</h5>
 On successful completion of this module, students should be able, at threshold level, to:
 1. Show understanding of the functions and complexity of international banking and financial markets by addressing a realistic problem scenario.
 2. Organise and present appropriate data to frame a problem in the area of banking and finance and identify a solution.
 3. Show understanding of the issues surrounding the effective regulation of financial systems.
 4. Implement strategies involving financial derivatives in measurement and management of financial risk, hedging, speculation, and arbitrage.
 5. Critically evaluate and demonstrate knowledge of the empirical research literature in the area
-### Teaching and planned activities
+
+<h5>Teaching and planned activities</h5>
 The module is delivered via a combination of 24 lectures and 24 seminars over one term of 12 weeks. The programme is structured such that the two streams (International Banking [IB] and Financial Instruments [FI]) are delivered in parallel. 
 Lectures concentrate on introducing concepts,theories, information and practices relevant to international banking and financial instruments.
 Seminars are structured to develop an understanding of the material introduced in the lectures, to offer opportunities for formative assessment in practicing techniques introduced in the lectures and to critically review contemporary issues.
-### Assessment
+
+<h5>Assessment</h5>
 #### Coursework 1 (IB) - 25%
 One 1,000-word individual essay that addresses all [Learning Outcomes]. Submission via Turnitin by tbd November 2020. 
 #### Coursework 2 (FI) - 25%
@@ -35,8 +40,11 @@ One [30] questions online quiz that addresses LO 1 - 3.
 One [30] questions online quiz that addresses LO 2 - 4
 ####  Coursework 5 (IB) - 15%
 One 800-word individual essay that addresses LO 3 - 5
-### Programme outline - TB1 - 2020
-#### International Banking
+
+<h5>Programme outline - TB1 - 2020</h5>
+
+<h6>International Banking</h6>
+
 |  Week  | Lecture                              | Seminar                              |
 |:------:|--------------------------------------|--------------------------|
 |  5 Oct | International banking                | What is banking          |
@@ -53,7 +61,8 @@ One 800-word individual essay that addresses LO 3 - 5
 | 11 Jan | xxxxxxxx                             | Banking risks management II|
 | 18 Jan | Overview                             | Overview                 |
 
-#### Financial Instruments
+<h6>Financial Instruments</h6>
+
 |  Week  | Lecture                              | Seminar                              |
 |:------:|--------------------------------------|--------------------------|
 |  5 Oct | Introduction                         | Introduction             |
@@ -70,7 +79,7 @@ One 800-word individual essay that addresses LO 3 - 5
 | 11 Jan |                              | |
 | 18 Jan |                                      |                          |
 
-### Reading list
+<h5>Reading list</h5>
 1. Mishkin, F (2018). _The economics of Money Banking and Financial Markets_ (12th edition, Global Edition). Pearson
 2. Casu, B, Girardone, C, Molyneux, P. (2015). _Introduction to banking_ (2nd edition). Pearson
 3. Hull, J. (2016). _Fundamentals of futures and options markets_ (8th edition, global edition). Pearson
