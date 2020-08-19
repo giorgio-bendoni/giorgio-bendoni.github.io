@@ -28,41 +28,45 @@ On successful completion of this module, students should be able, at threshold l
 <br>
 <h5>Teaching and planned activities</h5>
 <hr>
-The module is delivered via a combination of 22 lectures and 22 seminars over one term of 1 weeks. The programme is structured such that the two streams (International Banking [IB] and Financial Instruments [FI]) are delivered in parallel. 
+The module is delivered via a combination of 22 lectures and 22 seminars over one term of 1 weeks. The programme is structured such that the two streams (International Banking [IB] and Financial Instruments [FI]) are delivered in parallel.
 Lectures concentrate on introducing concepts,theories, information and practices relevant to international banking and financial instruments.
 Seminars are structured to develop an understanding of the material introduced in the lectures, to offer opportunities for formative assessment in practicing techniques introduced in the lectures and to critically review contemporary issues.
 <br>
 <h5>Assessment</h5>
-#### Coursework 1 (IB) - 25%
-One 1,000-word individual essay that addresses all [Learning Outcomes]. Submission via Turnitin by tbd November 2020. 
-#### Coursework 2 (FI) - 25%
-One 1,000-word individual essay that addresses all [Learning Outcomes]. Submission via Turnitin by tbd December 2020.
-#### Coursework 3 (IB) - 10%
-One [30] questions online quiz that addresses LO 1 - 3.
-#### Coursework 4 (FI) - [25%]
-One [30] questions online quiz that addresses LO 2 - 4
-####  Coursework 5 (IB) - 15%
-One 800-word individual essay that addresses LO 3 - 5
+Coursework 1 (IB) - 25%
+: One 1,000-word individual essay that addresses all [Learning Outcomes]. Submission via Turnitin by tbd November 2020.
+
+Coursework 2 (FI) - 25%
+: One 1,000-word individual essay that addresses all [Learning Outcomes]. Submission via Turnitin by tbd December 2020.
+
+Coursework 3 (IB) - 10%
+: One [30] questions online quiz that addresses LO 1 - 3.
+
+Coursework 4 (FI) - [25%]
+: One [30] questions online quiz that addresses LO 2 - 4
+
+Coursework 5 (IB) - 15%
+: One 800-word individual essay that addresses LO 3 - 5
 
 <h5>Programme outline - TB1 - 2020</h5>
 
 <h6>International Banking</h6>
 
 |  Week  | Lecture                              | Seminar                              |
-|:------:|--------------------------------------|--------------------------|
-|  5 Oct | International banking                | What is banking          |
-| 12 Oct | IB services                          | International Banking    |
-| 19 Oct | Banking systems                      | IB services              |
-| 26 Oct | Central banking                      | Banking systems          |
-|  2 Nov | Country assessment                   | Central banking          |
-|  9 Nov | Consolidation week                   | Consolidation Week       |
-| 16 Nov | International Financial Architecture | Country assessment       |
-| 23 Nov | Regulation of banks                  | International Financial Architecture |
-| 30 Nov | Banking risks                        | Regulation of Banks      |
-|  7 Dec | Banking risks management I           | Banking risks            |
-|  4 Jan | Banking risks management II          | Banking risks management I|
-| 11 Jan | xxxxxxxx                             | Banking risks management II|
-| 18 Jan | Overview                             | Overview                 |
+|:------:|--------------------------------------|--------------------------------------|
+| 12 Oct | International banking                | What is banking                      |
+| 19 Oct | IB services                          | International Banking                |
+| 26 Oct | Banking systems                      | IB services                          |
+|  2 Nov | Central banking                      | Banking systems                      |
+|  9 Nov | Consolidation week                   | Consolidation week                   |
+| 16 Nov | Country assessment                   | Central banking                      |
+| 23 Nov | International Financial Architecture | Country assessment                   |
+| 30 Nov | Regulation of banks                  | International Financial Architecture |
+|  7 Dec | Banking risks                        | Regulation of Banks                  |
+|  4 Jan | Banking risks management I           | Banking risks                        |
+| 11 Jan | Banking risks management II          | Banking risks management I           |
+| 18 Jan | Overview                             | Banking risks management II          |
+
 
 <br>
 <h6>Financial Instruments</h6>
@@ -90,4 +94,3 @@ One 800-word individual essay that addresses LO 3 - 5
 2. Casu, B, Girardone, C, Molyneux, P. (2015). _Introduction to banking_ (2nd edition). Pearson
 3. Hull, J. (2016). _Fundamentals of futures and options markets_ (8th edition, global edition). Pearson
 4. Arnold, G. (2014). _FT Guide to Banking_. Pearson
-
