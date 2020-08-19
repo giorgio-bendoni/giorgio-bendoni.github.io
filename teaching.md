@@ -24,6 +24,6 @@ This is a core module in the second year of the course _BSc Economics, Finance a
 <br><br>
 <h4 id="ibfi"><a href="https://register.port.ac.uk/ords/f?p=111:19:::NO::P19_UNIT_ID:1854881974">International Banking and Financial Instruments - U25842</a></h4>
 <hr />
-This is a core module in the third year of the course _BSc Economics, Finance and Banking_ and an optional module for the other courses in Business, Economics and Management. The module is split in two streams:
+This is a core [module](ibfi_handbook.md) in the third year of the course _BSc Economics, Finance and Banking_ and an optional module for the other courses in Business, Economics and Management. The module is split in two streams:
 1. International Banking (IB) - 
 2. Financial Instruments (FI) - 
