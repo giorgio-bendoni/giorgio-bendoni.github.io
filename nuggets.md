@@ -14,6 +14,12 @@ graph LR
   A-->B;
 </div>
 <br><br>
+
+<div class="mermaid">
+graph TD
+  A-->B;
+</div>
+<br><br>
 <div class="mermaid">
 pie title NETFLIX;
          "Time spent looking for movie" : 90
