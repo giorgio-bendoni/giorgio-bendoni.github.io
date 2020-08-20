@@ -12,3 +12,8 @@ graph LR;
   A-->B;
 </div>
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
+<div class="mermaid">
+pie title NETFLIX
+         "Time spent looking for movie" : 90
+         "Time spent watching it" : 10
+</div>  
