@@ -31,7 +31,7 @@ title:
 + Mercuri Urval - Senior Business consultant
 + Helicopters Italia - Director General
 + Helitalia - Managing Director
-+ Camper&Nicholsons Yachting - Managing Director
++ Camper & Nicholsons Yachting - Managing Director
 + Sloane Helicopters - Director
 + Institute of Directors - Lead Examiner
 + Wiltshire Air Ambulance - Director of Aviation / Accountable Manager
@@ -45,7 +45,6 @@ title:
 + Hampshire and IoW Business Alliance (HIBA) - Board member
 + Institute of Directors - Accreditation and Standards Committee - member
 + University of Portmsouth - Finance Committee - Staff representative
-+ Civil Aviation Authority - Onshore Helicopter Safety Leadership Group - member
 <br><br>
 <h4>Professional qualifications</h4>
 <hr />
