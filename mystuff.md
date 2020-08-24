@@ -9,9 +9,9 @@ My IT set up includes the following:
 + OS: macOS Mojave
 + External drives: iomega 500GB - Samsung SSD 500GB
 + Webcam: Logitech C920
-+ Microphone: Rodecaster
++ Microphone: Rode Podcaster
 + Monitors: 2 x HP Pavilinon 23xi
-+ Graphic Table: Wacom One
++ Graphic tablet: Wacom One
 + Speakers: 
 
 <h5>Workstation 2</h5>
