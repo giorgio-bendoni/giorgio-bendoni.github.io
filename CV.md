@@ -15,6 +15,7 @@ title:
 + Laurea Magistrale in Scienze Marittime e Navali (MSc) - Universita' di Pisa
 + Curso de Comando e Estado Maior - Brasilian Navy, Naval War College
 + Istituto Superiore di Stato Maggiore Interforze - Italian MoD, Center for Defence Higher Studies
++ <a href="https://www.sioi.org/en/">Societa' Italiana per l'Organizzazione Internazionale</a> - Italian Society for International Organisations
 + MSc Finance - University of Leicester
 + Diploma in Company Direction - Institute of Directors
 <br><br>
