@@ -24,8 +24,8 @@ title:
   + <a href="http://www.naviearmatori.net/ita/foto-57817-4.html">Patrol Vessel Mango</a> - Commanding officer
   + <a href="https://www.marina.difesa.it/EN/thefleet/home/Pagine/grecale.aspx">ITS Grecale</a> - Commanding officer
   + <a href="https://en.wikipedia.org/wiki/Minerva-class_corvette">2 Corvette Sqn</a> - Commanding Officer
-  + Italian Navy MoD - Deputy director of Personnel
-+ Italian Navy Pilot
+  + <a href="https://www.marina.difesa.it/EN/history/Pagine/PalazzodellaMarina.aspx">Italian Navy MoD</a> - Deputy director of Personnel
++ <a href="https://www.marina.difesa.it/EN/thefleet/airfleet/Pagine/default.aspx">Italian Navy</a> Pilot
   + <a hef="https://www.marina.difesa.it/EN/thefleet/home/Pagine/grecale.aspx">3 Helicopter Sqn</a> - Head of Operations 
   + <a href="https://en.wikipedia.org/wiki/Italian_aircraft_carrier_Giuseppe_Garibaldi">ITS Garibaldi</a> - Sqn Commanding Officer
 + Mercuri Urval - Senior Business consultant
