@@ -29,3 +29,5 @@ graph TD
   C-->|Two|E[iPhone]
   C-->|Three|F[Car]
 </div>
+
+This is the <a href="/mystuff.md">stuff</a> that I use
