@@ -20,7 +20,7 @@ My interests span over four different streams:
 2. war, defence and security, and their understanding through the use of economic models and theories;
 3. charitable organisations;
 4. aerospace and maritime industries.  
-
+<br>
 
 <h3 id="Teaching Responsibilities">Teaching Responsibilities</h3>
 <hr />
