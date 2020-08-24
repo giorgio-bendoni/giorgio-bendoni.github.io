@@ -17,7 +17,7 @@ title:
 + <a href="http://www.difesa.it/EN/SMD/CASD/MI/ISSMI/Pagine/default.aspx">Istituto Superiore di Stato Maggiore Interforze</a> - Joint Services Staff College, Center for Defence Higher Studies
 + <a href="https://www.sioi.org/en/">Societa' Italiana per l'Organizzazione Internazionale</a> - Italian Society for International Organisations
 + MSc Finance - <a href="https://le.ac.uk/">University of Leicester</a>
-+ Diploma in Company Direction - Institute of Directors
++ <a href="https://www.iod.com/training/qualifications/diploma">Diploma in Company Direction</a> - Institute of Directors
 <br><br>
 <h4>Professional experience</h4>
 <hr />
