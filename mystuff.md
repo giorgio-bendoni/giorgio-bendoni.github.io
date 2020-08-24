@@ -29,6 +29,7 @@ My IT set up includes the following:
 + Studio monitors:
 
 <h4>Software</h4>
+<hr />
 + Productivity
   + TeXMaker
   + Evernote
