@@ -20,22 +20,22 @@ title:
 <br><br>
 <h4>Professional experience</h4>
 <hr />
-+ Italian Navy Commissioned Officer
-  + Patrol Vessel Mango - Commanding officer
-  + <a href="https://en.wikipedia.org/wiki/Maestrale-class_frigate">ITS Grecale</a> - Commanding officer
-  + 2 Corvette Sqn - Commanding Officer
++ <a href="https://www.marina.difesa.it/en/Pagine/default.aspx">Italian Navy</a> Commissioned Officer
+  + <a href="http://www.naviearmatori.net/ita/foto-57817-4.html">Patrol Vessel Mango</a> - Commanding officer
+  + <a href="https://www.marina.difesa.it/EN/thefleet/home/Pagine/grecale.aspx">ITS Grecale</a> - Commanding officer
+  + <a href="https://en.wikipedia.org/wiki/Minerva-class_corvette">2 Corvette Sqn</a> - Commanding Officer
   + Italian Navy MoD - Deputy director of Personnel
 + Italian Navy Pilot
-  + 3 Helicopter Sqn - Head of Operations 
-  + ITS Garibaldi - Sqn Commanding Officer
+  + <a hef="https://www.marina.difesa.it/EN/thefleet/home/Pagine/grecale.aspx">3 Helicopter Sqn</a> - Head of Operations 
+  + <a href="https://en.wikipedia.org/wiki/Italian_aircraft_carrier_Giuseppe_Garibaldi">ITS Garibaldi</a> - Sqn Commanding Officer
 + Mercuri Urval - Senior Business consultant
-+ Helicopters Italia - Director General
++ <a href="https://www.helicoptersitalia.it/en/">Helicopters Italia</a> - Director General
 + Helitalia - Managing Director
-+ Camper & Nicholsons Yachting - Managing Director
-+ Sloane Helicopters - Director
-+ Institute of Directors - Lead Examiner
-+ Wiltshire Air Ambulance - Director of Aviation / Accountable Manager
-+ University of Portsmouth - Senior Teaching Fellow
++ <a href="https://www.cnyachting.com/">Camper & Nicholsons Yachting</a> - Managing Director
++ <a href="https://www.sloanehelicopters.com/">Sloane Helicopters</a> - Director
++ <a href="https://www.iod.com/">Institute of Directors</a> - Lead Examiner
++ <a href="https://www.wiltshireairambulance.co.uk/">Wiltshire Air Ambulance</a> - Director of Aviation / Accountable Manager
++ <a href="https://www.port.ac.uk/">University of Portsmouth</a> - Senior Teaching Fellow
 <br><br>
 <h4>Other experiences</h4>
 <hr />
