@@ -30,4 +30,4 @@ graph TD
   C-->|Three|F[Car]
 </div>
 
-This is the <a href="/mystuff.md">stuff</a> that I use
+This is the [stuff](mystuff.md) that I use
