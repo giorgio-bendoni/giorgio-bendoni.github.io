@@ -10,7 +10,7 @@ I am a [Senior Teaching Fellow](https://researchportal.port.ac.uk/portal/en/pers
 
 I have had a long career in the Italian Navy (as a pilot and as a ship captain) before moving into managerial positions within the aviation and marine industry, the technology sector and then into academia and charitable organisations.
 
-I hold a MSc in Finance, MSc and BSc in Maritime Sciences; I graduated from the Italian Naval Academy, the Brasilian Naval War College, the Italian Armed Forces War College and the Italian Society of International Organisation. 
+I hold a MSc in Finance, MSc and BSc in Maritime Sciences; I graduated from the Italian Naval Academy, the Brasilian Naval War College, the Italian Joint Service Staff College and the Italian Society of International Organisation. 
 
 <h3 id="Research interestd">Research Interests</h3>
 <hr />
