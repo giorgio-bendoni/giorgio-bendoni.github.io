@@ -9,14 +9,18 @@ title:
 <hr />
 + Maturita' classica - College, classical studies
 + <a href="https://en.wikipedia.org/wiki/Italian_Naval_Academy">Accademia Navale</a> - Italian Navy, Naval Academy
-+ Corso Superiore di Stato Maggiore - Italian Navy, Staff Officer Course
-+ Scuola Comando Navale - Italian Navy, Naval Command School
 + Laurea in Scienze Marittime e Navali (BSc) - <a href="https://en.wikipedia.org/wiki/University_of_Pisa">Universita' di Pisa</a>
 + Laurea Magistrale in Scienze Marittime e Navali (MSc) - Universita' di Pisa
-+ Curso de Comando e Estado Maior - <a href="https://www.marinha.mil.br/egn/">Escola de Guerra Naval</a>, Marinha do Brasil   
++ MSc Finance - <a href="https://le.ac.uk/">University of Leicester</a>
+<br><br>
+<h4>Professional education</h4>
+<hr />
++ Corso Superiore di Stato Maggiore - Italian Navy, Staff Officer Course
++ Naval Air Training - <a href="https://www.cnatra.navy.mil/tw5/">Training Air Wing Five</a>, <a href="https://www.cnatra.navy.mil/tw4/">Training Air Wing Four</a>, US Navy  
++ Scuola Comando Navale - Italian Navy, Naval Command School
++ Curso de Comando e Estado Maior - <a href="https://www.marinha.mil.br/egn/">Escola de Guerra Naval</a>, Marinha do Brasil
 + <a href="http://www.difesa.it/EN/SMD/CASD/MI/ISSMI/Pagine/default.aspx">Istituto Superiore di Stato Maggiore Interforze</a> - Joint Services Staff College, Center for Defence Higher Studies
 + <a href="https://www.sioi.org/en/">Societa' Italiana per l'Organizzazione Internazionale</a> - Italian Society for International Organisations
-+ MSc Finance - <a href="https://le.ac.uk/">University of Leicester</a>
 + <a href="https://www.iod.com/training/qualifications/diploma">Diploma in Company Direction</a> - Institute of Directors
 <br><br>
 <h4>Professional experience</h4>
@@ -47,7 +51,6 @@ title:
 + Institute of Directors - Accreditation and Standards Committee - member
 + University of Portmsouth - Finance Committee - Staff representative
 <br><br>
-<h4>Professional qualifications</h4>
 <hr />
 + Chartered Director (IoD)
 + Helicopter pilot (US Navy)
