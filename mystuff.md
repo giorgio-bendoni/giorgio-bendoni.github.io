@@ -1,7 +1,3 @@
----
-layout: page
-title: 
----
 
 My IT set up includes the following:
 
