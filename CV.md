@@ -8,15 +8,15 @@ title:
 <h4>Education</h4>
 <hr />
 + Maturita' classica - College, classical studies
-+ Accademia Navale - Italian Navy, Naval Academy
++ <a href="https://en.wikipedia.org/wiki/Italian_Naval_Academy">Accademia Navale</a> - Italian Navy, Naval Academy
 + Corso Superiore di Stato Maggiore - Italian Navy, Staff Officer Course
 + Scuola Comando Navale - Italian Navy, Naval Command School
-+ Laurea in Scienze Marittime e Navali (BSc) - Universita' di Pisa
++ Laurea in Scienze Marittime e Navali (BSc) - <a href="https://en.wikipedia.org/wiki/University_of_Pisa">Universita' di Pisa</a>
 + Laurea Magistrale in Scienze Marittime e Navali (MSc) - Universita' di Pisa
-+ Curso de Comando e Estado Maior - Brasilian Navy, Naval War College
-+ Istituto Superiore di Stato Maggiore Interforze - Italian MoD, Center for Defence Higher Studies
++ Curso de Comando e Estado Maior - <a href="https://www.marinha.mil.br/egn/">Escola de Guerra Naval</a>, Marinha do Brasil   
++ <a href="http://www.difesa.it/EN/SMD/CASD/MI/ISSMI/Pagine/default.aspx">Istituto Superiore di Stato Maggiore Interforze</a> - Joint Services Staff College, Center for Defence Higher Studies
 + <a href="https://www.sioi.org/en/">Societa' Italiana per l'Organizzazione Internazionale</a> - Italian Society for International Organisations
-+ MSc Finance - University of Leicester
++ MSc Finance - <a href="https://le.ac.uk/">University of Leicester</a>
 + Diploma in Company Direction - Institute of Directors
 <br><br>
 <h4>Professional experience</h4>
