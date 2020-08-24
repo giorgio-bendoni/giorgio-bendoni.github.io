@@ -10,7 +10,7 @@ My IT set up includes the following:
 + External drives: iomega 500GB - Samsung SSD 500GB
 + Webcam: Logitech C920
 + Microphone: Rode Podcaster
-+ Monitors: 2 x HP Pavilinon 23xi
++ Monitors: 2 x HP Pavilion 23xi
 + Graphic tablet: Wacom One
 + Speakers: 
 
@@ -33,6 +33,7 @@ My IT set up includes the following:
   + G suite
   + Github
   + Atom
+  + Pandoc
 + Graphics/HTML
   + Inkscape
   + GIMP
@@ -47,7 +48,7 @@ My IT set up includes the following:
   + Garageband
 + Video conferecing
   + zoom
-  + Cisco webex
+  + Cisco Webex
   + Google Meets
 + Data analysis
   + RStudio
