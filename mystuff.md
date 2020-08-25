@@ -7,19 +7,19 @@ My IT set up includes the following:
 <h5>Wokstation 1</h5>
 + Mac Pro 5.1 - 2 x 3.33 GHz 6-Core Intel Xeon - 32GB
 + OS: macOS Mojave
-+ Internal drives: SSD 500GB - 500GB SATA - AMD Radeon R9 280X 3GB
-+ External drives: iomega 500GB - Samsung SSD 500GB
++ Int. drives: Samsung SSD 850 EVO 500GB - 500GB SATA 
++ Ext. drives: iomega 500GB - Samsung SSD 500GB
++ GPU: AMD Radeon R9 280X 3GB
 + Monitors: 2 x HP Pavilion 23xi
 + Webcam: Logitech C920
 + Microphone: Rode Podcaster
 + Graphic tablet: Wacom One
-+ Speakers: 
 
 <h5>Workstation 2</h5>
 + HP Pavilion 500 - AMD 8-5500 - 32GB 
-+ OS: Linux Mint
++ OS: Windows 10
 + Inernal drive: 1TB SATA
-+ Monitor: Samsung curved 24"
++ Monitor: Samsung 24
 
 <h5>Music station</h5>
 + Keyboard/Midi controller: Alesis Recital
@@ -33,6 +33,7 @@ My IT set up includes the following:
   + Evernote
   + Dropbox
   + G suite
+  + Office 365
   + Github
   + Atom
   + Pandoc
@@ -41,14 +42,14 @@ My IT set up includes the following:
   + GIMP
   + Imagemagick
   + Bluegriffon
-+ Video
++ Screen capturing / Video editing
   + OBS Studio
   + Shotcut
   + Panopto
 + DAW
   + Audacity
   + Garageband
-+ Video conferecing
++ Video conferencing
   + zoom
   + Cisco Webex
   + Google Meets
