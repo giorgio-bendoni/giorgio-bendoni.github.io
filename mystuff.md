@@ -4,7 +4,7 @@ My IT set up includes the following:
 <h3>Hardware</h3>
 <hr />
 
-<h4>Wokstation 1</h4>
+<h4>Workstation 1</h4>
 + Mac Pro 5.1 - 2 x 3.33 GHz 6-Core Intel Xeon - 32GB
 + OS: macOS Mojave
 + Int. drives: Samsung SSD 850 EVO 500GB - 500GB SATA 
@@ -15,20 +15,20 @@ My IT set up includes the following:
 + Microphone: Rode Podcaster
 + Graphic tablet: Wacom One
 
-<h6> Workstation 2</h6>
+<h4> Workstation 2</h4>
 + HP Pavilion 500 - AMD 8-5500 - 32GB 
 + OS: Windows 10
 + Inernal drive: 1TB SATA
 + Monitor: Samsung 24
 
-<h6>Music station</h6>
+<h4>Music station</h4>
 + Keyboard/Midi controller: Alesis Recital
 + Synth: Yamaha CS2x
 + Studio monitors:
 
-<h4>Software</h4>
+<h3>Software</h3>
 <hr />
-+ Productivity
+<h4>Productivity</h4>
   + TeXMaker
   + Evernote
   + Dropbox
@@ -37,23 +37,23 @@ My IT set up includes the following:
   + Github
   + Atom
   + Pandoc
-+ Graphics/HTML
+<h4>Graphics/HTML</h4>
   + Inkscape
   + GIMP
   + Imagemagick
   + Bluegriffon
-+ Screen capturing / Video editing
+<h4>Screen capturing / Video editing</h4>
   + OBS Studio
   + Shotcut
   + Panopto
-+ DAW
+<h4>DAW</h4>
   + Audacity
   + Garageband
-+ Video conferencing
+<h4>Video conferencing</h4>
   + zoom
   + Cisco Webex
   + Google Meets
-+ Data analysis
+<h4>Data analysis</h4>
   + RStudio
   + Minitab
   + Python
