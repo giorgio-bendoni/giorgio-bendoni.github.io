@@ -1,10 +1,10 @@
 
 My IT set up includes the following:
 
-<h4>Hardware</h4>
+<h3>Hardware</h3>
 <hr />
 
-<h6>Wokstation 1</h6>
+<h4>Wokstation 1</h4>
 + Mac Pro 5.1 - 2 x 3.33 GHz 6-Core Intel Xeon - 32GB
 + OS: macOS Mojave
 + Int. drives: Samsung SSD 850 EVO 500GB - 500GB SATA 
