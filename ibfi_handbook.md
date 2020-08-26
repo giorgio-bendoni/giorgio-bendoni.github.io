@@ -4,7 +4,8 @@
 <h3>International Banking and Financial Instruments</h3>
 <hr />
 <br>
-This is a very popular module at Level 6 due to the breadth of topics and the connections to current issues in international banking management and operations. In short, the essence of international banking is about (1) operating across jurisdictions (legal, legislative, regulatory) and (2) facing exposure to a variety of risks: country and sovereign, exchange and interest rate, operational. In the stream International Banking (IB) we will briefly review the basic functioning of a bank to then explore the opportunities and challenges of international operations. The exposure to the relevant, deriving risks will require the introduciton of mitigating measures; they will constitute the core of the stream Financial Instruments (FI), in which we will introduce, discuss and apply swaps, options, forward and futures to realistic scenarios.        
+This is a very popular module at Level 6 due to the breadth of topics and the connections to current issues in international banking management and operations.
+In short, the essence of international banking is about (1) operating across jurisdictions (legal, legislative, regulatory) and (2) facing exposure to a variety of risks: country and sovereign, exchange and interest rate, operational. In the stream International Banking (IB) we will briefly review the basic functioning of a bank to then explore the opportunities and challenges of international operations. The exposure to the relevant, deriving risks will require the introduction of mitigating measures; they will constitute the core of the stream Financial Instruments (FI), in which we will introduce, discuss and apply swaps, options, forward and futures to realistic scenarios.        
 <h5>Module overview</h5>
 <hr />
 This is a Level 6 core module for the course _BSc Economics, Finance and Banking_, C1826S. This is an optional module for Level 6:
@@ -27,13 +28,13 @@ On successful completion of this module, students should be able, at threshold l
 3. Show understanding of the issues surrounding the effective regulation of financial systems.
 4. Implement strategies involving financial derivatives in measurement and management of financial risk, hedging, speculation, and arbitrage.
 5. Critically evaluate and demonstrate knowledge of the empirical research literature in the area
-<br>
+<br><br>
 <h5>Teaching and planned activities</h5>
 <hr>
 The module is delivered via a combination of 22 lectures and 22 seminars over one term of 1 weeks. The programme is structured such that the two streams (International Banking [IB] and Financial Instruments [FI]) are delivered in parallel.
 Lectures concentrate on introducing concepts,theories, information and practices relevant to international banking and financial instruments.
 Seminars are structured to develop an understanding of the material introduced in the lectures, to offer opportunities for formative assessment in practicing techniques introduced in the lectures and to critically review contemporary issues.
-<br>
+<br><br>
 <h5>Assessment</h5>
 
 Coursework 1 (IB) - 25%
@@ -51,6 +52,7 @@ Coursework 4 (FI) - [25%]
 Coursework 5 (IB) - 15%
 : One 800-word individual essay that addresses LO 3 - 5
 
+<br><br>
 <h5>Programme outline - TB1 - 2020</h5>
 
 <h6>International Banking</h6>
@@ -69,7 +71,6 @@ Coursework 5 (IB) - 15%
 |  4 Jan | Banking risks management I           | Banking risks                        |
 | 11 Jan | Banking risks management II          | Banking risks management I           |
 | 18 Jan | Overview                             | Banking risks management II          |
-
 
 <br>
 <h6>Financial Instruments</h6>
