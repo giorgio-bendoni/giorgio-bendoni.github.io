@@ -4,7 +4,7 @@
 <h3>International Banking and Financial Instruments</h3>
 <hr />
 <br>
-This is a very popular module at Level 6 due to the breadth of topics and the connections to current issues in international banking management and operations. In short, the essence of international banking is about operating across jurisdictions (legal, legislative, regulatory) and facing exposure to a variety of risks: country and sovereign risk, exchange and interest rate risk, operational risk. In the stream International Banking (IB) we will briefly review the basic funcitoning of a bank to then explore the opportunities and challenges of international operations.       
+This is a very popular module at Level 6 due to the breadth of topics and the connections to current issues in international banking management and operations. In short, the essence of international banking is about (1) operating across jurisdictions (legal, legislative, regulatory) and (2) facing exposure to a variety of risks: country and sovereign, exchange and interest rate, operational. In the stream International Banking (IB) we will briefly review the basic functioning of a bank to then explore the opportunities and challenges of international operations. The exposure to the relevant, deriving risks will require the introduciton of mitigating measures; they will constitute the core of the stream Financial Instruments (FI), in which we will introduce, discuss and apply swaps, options, forward and futures to realistic scenarios.        
 <h5>Module overview</h5>
 <hr />
 This is a Level 6 core module for the course _BSc Economics, Finance and Banking_, C1826S. This is an optional module for Level 6:
@@ -12,13 +12,13 @@ This is a Level 6 core module for the course _BSc Economics, Finance and Banking
 + BA European Business, C2275F
 + BSc Business Economics, C1823S
 + BSc Economics, C1824S
-<br>
+<br><br>
 <h5>Aims</h5>
 <hr />
 1. To outline the difficulties and opportunities of financial risk management and banking on an international scale.
 2. To investigate comparative institutional and policy approaches to the regulation of inter-national banking and financial markets.
 3. To provide an understanding of future, forwards, swaps and options markets.
-<br>
+<br><br>
 <h5>Learning outcomes</h5>
 <hr>
 On successful completion of this module, students should be able, at threshold level, to:
