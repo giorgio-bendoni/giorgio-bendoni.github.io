@@ -1,8 +1,10 @@
+---
+---
 
 <h3>International Banking and Financial Instruments</h3>
 <hr />
 <br>
-
+This is a very popular module at Level 6 due to the breadth of topics and the connections to current issues in international banking management and operations. In short, the essence of international banking is about operating across jurisdictions (legal, legislative, regulatory) and facing exposure to a variety of risks: country and sovereign risk, exchange and interest rate risk, operational risk. In the stream International Banking (IB) we will briefly review the basic funcitoning of a bank to then explore the opportunities and challenges of international operations.       
 <h5>Module overview</h5>
 <hr />
 This is a Level 6 core module for the course _BSc Economics, Finance and Banking_, C1826S. This is an optional module for Level 6:
