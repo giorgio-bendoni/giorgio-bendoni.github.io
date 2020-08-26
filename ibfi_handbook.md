@@ -5,6 +5,7 @@
 <hr />
 <br>
 This is a very popular module at Level 6 due to the breadth of topics and the connections to current issues in international banking management and operations.
+
 In short, the essence of international banking is about (1) operating across jurisdictions (legal, legislative, regulatory) and (2) facing exposure to a variety of risks: country and sovereign, exchange and interest rate, operational. In the stream International Banking (IB) we will briefly review the basic functioning of a bank to then explore the opportunities and challenges of international operations. The exposure to the relevant, deriving risks will require the introduction of mitigating measures; they will constitute the core of the stream Financial Instruments (FI), in which we will introduce, discuss and apply swaps, options, forward and futures to realistic scenarios.        
 <h5>Module overview</h5>
 <hr />
@@ -31,9 +32,9 @@ On successful completion of this module, students should be able, at threshold l
 <br><br>
 <h5>Teaching and planned activities</h5>
 <hr>
-The module is delivered via a combination of 22 lectures and 22 seminars over one term of 1 weeks. The programme is structured such that the two streams (International Banking [IB] and Financial Instruments [FI]) are delivered in parallel.
-Lectures concentrate on introducing concepts,theories, information and practices relevant to international banking and financial instruments.
-Seminars are structured to develop an understanding of the material introduced in the lectures, to offer opportunities for formative assessment in practicing techniques introduced in the lectures and to critically review contemporary issues.
+The module is delivered via a combination of 22 lectures and 22 seminars over one term of 1 weeks. The programme is structured such that the two streams (International Banking [IB] and Financial Instruments [FI]) are delivered in parallel.<br>
+**Lectures** concentrate on introducing concepts,theories, information and practices relevant to international banking and financial instruments.<br>
+**Seminars** are structured to develop an understanding of the material introduced in the lectures, to offer opportunities for formative assessment in practicing techniques introduced in the lectures and to critically review contemporary issues.
 <br><br>
 <h5>Assessment</h5>
 
