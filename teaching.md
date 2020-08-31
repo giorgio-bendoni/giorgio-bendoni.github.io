@@ -26,4 +26,15 @@ This is a core module in the second year of the course _BSc Economics, Finance a
 <hr />
 This is a core [module](ibfi_handbook.md) in the third year of the course _BSc Economics, Finance and Banking_ and an optional module for the other courses in Business, Economics and Management. The module is split in two streams:
 1. International Banking (IB) - Banking at international level, risks and risks management, central banks and monetary systems, international financial system and regulations, international banking systems 
-2. Financial Instruments (FI) - Interest rates, bonds, foreign exchange, international parities, futures, options, swaps 
+2. Financial Instruments (FI) - Interest rates, bonds, foreign exchange, international parities, futures, options, swaps
+<br><br>
+<h4 id="ibfi"><a href="https://register.port.ac.uk/ords/f?p=111:19:::NO::P19_UNIT_ID:1876183235">Economics Research Project - U30871</a></h4>
+<h4 />
+This a core module in the third year of the courses _BSc Economics_, _BSc Economics, Finance and Banking_, and _BA Economisc and Management_. This is a very demanding, year long project. I will be happy to supervise econometrics dissertations or policy reports in on eof the following broad areas:
++ war, security, defence, terrorism, arms trade
++ charitable organisations
++ space, aviation and maritime industries
++ transport
++ silver economy
+
+Please contact me to discuss your ideas and to see whether I could adequately support you
