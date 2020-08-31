@@ -37,6 +37,7 @@ I am the Senior Tutor for the Subject Group Economics and Finance, the Level 4 Y
 The Economics Research Project is the final year dissertation project that can take the form of:
 1. Econometrics research
 2. Policy report
+
 I will be more than happy to provide supervision on topics related to: war, defence and security; charitable organisations; aviation, space and maritime industry; transport; silver economy. Please contact me to discuss your ideas and to see whether I could adequately support you.    
 
 
