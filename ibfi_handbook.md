@@ -77,18 +77,17 @@ Coursework 5 (IB) - 15%
 
 |  Week  | Lecture                              | Seminar                              |
 |:------:|--------------------------------------|--------------------------|
-|  5 Oct | Introduction                         | Introduction             |
-| 12 Oct | Interest rates, bonds                |     |
-| 19 Oct |                       |               |
-| 26 Oct |                       |           |
-|  2 Nov |                    |           |
-|  9 Nov | Consolidation week                   | Consolidation Week       |
-| 16 Nov |  |        |
-| 23 Nov |                   |  |
-| 30 Nov |                         |       |
-|  7 Dec |            |             |
-|  4 Jan |           | |
-| 11 Jan |                              | |
+| 12 Oct | Introduction                         | Introduction             |
+| 19 Oct | Interest rates, bonds                |     |
+| 26 Oct |                       |               |
+|  2 Nov |                       |           |
+|  9 Nov |                    |           |
+| 16 Nov | Consolidation week                   | Consolidation Week       |
+| 23 Nov |  |        |
+| 30 Nov |                   |  |
+|  7 Dec |                         |       |
+|  4 Jan |            |             |
+| 11 Jan |           | |
 | 18 Jan |                                      |                          |
 
 <br>
