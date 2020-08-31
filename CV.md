@@ -51,6 +51,7 @@ title:
 + Institute of Directors - Accreditation and Standards Committee - member
 + University of Portmsouth - Finance Committee - Staff representative
 <br><br>
+<h4>Professional qualifications</h4>
 <hr />
 + Chartered Director (IoD)
 + Helicopter pilot (US Navy)
