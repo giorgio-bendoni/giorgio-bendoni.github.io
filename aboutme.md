@@ -17,7 +17,7 @@ I hold a MSc in Finance, MSc and BSc in Maritime Sciences; I graduated from the 
 
 My interests span over four different streams:
 1. productivity and economic growth;
-2. war, defence and security, and their understanding through the use of economic models and theories;
+2. war, defence and security, and their understanding and intepretation through the use of economic models and theories;
 3. charitable organisations;
 4. aerospace and maritime industries.  
 <br>
@@ -30,7 +30,14 @@ I teach several undergraduate modules in the _BSc_ programmes in _Economics_; _B
 3. Economics of Money, Banking and Financial Markets
 4. International Banking and Financial Instruments
 
-I am the Senior Tutor for the Subject Group Economics and Finance, the Level 4 Year Tutor and a dissertation supervisor at undergraduate and postgraduate level. 
+I am the Senior Tutor for the Subject Group Economics and Finance, the Level 4 Year Tutor and a dissertation supervisor at undergraduate and postgraduate level.
+
+<h3 id="Economics Research Project">Supervision for the Economics Research Project</h3>
+<hr />
+The Economics Research Project is the final year dissertation project that can take the form of:
+1. Econometrics research
+2. Policy report
+I will be more than happy to provide supervision on topics related to: war, defence and security; charitable organisations; aviation, space and maritime industry; transport; silver economy. Please contact me to discuss your ideas and to see whether I could adequately support you.    
 
 
 <h3 id="Other Interests">Other Interests</h3>
