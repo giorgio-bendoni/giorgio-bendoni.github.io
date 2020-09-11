@@ -9,11 +9,12 @@ This is a page dedicated to nuggets
 
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
 
-
+<center>
 <div class="mermaid">
 graph LR
   A-->B;
 </div>
+</center>  
 <br><br>
 
 <div class="mermaid">
