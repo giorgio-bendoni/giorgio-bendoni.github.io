@@ -7,7 +7,8 @@ title:
 <hr />
 This is a page dedicated to nuggets
 
-<script src="/js/mermaid.full.mon.js"></script>
+<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
+
 
 <div class="mermaid">
 graph LR
