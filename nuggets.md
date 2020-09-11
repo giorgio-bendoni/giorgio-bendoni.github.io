@@ -22,7 +22,7 @@ graph TD
 </div>
 <br><br>
 
-<div>
+<div class="mermaid">
 graph TD
   A[Christmas]-->|Get money|B[Go shopping]
   B-->C[Let me think]
