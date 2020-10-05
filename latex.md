@@ -42,17 +42,18 @@ Kopka and Daly (2004) is a very good resource as the overview it provides is at 
 
 <h3>On-line resources on LaTeX</h3>
 There are literally thousands of on-line resources. 
-+ The TeX Users Group: www.tug.org
-+ The Comprehensive TeX Archive Network: https://ctan.org/ (web)
-+ The not so short introduction to LaTeX2ε (pdf)
-+ The LaTeX primer (pdf)
-+ LaTeX2ε for authors (pdf)
-+ LaTeX2ε for authors (TeX)
-+ LaTeX for Beginners (pdf)
-+ The LaTeX wikibook (web)
-+ An introduction to using LaTeX (web)
-+ Beamer
-+ The Beamer Class User Guide (pdf)
-+ Graphics
-+ Jacques Cremer : A very minimal introduction on TikZ
-+ Generating PDF with animations in LaTeX
++ The TeX Users Group: [www.tug.org](www.tug.org)
++ The Comprehensive TeX Archive Network: [https://ctan.org/](https:://ctan.org/)
++ [The LaTeX project](https://www.latex-project.org/)
++ [The not so short introduction to LaTeX2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) (pdf)
++ [The LaTeX primer](https://www.tug.org/twg/mactex/tutorials/ltxprimer-1.0.pdf) (pdf)
++ [LaTeX2ε for authors](https://www.latex-project.org/help/documentation/usrguide.pdf) (pdf)
++ [LaTeX for Beginners](http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf) (pdf)
++ [The LaTeX wikibook](https://en.wikibooks.org/wiki/LaTeX) (web)
+
+<h3>Beamer</h3>
++ [The Beamer Class User Guide](http://tug.ctan.org/macros/latex/contrib/beamer/doc/beameruserguide.pdf) (pdf)
+
+<h3>Graphics</h3>
++ [Jacques Cremer : A very minimal introduction on TikZ](http://cremeronline.com/LaTeX/minimaltikz.pdf) (pdf)
+
