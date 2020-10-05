@@ -26,6 +26,7 @@ My IT set up includes the following:
 + Synth: Yamaha CS2x
 + Mixer: Alesis iMultiMix 8 USB
 + Studio monitors: PreSonus Eris E3.5
++ Headset monitor: Sennheiser HD280 Pro
 
 <h3>Software</h3>
 <hr />
