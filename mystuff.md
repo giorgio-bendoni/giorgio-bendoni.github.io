@@ -10,7 +10,7 @@ My IT set up includes the following:
 + Int. drives: Samsung SSD 850 EVO 500GB + 500GB SATA 
 + Ext. drives: Samsung SSD T5 500GB + iomega 500GB
 + GPU: AMD Radeon R9 280X 3GB
-+ Monitors: 2 x HP Pavilion 23xi
++ Monitors: 3 x HP Pavilion 23xi
 + Webcam: Logitech C920
 + Microphone: Rode Podcaster
 + Graphic tablet: Wacom One
@@ -24,7 +24,8 @@ My IT set up includes the following:
 <h4>Music station</h4>
 + Keyboard/Midi controller: Alesis Recital
 + Synth: Yamaha CS2x
-+ Studio monitors:
++ Mixer: Alesis iMultiMix 8 USB
++ Studio monitors: PreSonus Eris E3.5
 
 <h3>Software</h3>
 <hr />
