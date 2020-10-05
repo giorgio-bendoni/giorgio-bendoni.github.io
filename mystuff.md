@@ -21,7 +21,7 @@ My IT set up includes the following:
 + Int. drive: 1TB SATA
 + Monitor: Samsung 24
 
-<h4>Music/audio station</h4>
+<h4>Music / audio station</h4>
 + Keyboard/Midi controller: Alesis Recital
 + Synth: Yamaha CS2x
 + Microphone: Rode Podcaster
