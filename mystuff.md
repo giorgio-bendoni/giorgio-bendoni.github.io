@@ -66,6 +66,6 @@ My IT set up includes the following:
   + Minitab
   + Python
 <h4>Various</h4>
-  + Browser: Chrome / TOR
+  + Browser: Chrome / Brave / TOR
   + Mind maps: Inspiration
   + Math visualization: Desmos
