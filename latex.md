@@ -9,7 +9,7 @@ title:
 
 Why should we use LaTeX instead of other word processing packages that are available (some of them free-of-charge) on most operating systems? Well, it is very geeky indeed to use a sophisticated and relatively obscure (to the many) typesetting coding language to prepare a basic one-page document. However, and more seriously, those word processing packages fall short of coping with the higher level of complexities present in scientific documents. A very good perspective is presented by Marko Pinteric from whose website the following picture is taken:
 
-<p class=""aligncenter">
+<p class="aligncenter">
 <img src="/images/latex_vs_word.gif" alt="" width="400">
 </p>
 
