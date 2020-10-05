@@ -36,6 +36,7 @@ My IT set up includes the following:
   + Dropbox
   + Github
   + TeXMaker
+  + Overleaf
   + Atom
   + Macdown
   + G suite
@@ -64,3 +65,7 @@ My IT set up includes the following:
   + RStudio
   + Minitab
   + Python
+<h4>Various</4>
+  + Browser: Chrome / TOR
+  + Mind maps: Inspiration
+  + Math visualization: Desmos
