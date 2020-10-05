@@ -9,6 +9,8 @@ title:
 
 Why should we use LaTeX instead of other word processing packages that are available (some of them free-of-charge) on most operating systems? Well, it is very geeky indeed to use a sophisticated and relatively obscure (to the many) typesetting coding language to prepare a basic one-page document. However, and more seriously, those word processing packages fall short of coping with the higher level of complexities present in scientific documents. A very good perspective is presented by Marko Pinteric from whose website the following picture is taken:
 
+<img src="/images/latex_vs_word.gif" alt="" width="200"/>
+
 ![latex_vs_word](/images/latex_vs_word.gif =150x)
 
 Word processors assume WYSIWYG to be the foremost advantage in terms of easiness of use but, in reality, it distracts the author from the key activity of composing text to the ancillary task of making typographical choices (margins, fonts, layout, to mention a few). This is well explained by Allin Cottrell in his "Word processors: stupid and inefficient".  
