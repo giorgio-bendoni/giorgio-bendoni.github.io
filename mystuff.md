@@ -14,6 +14,7 @@ My IT set up includes the following:
 + Webcam: Logitech C920
 + Microphone: Rode Podcaster
 + Graphic tablet: Wacom One
++ Comms: Microsoft LifeChat LX-3000
 
 <h4> Workstation 2</h4>
 + HP Pavilion 500 - AMD 8-5500 - 32GB 
