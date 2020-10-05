@@ -38,13 +38,14 @@ My IT set up includes the following:
   + G suite
   + Office 365
   + Pandoc
-<h4>Graphics/HTML</h4>
+<h4>Graphics</h4>
   + Inkscape
   + GIMP
   + Imagemagick
 <h4>HTML</h4> 
   + Bluegriffon
   + Dreamweaver
+  + Slides
 <h4>Screen capturing / Video editing</h4>
   + OBS Studio
   + Panopto
