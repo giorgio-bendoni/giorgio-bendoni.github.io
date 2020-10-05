@@ -24,9 +24,9 @@ My IT set up includes the following:
 <h4>Music/audio station</h4>
 + Keyboard/Midi controller: Alesis Recital
 + Synth: Yamaha CS2x
++ Microphone: Rode Podcaster
 + Mixer: Alesis iMultiMix 8 USB
 + Studio monitors: PreSonus Eris E3.5
-+ Microphone: Rode Podcaster
 + Headset monitor: Sennheiser HD280 Pro
 
 <h3>Software</h3>
