@@ -5,7 +5,7 @@ title:
 <h3 id="latex">LaTeX</h3>
 <hr />
 
-"LaTeX is a document preparation system for high-quality typesetting. It is most often used for medium-to-large technical or scientific documents but it can be used for almost any form of publishing" [www.latex-project.org](https://www.latex-project.org/about/).
+"LaTeX is a document preparation system for high-quality typesetting. It is most often used for medium-to-large technical or scientific documents but it can be used for almost any form of publishing" [(www.latex-project.org)](https://www.latex-project.org/about/).
 
 Why should we use LaTeX instead of other word processing packages that are available (some of them free-of-charge) on most operating systems? Well, it is very geeky indeed to use a sophisticated and relatively obscure (to the many) typesetting coding language to prepare a basic one-page document. However, and more seriously, those word processing packages fall short of coping with the higher level of complexities present in scientific documents. A very good perspective is presented by Marko Pinteric from whose website the following picture is taken:
 
