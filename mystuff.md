@@ -65,7 +65,3 @@ My IT set up includes the following:
   + RStudio
   + Minitab
   + Python
-<h4>Various</h4>
-  + Browser: Chrome / Brave / TOR
-  + Mind maps: Inspiration
-  + Math visualization: Desmos
