@@ -14,7 +14,7 @@ The purpose of this module is to provide first year students in the _BSc Economi
 2. Banks
 3. Financial markets and products
 4. Monetary systems
-5. Risks and regulations 
+5. Inflation
 <br><br>
 <h4 id="embfm"><a href="https://register.port.ac.uk/ords/f?p=111:19:::NO::P19_UNIT_ID:1854820903">Economics of Money, Banking and Financial Markets - U25844 </a></h4>
 <hr />
