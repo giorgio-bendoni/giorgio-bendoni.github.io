@@ -12,7 +12,6 @@ My IT set up includes the following:
 + GPU: AMD Radeon R9 280X 3GB
 + Monitors: 3 x HP Pavilion 23xi
 + Webcam: Logitech C920
-+ Microphone: Rode Podcaster
 + Graphic tablet: Wacom One
 + Comms: Microsoft LifeChat LX-3000
 
@@ -22,11 +21,12 @@ My IT set up includes the following:
 + Int. drive: 1TB SATA
 + Monitor: Samsung 24
 
-<h4>Music station</h4>
+<h4>Music/audio station</h4>
 + Keyboard/Midi controller: Alesis Recital
 + Synth: Yamaha CS2x
 + Mixer: Alesis iMultiMix 8 USB
 + Studio monitors: PreSonus Eris E3.5
++ Microphone: Rode Podcaster
 + Headset monitor: Sennheiser HD280 Pro
 
 <h3>Software</h3>
