@@ -37,6 +37,7 @@ My IT set up includes the following:
   + Github
   + TeXMaker
   + Atom
+  + Macdown
   + G suite
   + Office 365
   + Pandoc
