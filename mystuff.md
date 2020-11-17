@@ -40,6 +40,7 @@ My IT set up includes the following:
   + Overleaf
   + Atom
   + Macdown
+  + StackEdit
   + G suite
   + Office 365
   + Pandoc
@@ -50,7 +51,7 @@ My IT set up includes the following:
 <h4>HTML</h4> 
   + Bluegriffon
   + Dreamweaver
-  + Slides
+  + [Slides](slides.com)
 <h4>Screen capturing / Video editing</h4>
   + OBS Studio
   + Panopto
