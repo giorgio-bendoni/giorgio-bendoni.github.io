@@ -51,7 +51,7 @@ My IT set up includes the following:
 <h4>HTML</h4> 
   + Bluegriffon
   + Dreamweaver
-  + [Slides](https://www.slides.com)
+  + Slides
 <h4>Screen capturing / Video editing</h4>
   + OBS Studio
   + Panopto
