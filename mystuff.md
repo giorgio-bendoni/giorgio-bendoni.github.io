@@ -64,6 +64,7 @@ My IT set up includes the following:
   + zoom
   + Cisco Webex
   + Google Meets
+  + Jitsi
 <h4>Data analysis</h4>
   + RStudio
   + Minitab
