@@ -38,6 +38,7 @@ My IT set up includes the following:
   + Github
   + TeXMaker
   + Overleaf
+  + Scrivener
   + Atom
   + Macdown
   + StackEdit
