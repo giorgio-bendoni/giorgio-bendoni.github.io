@@ -11,6 +11,7 @@ My IT set up includes the following:
 + Ext. dr.: Samsung SSD T5 500GB + iomega 500GB
 + GPU: AMD Radeon R9 280X 3GB
 + Monitors: 3 x HP Pavilion 23xi
++ Monitors: 2 x iPad 2nd generation
 + Webcam: Logitech C920
 + Graphic tablet: Wacom One
 + Comms: Microsoft LifeChat LX-3000
