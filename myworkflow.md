@@ -9,4 +9,14 @@ while in the phase of creating content.
 
 As such, my written documents are produced in Markdown, to be then converted, as necessary, in html or pdf.
 
+## Collection of information
 
+Evernote and Zotero
+
+## Document drafting
+
+Any md editor (but also any text editor)
+
+## Presentations
+
+Either Html or LAtex/Beamer
