@@ -20,9 +20,11 @@ classDef className fill:#f9f,stroke:#333,stroke-width:4px;
 </div>
 </center>
 
-
-
-
+<div>
+graph LR
+    A:::someclass --> B
+    classDef someclass fill:#f96;
+</div>
 
 
 My approach follows two principles:
