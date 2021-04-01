@@ -41,6 +41,7 @@ There are two processes to consider:
 + collection and organisation of information and data
 + production of the documents, to include the drafting, editing and preparation for distribution
 
+<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
 
 <div class="mermaid">
 graph LR
