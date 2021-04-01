@@ -24,7 +24,7 @@ graph LR
 <div class="mermaid">
 graph LR
     A:::someclass --> B
-    classDef someclass fill:#f96;
+    classDef someclass fill:#f96
 </div>
 
 
