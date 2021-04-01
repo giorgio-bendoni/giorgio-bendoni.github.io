@@ -35,7 +35,7 @@ graph LR
 <div class="mermaid">
 graph LR
     A --> B
-  style A fill:#06f,stroke:#333,stroke-width:2px
+  style A fill:#0066ff,stroke:#9900ff,stroke-width:2px
 </div>
 
 
