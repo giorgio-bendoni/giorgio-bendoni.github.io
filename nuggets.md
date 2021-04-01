@@ -41,7 +41,7 @@ pie title NETFLIX
 
 This is the [stuff](mystuff.md) that I use
 
-<br></br>
+<br>
 
 This is my [workflow](myworkflow.md)
 
