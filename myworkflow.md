@@ -12,13 +12,14 @@ There are two processes to consider:
 <center>
 <div class="mermaid">
 graph LR
-  A[Collection of data/information]:::className-->B[Organisation]
+  A[Collection of data/information]-->B[Organisation]
   B-->C[Drafting]
   C-->D[Editing]
   D-->E[Distribution]
-classDef className fill:#f9f,stroke:#333,stroke-width:4px;
 </div>
 </center>
+
+<br>
 
 <div>
 graph LR
