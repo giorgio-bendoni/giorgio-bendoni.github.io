@@ -22,7 +22,7 @@ graph LR
 <div class="mermaid">
 graph LR
   A[Collection of data/information]-->B[Organisation] -->C[Retrieval]
-style A,B,C fill:#06f,stroke:#333,stroke-width:4px 
+style A fill:#06f,stroke:#333,stroke-width:4px 
 
 </div>
 </center>
