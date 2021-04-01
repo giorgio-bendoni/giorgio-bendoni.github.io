@@ -42,8 +42,10 @@ pie title NETFLIX
 <br><br>
 
 
+
+
 <div class="mermaid">
-graph LR
+graph TD
   A[Collection of data/information]-->B[Organisation]
   B-->C[Drafting]
   C-->D[Editing]
