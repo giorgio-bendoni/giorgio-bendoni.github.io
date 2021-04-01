@@ -21,8 +21,11 @@ Evernote and Zotero
 
 ## Document drafting
 
-Any md editor (but also any text editor)
+Most of my written work starts as a markdown file and it is produced through a text editor (such as Vim or Atom) or a Markdown editor, such as MacDown (downlaodable on your Mac and run as a local application) or StackEdit (cloud based editor, whose basic account allows downloads as Markdown or HTML files).
+
+
+
 
 ## Presentations
 
-Either Html or LAtex/Beamer
+Either Html or Latex/Beamer
