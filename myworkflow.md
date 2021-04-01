@@ -1,6 +1,5 @@
 <body>
-<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
- classDef className fill:#f9f,stroke:#333,stroke-width:4px; 
+<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script> 
 </body>
 
 I am always looking at new ways to produce and organise my output, which mainly consists of documents (reports, lectures, or presentations) in which I insert diagrams, tables and images.
@@ -17,6 +16,7 @@ graph LR
   B-->C[Drafting]
   C-->D[Editing]
   D-->E[Distribution]
+classDef className fill:#f9f,stroke:#333,stroke-width:4px;
 </div>
 </center>
 
