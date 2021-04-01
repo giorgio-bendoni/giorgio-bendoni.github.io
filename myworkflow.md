@@ -1,7 +1,7 @@
-
-
-
-
+<body>
+<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
+ classDef className fill:#f9f,stroke:#333,stroke-width:4px; 
+</body>
 
 I am always looking at new ways to produce and organise my output, which mainly consists of documents (reports, lectures, or presentations) in which I insert diagrams, tables and images.
 
@@ -9,16 +9,14 @@ There are two processes to consider:
 1. collection and organisation of information and data
 2. production of the documents, to include the drafting, editing and preparation for distribution
 
-<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
-
 
 <center>
 <div class="mermaid">
-graph TD
-  A[Collection of data/information]-->B[Organisation]
+graph LR
+  A:::className[Collection of data/information]-->B[Organisation]
   B-->C[Drafting]
   C-->D[Editing]
-  D-->E[Distribution];
+  D-->E[Distribution]
 </div>
 </center>
 
