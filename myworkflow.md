@@ -23,7 +23,8 @@ graph LR
 <center>
 <div class="mermaid">
 graph LR
-  A[Collection of data/information]-->B[Organisation]-->C[Retrieval]
+  A[Collection of data/information]-->B[Organisation]
+  B-->C[Retrieval]
 </div>
 </center>
 
@@ -35,7 +36,7 @@ graph LR
 <div class="mermaid">
 graph LR
     A --> B
-  style A fill:#0066ff,stroke:#9900ff,stroke-width:2px
+  style A fill:#f9f,stroke:#333,stroke-width:2px
 </div>
 
 
