@@ -13,9 +13,9 @@ There are two processes to consider:
     graph LR
     A[Collection]-->B[Organisation]
     B-->C[Retrieval]
-    style A fill:#3cf,stroke:#3cf,stroke-width:2px
-    style B fill:#3cf,stroke:#3cf,stroke-width:2px
-    style C fill:#3cf,stroke:#3cf,stroke-width:2px
+    style A fill:#3cf,stroke:#000,stroke-width:1px
+    style B fill:#3cf,stroke:#000,stroke-width:1px
+    style C fill:#3cf,stroke:#000,stroke-width:1px
     </div>
     </center>
 
@@ -26,24 +26,15 @@ There are two processes to consider:
     graph LR
     A[Drafting] --> B[Editing]
     B --> C[Distribution]
-    style A fill:#3cf,stroke:#3cf,stroke-width:2px
-    style B fill:#3cf,stroke:#3cf,stroke-width:2px
-    style C fill:#3cf,stroke:#3cf,stroke-width:2px
+    style A fill:#3cf,stroke:#000,stroke-width:1px
+    style B fill:#3cf,stroke:#000,stroke-width:1px
+    style C fill:#3cf,stroke:#000,stroke-width:1px
     </div>
     </center>
 
 
 
 
-
-
-<br>
-
-<div class="mermaid">
-graph LR
-    A --> B
-  style A fill:#3ff,stroke:#30f,stroke-width:2px
-</div>
 
 
 My approach follows a few key principles:
