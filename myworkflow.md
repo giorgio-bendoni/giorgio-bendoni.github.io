@@ -7,13 +7,13 @@ I am always looking at new ways to produce and organise my output, which mainly 
 There are two processes to consider:
 
 1. Data and information
-<center>
-<div class="mermaid">
-graph LR
-  A[Collection of data/information]-->B[Organisation]
-  B-->C[Retrieval]
-</div>
-</center>
+    <center>
+    <div class="mermaid">
+    graph LR
+    A[Collection of data/information]-->B[Organisation]
+    B-->C[Retrieval]
+    </div>
+    </center>
 
 2. Documents
 
