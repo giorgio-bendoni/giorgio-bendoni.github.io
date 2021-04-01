@@ -39,6 +39,18 @@ pie title NETFLIX
   "Time spent watching it" : 10
 </div>
 
+<br><br>
+
+<center>
+<div class="mermaid">
+graph LR
+  A[Collection of data/information]-->B[Organisation]-->C[Drafting]-->D[Editing]-->E[Distribution]
+</div>
+</center>
+
+
+
+
 This is the [stuff](mystuff.md) that I use
 
 <br>
