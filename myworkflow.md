@@ -7,26 +7,25 @@ I am always looking at new ways to produce and organise my output, which mainly 
 There are two processes to consider:
 
 1. Data and information
-    <br>
     <center>
+    <br>
     <div class="mermaid">
     graph LR
     A[Collection]-->B[Organisation]
     B-->C[Retrieval]
     </div>
     </center>
-<br>
-2. Documents
-<bf>
-<center>
-<div class="mermaid">
-graph LR
-  A[Drafting] --> B[Editing]
-  B --> C[Distribution]
-</div>
-</center>
 
-<br>
+2. Documents
+    <center>
+    <br>
+    <div class="mermaid">
+    graph LR
+    A[Drafting] --> B[Editing]
+    B --> C[Distribution]
+    </div>
+    </center>
+
 
 <center>
 <div class="mermaid">
@@ -44,7 +43,7 @@ graph LR
 <div class="mermaid">
 graph LR
     A --> B
-  style A fill:#3ff,stroke:#333,stroke-width:2px
+  style A fill:#3ff,stroke:#30f,stroke-width:2px
 </div>
 
 
