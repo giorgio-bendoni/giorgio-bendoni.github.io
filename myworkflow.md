@@ -1,11 +1,10 @@
----
-layout: page
----
+I am always looking at new ways to produce and organise my output, which mainly consists of documents (reports, lectures, or presentations) in which I insert diagrams, tables and images.
+
+There are two processes to consider:
++ collection and organisation of information and data
++ production of the documents, to include the drafting, editing and preparation for distribution
 
 
-# My work flow
-
-I am always looking at new ways to produce and irganise my output.
 
 My key principle is that we tend to produce output (a report, an essay, an article) accepting the constraint that it has to fit into and A4 sheet to be printed and read in that shape, even if the great majority of documents are no longer being printed and are read of screen that do not meet the A4 standards.
 
