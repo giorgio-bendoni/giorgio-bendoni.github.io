@@ -13,7 +13,7 @@ There are two processes to consider:
 <center>
 <div class="mermaid">
 graph LR
-  A:::className[Collection of data/information]-->B[Organisation]
+  A[Collection of data/information]:::className-->B[Organisation]
   B-->C[Drafting]
   C-->D[Editing]
   D-->E[Distribution]
