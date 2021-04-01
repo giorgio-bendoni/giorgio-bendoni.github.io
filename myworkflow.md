@@ -1,4 +1,10 @@
-<h1> My work flow</h1>
+---
+layout: page
+title: My Work flow
+---
+
+
+# My work flow
 
 I am always looking at new ways to produce and irganise my output.
 
