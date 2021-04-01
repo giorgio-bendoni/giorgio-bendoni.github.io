@@ -11,10 +11,10 @@ There are two processes to consider:
 <center>
 <div class="mermaid">
 graph LR
-  A[Collection of data/information]-->B[Organisation]
-  B-->C[Drafting]
-  C-->D[Editing]
-  D-->E[Distribution]
+  A[Collection of data/information] --> B[Organisation]
+  B --> C[Drafting]
+  C --> D[Editing]
+  D --> E[Distribution]
 </div>
 </center>
 
