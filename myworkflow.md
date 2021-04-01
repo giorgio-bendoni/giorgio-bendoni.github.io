@@ -11,6 +11,22 @@ There are two processes to consider:
 
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
 
+
+<center>
+<div class="mermaid">
+graph TD
+  A[Collection of data/information]-->B[Organisation]
+  B-->C[Drafting]
+  C-->D[Editing]
+  D-->E[Distribution];
+</div>
+</center>
+
+
+
+
+
+
 My approach follows two principles:
 1. To be able to collect and organise information and data from various devices (mobile phone, tablet, PC) to a single cloud based repository. This allows me to collect content from newspapers, journals, websites, ebooks, social media, independently from the device that I am using and to retrieve it from a single location
 2. To rely on open source software. I find that the most common SW packages (Adobe, MS, Apple, Google) steer the focus of the attention away from the content toward its form.  
