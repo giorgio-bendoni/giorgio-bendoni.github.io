@@ -13,6 +13,9 @@ There are two processes to consider:
     graph LR
     A[Collection]-->B[Organisation]
     B-->C[Retrieval]
+    style A fill:#3ff,stroke:#30f,stroke-width:2px
+    style B fill:#3ff,stroke:#30f,stroke-width:2px
+    style C fill:#3ff,stroke:#30f,stroke-width:2px
     </div>
     </center>
 
@@ -23,17 +26,13 @@ There are two processes to consider:
     graph LR
     A[Drafting] --> B[Editing]
     B --> C[Distribution]
+    style A fill:#3ff,stroke:#30f,stroke-width:2px
+    style B fill:#3ff,stroke:#30f,stroke-width:2px
+    style C fill:#3ff,stroke:#30f,stroke-width:2px
     </div>
     </center>
 
 
-<center>
-<div class="mermaid">
-graph LR
-  A[Collection of data/information]-->B[Organisation]
-  B-->C[Retrieval]
-</div>
-</center>
 
 
 
