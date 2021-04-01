@@ -18,7 +18,7 @@ There are two processes to consider:
 graph LR
   A[Collection of data/information]-->B[Organisation]-->C[Drafting]-->D[Editing]-->E[Distribution]
 </div>
-
+</center>
 
 
 My key principle is that we tend to produce output (a report, an essay, an article) accepting the constraint that it has to fit into and A4 sheet to be printed and read in that shape, even if the great majority of documents are no longer being printed and are read of screen that do not meet the A4 standards.
