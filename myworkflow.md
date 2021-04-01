@@ -5,9 +5,8 @@
 I am always looking at new ways to produce and organise my output, which mainly consists of documents (reports, lectures, or presentations) in which I insert diagrams, tables and images.
 
 There are two processes to consider:
-1. collection and organisation of information and data
+1. collection and organisation of information and data to allow easy retrieval
 2. production of the documents, to include the drafting, editing and preparation for distribution
-
 
 <center>
 <div class="mermaid">
@@ -19,12 +18,24 @@ graph LR
 </div>
 </center>
 
+<center>
+<div class="mermaid">
+graph LR
+  A[Collection of data/information]-->B[Organisation] -->C[Retrieval]
+style A,B,C fill:#06f,stroke:#333,stroke-width:4px 
+
+</div>
+</center>
+
+
+
+
 <br>
 
 <div class="mermaid">
 graph LR
     A --> B
-  style A fill:#f9f,stroke:#333,stroke-width:4px
+  style A fill:#06f,stroke:#333,stroke-width:2px
 </div>
 
 
