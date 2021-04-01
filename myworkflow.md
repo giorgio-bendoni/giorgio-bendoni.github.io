@@ -6,13 +6,12 @@ title:
 
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
 
-<p>
+
 I am always looking at new ways to produce and organise my output, which mainly consists of documents (reports, lectures, or presentations) in which I insert diagrams, tables and images.
 
 There are two processes to consider:
 + collection and organisation of information and data
 + production of the documents, to include the drafting, editing and preparation for distribution
-</p>
 
 <center>
 <div class="mermaid">
