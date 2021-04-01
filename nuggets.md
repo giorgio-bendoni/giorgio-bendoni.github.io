@@ -29,7 +29,7 @@ graph TD
   B-->C[Let me think]
   C-->|One|D[Laptop]
   C-->|Two|E[iPhone]
-  C-->|Three|F[Car]
+  C-->|Three|F[Car];
 </div>
 <br><br>
 
@@ -41,12 +41,14 @@ pie title NETFLIX
 
 <br><br>
 
-<center>
+
 <div class="mermaid">
 graph LR
-  A[Collection of data/information]-->B[Organisation]-->C[Drafting]-->D[Editing]-->E[Distribution]
+  A[Collection of data/information]-->B[Organisation]
+  B-->C[Drafting]
+  C-->D[Editing]
+  D-->E[Distribution];
 </div>
-</center>
 
 
 
