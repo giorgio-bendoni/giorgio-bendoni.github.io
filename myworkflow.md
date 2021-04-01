@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Work flow
+title:
 ---
 
 
