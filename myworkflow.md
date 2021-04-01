@@ -6,40 +6,6 @@ title:
 
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
 
-<center>
-<div class="mermaid">
-graph LR
-  A-->B;
-</div>
-</center>  
-<br><br>
-
-<div class="mermaid">
-graph TD
-  A-->B;
-</div>
-<br><br>
-
-<div class="mermaid">
-graph TD
-  A[Christmas]-->|Get money|B[Go shopping]
-  B-->C[Let me think]
-  C-->|One|D[Laptop]
-  C-->|Two|E[iPhone]
-  C-->|Three|F[Car]
-</div>
-<br><br>
-
-<div class="mermaid">
-pie title NETFLIX
-  "Time spent looking for movie" : 90
-  "Time spent watching it" : 10
-</div>
-
-
-
-
-
 <p>
 I am always looking at new ways to produce and organise my output, which mainly consists of documents (reports, lectures, or presentations) in which I insert diagrams, tables and images.
 
@@ -48,6 +14,7 @@ There are two processes to consider:
 + production of the documents, to include the drafting, editing and preparation for distribution
 </p>
 
+<center>
 <div class="mermaid">
 graph LR
   A[Collection of data/information]-->B[Organisation]-->C[Drafting]-->D[Editing]-->E[Distribution]
