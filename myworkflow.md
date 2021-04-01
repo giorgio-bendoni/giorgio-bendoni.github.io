@@ -7,16 +7,17 @@ I am always looking at new ways to produce and organise my output, which mainly 
 There are two processes to consider:
 
 1. Data and information
+    <br>
     <center>
     <div class="mermaid">
     graph LR
-    A[Collection of data/information]-->B[Organisation]
+    A[Collection]-->B[Organisation]
     B-->C[Retrieval]
     </div>
     </center>
-
+<br>
 2. Documents
-
+<bf>
 <center>
 <div class="mermaid">
 graph LR
