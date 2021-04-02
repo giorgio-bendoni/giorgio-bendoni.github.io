@@ -13,7 +13,7 @@ This is a very popular module at Level 6 due to the breadth of topics and the co
 
 In short, the essence of international banking is about (1) operating across jurisdictions (legal, legislative, regulatory, monetary) and (2) facing exposure to a variety of risks (country, sovereign, geopolitical, climate) in addition to the three main categories of credit, market and operational risk.
 
-In the stream **International Banking** we will review the basic functioning of banking and monetary systems, to then explore the opportunities and challenges of international operations, and to finally examine risk management in the context of Global-Sistemically Important Banks (G-SIBs). The exposure to the relevant, deriving risks will require the introduction of mitigating measures such as regulatory compliant capital and liquidity requirements; at operational elevel, such mitgating measures will constitute the core of the stream **Financial Instruments**, in which we will introduce, discuss and apply swaps, options, forward and futures, for example, to realistic scenarios.
+In the stream **International Banking** we will review the basic functioning of banking and monetary systems, to then explore the opportunities and challenges of international operations, and to finally examine risk management in the context of Global-Sistemically Important Banks (G-SIBs). The exposure to the relevant, deriving risks will require the introduction of mitigating measures such as regulatory compliant capital and liquidity; at operational elevel, such mitgating measures will constitute the core of the stream **Financial Instruments**, in which we will introduce, discuss and apply swaps, options, forward and futures, for example, to realistic scenarios.
 <br><br>
 <h5>Aims</h5>
 <hr />
@@ -71,20 +71,20 @@ Coursework 3 (IB - FI) - 50%
 <br>
 <h6>Financial Instruments</h6>
 
-|  Week  | Lecture                              | Seminar                              |
-|:------:|--------------------------------------|--------------------------|
-| 1      | Introduction                         | Introduction             |
-| 2      | Interest rates, bonds                |     |
-| 3      |                       |               |
-| 4      |                       |           |
-| 5      |                    |           |
-|        | _Consolidation week_                   | _Consolidation Week_       |
-| 6      |  |        |
-| 7      |                   |  |
-| 8      |                         |       |
-| 9      |            |             |
-| 10     |           | |
-| 11     |                                      |                          |
+|  Week  | Lecture                                       | Seminar                                       |
+|:------:|-----------------------------------------------|-----------------------------------------------|
+| 1      | Introduction                                  | Introduction                                  |
+| 2      | Interest rates, bonds                         | Introduction and interest rates               |
+| 3      | Term structure and interest rate              | Interest rates, bonds                         |
+| 4      | Foreign exchange markets I                    | Term structure and interest rate              |
+|        | _Consolidation week_                          | _Consolidation Week_                          |
+| 5      | Foreign exchange markets II                   | Foreign exchange markets I                    |
+| 6      | International parities I                      | Foreign exchange markets II                   |
+| 7      | International parities II, futures and options| International parities I                      |
+| 8      | Managing transaction exposure                 | International parities II, futures and options|
+| 9      | Swaps                                         | Managing transaction exposure                 |
+| 10     | Other financial instruments & crises          | Swaps                                         |
+| 11.    | Revision                                      | Other financial instruments & crises          |
 
 <br>
 <h5>Reading list</h5>
