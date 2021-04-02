@@ -1,6 +1,3 @@
----
----
-
 <h3>International Banking and Financial Instruments</h3>
 <hr />
 <br>      
@@ -12,7 +9,9 @@ This is a Level 6 core module for the course _BSc Economics, Finance and Banking
 + BSc Business Economics, C1823S
 + BSc Economics, C1824S
 
-This is a very popular module at Level 6 due to the breadth of topics and the connections to current issues in international banking management and operations. <br>In short, the essence of international banking is about (1) operating across jurisdictions (legal, legislative, regulatory) and (2) facing exposure to a variety of risks (country, sovereign, geopolitical, climate) in addition to the three main categories of credit, market and operational risk.<br>In the stream **International Banking** we will briefly review the basic functioning of a bank to then explore the opportunities and challenges of international operations. The exposure to the relevant, deriving risks will require the introduction of mitigating measures; they will constitute the core of the stream **Financial Instruments**, in which we will introduce, discuss and apply swaps, options, forward and futures to realistic scenarios.
+This is a very popular module at Level 6 due to the breadth of topics and the connections to current issues in international banking management and operations. The module is accessible to students who have not previoulsy done a banking course as there will be a concise introduction to banking in the first part of the term. The level of mathematical skills is the one normally acquired through the quantitative methods and data anlysis course attended during the first and second year.
+
+In short, the essence of international banking is about (1) operating across jurisdictions (legal, legislative, regulatory) and (2) facing exposure to a variety of risks (country, sovereign, geopolitical, climate) in addition to the three main categories of credit, market and operational risk.<br>In the stream **International Banking** we will briefly review the basic functioning of a bank to then explore the opportunities and challenges of international operations. The exposure to the relevant, deriving risks will require the introduction of mitigating measures; they will constitute the core of the stream **Financial Instruments**, in which we will introduce, discuss and apply swaps, options, forward and futures to realistic scenarios.
 <br><br>
 <h5>Aims</h5>
 <hr />
