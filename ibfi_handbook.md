@@ -35,7 +35,7 @@ On successful completion of this module, students should be able, at threshold l
 The module is delivered via a combination of 22 lectures and 22 seminars over one term of 11 weeks. The programme is structured such that the two streams (International Banking and Financial Instruments) are delivered in parallel.<br>
 **Lectures** concentrate on introducing concepts,theories, information and practices relevant to international banking and financial instruments.<br>
 **Seminars** are structured to develop an understanding of the material introduced in the lectures, to offer opportunities for formative assessment in practicing techniques introduced in the lectures and to critically review contemporary issues.
-<br><br>
+<br><
 <h5>Assessment</h5>
 
 Coursework 1 (IB) - 25%
