@@ -13,7 +13,7 @@ This is a very popular module at Level 6 due to the breadth of topics and the co
 
 In short, the essence of international banking is about (1) operating across jurisdictions (legal, legislative, regulatory, monetary) and (2) facing exposure to a variety of risks (country, sovereign, geopolitical, climate) in addition to the three main categories of credit, market and operational risk.
 
-In the stream **International Banking** we will review the basic functioning of banking and monetary systems, to then explore the opportunities and challenges of international operations, and to finally examine risk management in the context of Global-Sistemically Important Banks (G-SIBs). The exposure to the relevant, deriving risks will require the introduction of mitigating measures such as regulatory compliant capital and liquidity; at operational elevel, such mitgating measures will constitute the core of the stream **Financial Instruments**, in which we will introduce, discuss and apply swaps, options, forward and futures, for example, to realistic scenarios.
+In the stream **International Banking** we will review the basic functioning of banking and monetary systems, to then explore the opportunities and challenges of international operations, and to finally examine risk management in the context of Global-Sistemically Important Banks (G-SIBs). The exposure to the relevant, deriving risks will require the introduction of mitigating measures such as regulatory compliant capital and liquidity; at operational elevel, such mitigating measures will constitute the core of the stream **Financial Instruments**, in which we will introduce, discuss and apply swaps, options, forward and futures, for example, to realistic scenarios.
 <br><br>
 <h5>Aims</h5>
 <hr />
@@ -39,13 +39,13 @@ The module is delivered via a combination of 22 lectures and 22 seminars over on
 <h5>Assessment</h5>
 <hr>
 Coursework 1 (IB) - 25%
-: One 1,000-word individual essay that addresses all [Learning Outcomes]. Submission via Turnitin by tbd November 2020.
+: One 1,000-word individual essay that addresses the learning outcomes 1, 2 and 5.
 
 Coursework 2 (FI) - 25%
-: One 1,000-word individual essay that addresses all [Learning Outcomes]. Submission via Turnitin by tbd December 2020.
+: One 1,000-word individual essay that addresses the learning outcomes 3, 4 and 5.
 
 Coursework 3 (IB - FI) - 50%
-: A portfolio of tasks including an essay and online quizzes
+: A portfolio of tasks including one 800-words individual essay and three online quizzes that address the learning outcomes 1, 2, 3 and 4.
 
 
 <br><br>
@@ -89,6 +89,9 @@ Coursework 3 (IB - FI) - 50%
 <br>
 <h5>Reading list</h5>
 <hr>
+We will use the following textbooks for general reference and will access original sources (banks, central banks, the Bank of International Settlements, the IMF, the World Bank, the OECD and S&P Global) to find current data and other relevant information on the various topics of the programme.
+
+
 1. Mishkin, F (2018). _The economics of Money Banking and Financial Markets_ (12th edition, Global Edition). Pearson
 2. Casu, B, Girardone, C, Molyneux, P. (2015). _Introduction to banking_ (2nd edition). Pearson
 3. Hull, J. (2016). _Fundamentals of futures and options markets_ (8th edition, global edition). Pearson
