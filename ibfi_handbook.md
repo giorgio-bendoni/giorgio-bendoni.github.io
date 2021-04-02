@@ -52,7 +52,7 @@ Coursework 3 (IB - FI) - 50%
 : A portfolio of tasks including one 800-words individual essay and three online quizzes that address the learning outcomes 1, 2, 3 and 4.
 <br><br>
 
-<h5>Programme outline - TB1 - 2020</h5>
+<h5>Programme outline - TB1 - 2021</h5>
 <hr>
 
 <h6>International Banking</h6>
