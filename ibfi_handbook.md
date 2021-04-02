@@ -37,7 +37,7 @@ The module is delivered via a combination of 22 lectures and 22 seminars over on
 **Seminars** are structured to develop an understanding of the material introduced in the lectures, to offer opportunities for formative assessment in practicing techniques introduced in the lectures and to critically review contemporary issues.
 <br><
 <h5>Assessment</h5>
-
+<hr>
 Coursework 1 (IB) - 25%
 : One 1,000-word individual essay that addresses all [Learning Outcomes]. Submission via Turnitin by tbd November 2020.
 
