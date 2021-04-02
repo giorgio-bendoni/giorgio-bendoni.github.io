@@ -73,18 +73,18 @@ Coursework 3 (IB - FI) - 50%
 
 |  Week  | Lecture                              | Seminar                              |
 |:------:|--------------------------------------|--------------------------|
-| 12 Oct | Introduction                         | Introduction             |
-| 19 Oct | Interest rates, bonds                |     |
-| 26 Oct |                       |               |
-|  2 Nov |                       |           |
-|  9 Nov |                    |           |
-| 16 Nov | Consolidation week                   | Consolidation Week       |
-| 23 Nov |  |        |
-| 30 Nov |                   |  |
-|  7 Dec |                         |       |
-|  4 Jan |            |             |
-| 11 Jan |           | |
-| 18 Jan |                                      |                          |
+| 1      | Introduction                         | Introduction             |
+| 2      | Interest rates, bonds                |     |
+| 3      |                       |               |
+| 4      |                       |           |
+| 5      |                    |           |
+|        | _Consolidation week_                   | _Consolidation Week_       |
+| 6      |  |        |
+| 7      |                   |  |
+| 8      |                         |       |
+| 9      |            |             |
+| 10     |           | |
+| 11     |                                      |                          |
 
 <br>
 <h5>Reading list</h5>
