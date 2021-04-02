@@ -15,12 +15,14 @@ In short, the essence of international banking is about (1) operating across jur
 
 In the stream **International Banking** we will review the basic functioning of banking and monetary systems, to then explore the opportunities and challenges of international operations, and to finally examine risk management in the context of Global-Sistemically Important Banks (G-SIBs). The exposure to the relevant, deriving risks will require the introduction of mitigating measures such as regulatory compliant capital and liquidity; at operational elevel, such mitigating measures will constitute the core of the stream **Financial Instruments**, in which we will introduce, discuss and apply swaps, options, forward and futures, for example, to realistic scenarios.
 <br><br>
+
 <h5>Aims</h5>
 <hr />
 1. To outline the difficulties and opportunities of financial risk management and banking on an international scale.
 2. To investigate comparative institutional and policy approaches to the regulation of inter-national banking and financial markets.
 3. To provide an understanding of future, forwards, swaps and options markets.
 <br><br>
+
 <h5>Learning outcomes</h5>
 <hr>
 On successful completion of this module, students should be able, at threshold level, to:
@@ -30,12 +32,13 @@ On successful completion of this module, students should be able, at threshold l
 4. Implement strategies involving financial derivatives in measurement and management of financial risk, hedging, speculation, and arbitrage.
 5. Critically evaluate and demonstrate knowledge of the empirical research literature in the area
 <br><br>
+
 <h5>Teaching and planned activities</h5>
 <hr>
 The module is delivered via a combination of 22 lectures and 22 seminars over one term of 11 weeks. The programme is structured such that the two streams (International Banking and Financial Instruments) are delivered in parallel.<br>
 **Lectures** concentrate on introducing concepts,theories, information and practices relevant to international banking and financial instruments.<br>
 **Seminars** are structured to develop an understanding of the material introduced in the lectures, to offer opportunities for formative assessment in practicing techniques introduced in the lectures and to critically review contemporary issues.
-<br>
+<br><br>
 
 <h5>Assessment</h5>
 <hr>
@@ -47,7 +50,7 @@ Coursework 2 (FI) - 25%
 
 Coursework 3 (IB - FI) - 50%
 : A portfolio of tasks including one 800-words individual essay and three online quizzes that address the learning outcomes 1, 2, 3 and 4.
-<br>
+<br><br>
 
 <h5>Programme outline - TB1 - 2020</h5>
 <hr>
@@ -71,6 +74,7 @@ Coursework 3 (IB - FI) - 50%
 
 <br>
 <h6>Financial Instruments</h6>
+<br>
 
 |  Week  | Lecture                                       | Seminar                                       |
 |:------:|-----------------------------------------------|-----------------------------------------------|
@@ -92,7 +96,6 @@ Coursework 3 (IB - FI) - 50%
 <h5>Reading list</h5>
 <hr>
 We will use the following textbooks for general reference and will access original sources (banks, central banks, the Bank for International Settlements, the IMF, the World Bank, the OECD and S&P Global) to find current data and other relevant information on the various topics of the programme.
-
 
 1. Mishkin, F (2018). _The economics of Money Banking and Financial Markets_ (12th edition, Global Edition). Pearson
 2. Casu, B, Girardone, C, Molyneux, P. (2015). _Introduction to banking_ (2nd edition). Pearson
