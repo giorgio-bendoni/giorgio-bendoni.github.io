@@ -12,7 +12,7 @@ This is a Level 6 core module for the course _BSc Economics, Finance and Banking
 + BSc Business Economics, C1823S
 + BSc Economics, C1824S
 
-This is a very popular module at Level 6 due to the breadth of topics and the connections to current issues in international banking management and operations. <br>In short, the essence of international banking is about (1) operating across jurisdictions (legal, legislative, regulatory) and (2) facing exposure to a variety of risks: country and sovereign, exchange and interest rate, operational.<br>In the stream **International Banking** (IB) we will briefly review the basic functioning of a bank to then explore the opportunities and challenges of international operations. The exposure to the relevant, deriving risks will require the introduction of mitigating measures; they will constitute the core of the stream **Financial Instruments** (FI), in which we will introduce, discuss and apply swaps, options, forward and futures to realistic scenarios.
+This is a very popular module at Level 6 due to the breadth of topics and the connections to current issues in international banking management and operations. <br>In short, the essence of international banking is about (1) operating across jurisdictions (legal, legislative, regulatory) and (2) facing exposure to a variety of risks: country and sovereign, exchange and interest rate, operational.<br>In the stream **International Banking** we will briefly review the basic functioning of a bank to then explore the opportunities and challenges of international operations. The exposure to the relevant, deriving risks will require the introduction of mitigating measures; they will constitute the core of the stream **Financial Instruments**, in which we will introduce, discuss and apply swaps, options, forward and futures to realistic scenarios.
 <br><br>
 <h5>Aims</h5>
 <hr />
@@ -31,7 +31,7 @@ On successful completion of this module, students should be able, at threshold l
 <br><br>
 <h5>Teaching and planned activities</h5>
 <hr>
-The module is delivered via a combination of 22 lectures and 22 seminars over one term of 1 weeks. The programme is structured such that the two streams (International Banking [IB] and Financial Instruments [FI]) are delivered in parallel.<br>
+The module is delivered via a combination of 22 lectures and 22 seminars over one term of 11 weeks. The programme is structured such that the two streams (International Banking and Financial Instruments) are delivered in parallel.<br>
 **Lectures** concentrate on introducing concepts,theories, information and practices relevant to international banking and financial instruments.<br>
 **Seminars** are structured to develop an understanding of the material introduced in the lectures, to offer opportunities for formative assessment in practicing techniques introduced in the lectures and to critically review contemporary issues.
 <br><br>
@@ -43,14 +43,9 @@ Coursework 1 (IB) - 25%
 Coursework 2 (FI) - 25%
 : One 1,000-word individual essay that addresses all [Learning Outcomes]. Submission via Turnitin by tbd December 2020.
 
-Coursework 3 (IB) - 10%
-: One [30] questions online quiz that addresses LO 1 - 3.
+Coursework 3 (IB - FI) - 50%
+: A portfolio of tasks including an essay and online quizzes
 
-Coursework 4 (FI) - [25%]
-: One [30] questions online quiz that addresses LO 2 - 4
-
-Coursework 5 (IB) - 15%
-: One 800-word individual essay that addresses LO 3 - 5
 
 <br><br>
 <h5>Programme outline - TB1 - 2020</h5>
@@ -59,18 +54,18 @@ Coursework 5 (IB) - 15%
 
 |  Week  | Lecture                              | Seminar                              |
 |:------:|--------------------------------------|--------------------------------------|
-| 12 Oct | International banking                | What is banking                      |
-| 19 Oct | IB services                          | International Banking                |
-| 26 Oct | Banking systems                      | IB services                          |
-|  2 Nov | Central banking                      | Banking systems                      |
-|  9 Nov | Consolidation week                   | Consolidation week                   |
-| 16 Nov | Country assessment                   | Central banking                      |
-| 23 Nov | International Financial Architecture | Country assessment                   |
-| 30 Nov | Regulation of banks                  | International Financial Architecture |
-|  7 Dec | Banking risks                        | Regulation of Banks                  |
-|  4 Jan | Banking risks management I           | Banking risks                        |
-| 11 Jan | Banking risks management II          | Banking risks management I           |
-| 18 Jan | Overview                             | Banking risks management II          |
+| 1      | International banking                | What is banking                      |
+| 2      | IB services                          | International Banking                |
+| 3      | Banking systems                      | IB services                          |
+| 4      | Central banking                      | Banking systems                      |
+|        | _Consolidation week_                 | _Consolidation week_                 |
+| 5      | Country assessment                   | Central banking                      |
+| 6      | International Financial Architecture | Country assessment                   |
+| 7      | Regulation of banks                  | International Financial Architecture |
+| 8      | Banking risks                        | Regulation of Banks                  |
+| 9      | Banking risks management I           | Banking risks                        |
+| 10     | Banking risks management II          | Banking risks management I           |
+| 11     | Overview                             | Banking risks management II          |
 
 <br>
 <h6>Financial Instruments</h6>
