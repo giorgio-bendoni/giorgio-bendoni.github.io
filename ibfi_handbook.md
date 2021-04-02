@@ -36,6 +36,7 @@ The module is delivered via a combination of 22 lectures and 22 seminars over on
 **Lectures** concentrate on introducing concepts,theories, information and practices relevant to international banking and financial instruments.<br>
 **Seminars** are structured to develop an understanding of the material introduced in the lectures, to offer opportunities for formative assessment in practicing techniques introduced in the lectures and to critically review contemporary issues.
 <br>
+
 <h5>Assessment</h5>
 <hr>
 Coursework 1 (IB) - 25%
@@ -46,10 +47,10 @@ Coursework 2 (FI) - 25%
 
 Coursework 3 (IB - FI) - 50%
 : A portfolio of tasks including one 800-words individual essay and three online quizzes that address the learning outcomes 1, 2, 3 and 4.
+<br>
 
-
-<br><br>
 <h5>Programme outline - TB1 - 2020</h5>
+<hr>
 
 <h6>International Banking</h6>
 
@@ -87,6 +88,7 @@ Coursework 3 (IB - FI) - 50%
 | 11.    | Revision                                      | Other financial instruments & crises          |
 
 <br>
+
 <h5>Reading list</h5>
 <hr>
 We will use the following textbooks for general reference and will access original sources (banks, central banks, the Bank of International Settlements, the IMF, the World Bank, the OECD and S&P Global) to find current data and other relevant information on the various topics of the programme.
