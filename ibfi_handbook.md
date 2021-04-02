@@ -91,7 +91,7 @@ Coursework 3 (IB - FI) - 50%
 
 <h5>Reading list</h5>
 <hr>
-We will use the following textbooks for general reference and will access original sources (banks, central banks, the Bank of International Settlements, the IMF, the World Bank, the OECD and S&P Global) to find current data and other relevant information on the various topics of the programme.
+We will use the following textbooks for general reference and will access original sources (banks, central banks, the Bank for International Settlements, the IMF, the World Bank, the OECD and S&P Global) to find current data and other relevant information on the various topics of the programme.
 
 
 1. Mishkin, F (2018). _The economics of Money Banking and Financial Markets_ (12th edition, Global Edition). Pearson
