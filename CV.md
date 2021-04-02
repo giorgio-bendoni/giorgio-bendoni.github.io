@@ -15,9 +15,9 @@ title:
 <br><br>
 <h4>Professional education</h4>
 <hr />
-+ Corso Superiore di Stato Maggiore - Italian Navy, Staff Officer Course
++ Corso Superiore di Stato Maggiore - Staff Officer Course, Italian Navy
 + Naval Air Training - <a href="https://www.cnatra.navy.mil/tw5/">Training Air Wing Five</a>, <a href="https://www.cnatra.navy.mil/tw4/">Training Air Wing Four</a>, US Navy  
-+ Scuola Comando Navale - Italian Navy, Naval Command School
++ Scuola Comando Navale - Naval Command School, Italian Navy
 + Curso de Comando e Estado Maior - <a href="https://www.marinha.mil.br/egn/">Escola de Guerra Naval</a>, Marinha do Brasil
 + <a href="http://www.difesa.it/EN/SMD/CASD/MI/ISSMI/Pagine/default.aspx">Istituto Superiore di Stato Maggiore Interforze</a> - Joint Services Staff College, Center for Defence Higher Studies
 + <a href="https://www.sioi.org/en/">Societa' Italiana per l'Organizzazione Internazionale</a> - Italian Society for International Organisations
