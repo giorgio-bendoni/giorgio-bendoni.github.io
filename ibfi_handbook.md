@@ -3,13 +3,13 @@
 <br>      
 <h5>Module overview</h5>
 <hr />
-This is a Level 6 core module for the course _BSc Economics, Finance and Banking_, C1826S. This is an optional module for Level 6:
-+ BA Economics and Management, C2413S
-+ BA European Business, C2275F
-+ BSc Business Economics, C1823S
-+ BSc Economics, C1824S
+This is a Level 6 core module for the course _BSc Economics, Finance and Banking_. This is an optional module for Level 6:
++ BA Economics and Management
++ BA European Business
++ BSc Business Economics
++ BSc Economics
 
-This is a very popular module at Level 6 due to the breadth of topics and the connections to current issues in international banking management and operations. The module is accessible to students who have not previoulsy done a banking course as there will be a concise introduction to banking in the first part of the term. The required level of mathematical skills is the one normally acquired through the quantitative methods and data analysis modules attended at Level 4 and 5 of the BA Economics & Management and the Mathematics and Statistics modules attended at Level 4 of the BSc courses.
+This is a very popular module at Level 6 due to the breadth of topics and the connections to current issues in international banking management and operations. The module is accessible to students who have not previoulsy done a banking course as there will be a concise introduction to banking in the first part of the term. The required level of mathematical skills is the one normally acquired through the quantitative methods and data analysis modules attended at Level 4 and 5 of the BA Economics & Management and the mathematics and statistics modules attended at Level 4 of the BSc courses.
 
 In short, the essence of international banking is about (1) operating across jurisdictions (legal, legislative, regulatory, monetary) and (2) facing exposure to a variety of risks (country, sovereign, geopolitical, climate) in addition to the three main categories of credit, market and operational risk.
 
