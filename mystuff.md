@@ -10,8 +10,7 @@ My IT set up includes the following:
 + Int. dr.: Samsung SSD 850 EVO 500GB + 500GB SATA 
 + Ext. dr.: Samsung SSD T5 500GB + iomega 500GB
 + GPU: AMD Radeon R9 280X 3GB
-+ Monitors: 3 x HP Pavilion 23xi
-+ Monitors: 2 x iPad 2nd generation
++ Monitors: 3 x HP Pavilion 23xi + 2 x iPad 2nd gen
 + Webcam: Logitech C920
 + Graphic tablet: Wacom One
 + Comms: Microsoft LifeChat LX-3000
@@ -19,8 +18,8 @@ My IT set up includes the following:
 <h4> Workstation 2</h4>
 + HP Pavilion 500 - AMD 8-5500 - 32GB 
 + OS: Windows 10
-+ Int. drive: 1TB SATA
-+ Monitor: Samsung 24
++ Int. dr.: 1TB SATA
++ Monitor: 1 x Samsung 24
 
 <h4>Music / audio station</h4>
 + Keyboard/Midi controller: Alesis Recital
