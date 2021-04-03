@@ -14,11 +14,11 @@ I have had a long career in the Italian Navy (as a pilot and as a ship captain) 
 <hr />
 
 My interests span over a few different streams:
-1. productivity and economic growth;
-2. central banking;
-3. war, defence and security, and their understanding and intepretation through the use of economic models and theories;
-4. charitable organisations;
-5. aerospace and maritime industries.  
+1. productivity and economic growth
+2. central banking
+3. war, defence and security
+4. charitable organisations
+5. aerospace and maritime industries  
 <br>
 
 <h4 id="Teaching Responsibilities">Teaching Responsibilities</h4>
