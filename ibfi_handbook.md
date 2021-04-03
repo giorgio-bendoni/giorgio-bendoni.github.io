@@ -9,9 +9,11 @@ This is a Level 6 core module for the course _BSc Economics, Finance and Banking
 + BSc Business Economics
 + BSc Economics
 
-This is a very popular module at Level 6 due to the breadth of topics and the connections to current issues in international banking management and operations. The module is accessible to students who have not previoulsy done a banking course as there will be a concise introduction to banking in the first part of the term. The required level of mathematical skills is the one normally acquired through the quantitative methods and data analysis modules attended at Level 4 and 5 of the BA Economics & Management and the mathematics and statistics modules attended at Level 4 of the BSc courses.
+This module is very popular due to the breadth of topics and the connections to current issues in international banking management and operations. There are no prerequisites:
++ a concise introduction to banking will assist students who have not previously taken a banking course
++ the mathematics and quantitative methods skills developed at Level 4 will be adequate to understand and apply the financial instruments introduced in the programme.
 
-In short, the essence of international banking is about (1) operating across jurisdictions (legal, legislative, regulatory, monetary) and (2) facing exposure to a variety of risks (country, sovereign, geopolitical, climate) in addition to the three main categories of credit, market and operational risk.
+In short, the essence of international banking is about (1) operating across jurisdictions (legal, legislative, regulatory, monetary) and (2) facing exposure to a variety of risks (country, sovereign, geopolitical, climate) in addition to the three main categories of credit, market and operational risk. In such circumstances, it is necessary to have an understanding of the regulatory and operational framework and of the suitability of selected financial instruments to appropriately to hedge against risk and to optimise the outcome of financial transactions.
 
 In the stream **International Banking** we will review the basic functioning of banking and monetary systems, to then explore the opportunities and challenges of international operations, and to finally examine risk management in the context of Global-Sistemically Important Banks (G-SIBs). The exposure to the relevant, deriving risks will require the introduction of mitigating measures such as regulatory compliant capital and liquidity; at operational elevel, such mitigating measures will constitute the core of the stream **Financial Instruments**, in which we will introduce, discuss and apply swaps, options, forward and futures, for example, to realistic scenarios.
 <br><br>
