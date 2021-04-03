@@ -8,7 +8,7 @@ title:
 
 I am a [Senior Teaching Fellow](https://researchportal.port.ac.uk/portal/en/persons/giorgio-bendoni(f78fd62b-bcbd-478c-a975-3f155aef6504).html) affiliated to the Subject Group of Economics and Finance at the [University of Portsmouth](https://www.port.ac.uk).
 
-I have had a long career in the Italian Navy (as a pilot and as a ship captain) before moving into managerial positions within the aviation and marine industry, unemployment, the technology sector, and then into academia and charitable organisations.
+I have had a long career in the Italian Navy (as a pilot and as a ship captain) before moving into the aviation and marine industry, business consultancy, unemployment, the technology sector, and then academia and charitable organisations.
 
 <h4 id="Research interestd">Research Interests</h4>
 <hr />
