@@ -54,23 +54,21 @@ Coursework 2 - 50%
 <h5>Programme outline</h5>
 <hr>
 
-<h6>Financial Markets</h6>
-
-<h7>Teaching block 1</h7>
+<h6>Teaching block 1</h6>
   
 | Week | Video lecture                  | Workshop                                          |  
 |:----:|--------------------------------|---------------------------------------------------| 
-| 1    | Money                          |  |
-| 2    | Banks                          |  |
-| 3    | Financial markets and products |  |
-| 4    | Monetary systems               |  |
-| 5    | Inflation                      |  |
-| 6    | Data                           |  |
-| 7    | Presentations                  |  |
+| 1    | Money                          |   a|
+| 2    | Banks                          |  b|
+| 3    | Financial markets and products |  c|
+| 4    | Monetary systems               |  d|
+| 5    | Inflation                      |  e|
+| 6    | Data                           |  f|
+| 7    | Presentations                  |  g|
 |
 <br>
 
-<h7>Teaching block 2</h7>
+<h6>Teaching block 2</h6>
 
 
 <br><br>
