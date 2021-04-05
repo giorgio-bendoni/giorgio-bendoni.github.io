@@ -53,8 +53,8 @@ Coursework 2 - 50%
 
 <h6>Teaching block 1</h6>
   
-| Week | Video lecture                  | Workshop                                          |  
-|:----:|--------------------------------|---------------------------------------------------| 
+| Week | Video lecture                  | Workshop    |  
+|:----:|--------------------------------|-------------| 
 | 1    | Money                          |   a|
 | 2    | Banks                          |  b|
 | 3    | Financial markets and products |  c|
@@ -74,10 +74,3 @@ Coursework 2 - 50%
 <hr>
 We will use the following textbooks for general reference and will access original sources (banks, central banks, the Bank for International Settlements, the IMF, the World Bank, the OECD and S&P Global) to find current data and other relevant information on the various topics of the programme.
 
-1. Bikker, J, Boss, J. (2008). _Bank performance_. Taylor and Francis
-2. Casu, B, Girardone, C, Molyneux, P. (2015). _Introduction to banking_ (2nd edition). Pearson
-3. Duffie, D. (2010). _How big bank fails and what to do about it_. Princeton University Press
-4. Gan, C, Nartea, G. (2017). _Microfinance in Asia_. World scientific publishing company
-5. Giuliodori, M, Matthews, K, Mishkin, F. (2013). _Economics of money banking and financial markets_ (European edition). Pearson
-6. Hull, J. (2018). _Risk management in financial institutions_ (5th ed.). Wiley
-7. Mishkin, F (2018). _The economics of Money Banking and Financial Markets_ (12th edition, Global Edition). Pearson
