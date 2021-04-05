@@ -16,7 +16,7 @@ The purpose is to provide first year students in the _BSc Economics, Finance and
   5. Inflation - definition, calculation, inflation indices
 
 
-<h6>TB2 - Developments in economic toughts/h6>
+<h6>TB2 - Developments in economic toughts</h6>
 This stream deals with the general structure, functioning and management of financial markets and institutions, including risks, regulations and crises.
 1. Classical economics
 2. Neo-classical economics
