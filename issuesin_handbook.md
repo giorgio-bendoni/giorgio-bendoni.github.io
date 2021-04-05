@@ -5,8 +5,6 @@
 <h5>Module overview</h5>
 <hr>
 
-The content of this module is delivered over two teaching blocks:
-
 <h6>TB1 - Issues in Finance and Banking</h6>
 The purpose is to provide first year students in the _BSc Economics, Finance and Banking_ with an early exposure to a selected number of topics of particular relevance to their course:
   1. Money - currency, money, legal tender, monetary aggregates
@@ -14,7 +12,7 @@ The purpose is to provide first year students in the _BSc Economics, Finance and
   3. Financial markets and products - bonds, shares, commodities, financial markets
   4. Monetary systems - central banks, base rate, money supply, monetary policy
   5. Inflation - definition, calculation, inflation indices
-<br>
+<br><br>
 
 <h6>TB2 - Developments in economic toughts</h6>
 This stream deals with the general structure, functioning and management of financial markets and institutions, including risks, regulations and crises.
@@ -36,11 +34,10 @@ This stream deals with the general structure, functioning and management of fina
 
 <h5>Teaching and planned activities</h5>
 <hr>
-The module is delivered via a combination of workshops over two teaching blocks.
+The module is delivered via a combination of video lectures and workshops.
 <br>
-**Video lectures** concentrate on introducing concepts, theories, information and practices.<br>
-**Workshops** are structured to develop an understanding of the material introduced in the lectures, to offer opportunities for formative assessment in practicing techniques introduced in the lectures and to critically review contemporary issues.
-<br>
++ **Video lectures** concentrate on introducing concepts, theories, information and practices.
++ **Workshops** are structured to develop an understanding of the material introduced in the lectures, to offer opportunities for formative assessment in practicing techniques introduced in the lectures and to critically review contemporary issues
 
 <h5>Assessment</h5>
 <hr>
