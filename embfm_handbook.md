@@ -9,88 +9,98 @@ This is a Level 5 core module for the course _BSc Economics, Finance and Banking
 + BSc Business Economics
 + BSc Economics
 
-This module is very popular due to the breadth of topics and the connections to current issues in international banking management and operations. There are no prerequisites:
-+ a concise introduction to banking will assist students who have not previously taken a banking course;
-+ the mathematics and quantitative methods skills developed at Level 4 will be adequate to understand and apply the financial instruments introduced in the programme.
+There are no prerequisites to attend this course, as students will have studied relevant introductions to macroeconomics and quantitative methods at level 4.
 
-In short, the essence of international banking is about (1) operating across jurisdictions (legal, legislative, regulatory, monetary) and (2) facing exposure to a variety of risks (country, sovereign, geopolitical, climate) in addition to the three main categories of credit, market and operational risk. In such circumstances, it is necessary to have an understanding of the regulatory and operational frameworks and of the suitability of selected financial instruments to effectively hedge against risk and to optimise the outcome of financial transactions.
 
-In the stream **International Banking** we will review the basic functioning of banking and monetary systems, to then explore the opportunities and challenges of international operations, and to finally examine risk management in the context of Global-Sistemically Important Banks (G-SIBs). The exposure to the relevant, deriving risks will require the introduction of mitigating measures such as regulatory compliant capital and liquidity; at operational elevel, such mitigating measures will constitute the core of the stream **Financial Instruments**, in which we will introduce, discuss and apply swaps, options, forward and futures, for example, to realistic scenarios.
-<br><br>
+This module is a very popular option at level 5 as it provides wide and strong foundations in the area of banking, financial markets, central banking and monetary policy. 
+
+The content of this module is structured over two separate streams:
++ **Monetary Policy (MP)** - This stream deals with the role of central banks and monetary policy and their impact on the economy. This stream introduces a limited number of formal (mathematical) models and relies mostly on the logical development of arguments
++ **Financial Markets (FM)** - This stream deals with the general structure, functioning and management of financial markets and institutions, including risks, regulations and crises. This stream introduces a number of formal (mathematical) models and relies on the understanding of their logic and on the ability to apply them to realistic scenarios.
+
 
 <h5>Aims</h5>
 <hr />
-1. To outline the difficulties and opportunities of financial risk management and banking on an international scale.
-2. To investigate comparative institutional and policy approaches to the regulation of inter-national banking and financial markets.
-3. To provide an understanding of future, forwards, swaps and options markets.
-<br><br>
+To appreciate:
+1. the structure, conduct and performance of banking and financial markets
+2. the role of financial regulation
+3. the role of central banks’ monetary policy and of financial regulation
 
 <h5>Learning outcomes</h5>
 <hr>
 On successful completion of this module, students should be able, at threshold level, to:
-1. Show understanding of the functions and complexity of international banking and financial markets by addressing a realistic problem scenario.
-2. Organise and present appropriate data to frame a problem in the area of banking and finance and identify a solution.
-3. Show understanding of the issues surrounding the effective regulation of financial systems.
-4. Implement strategies involving financial derivatives in measurement and management of financial risk, hedging, speculation, and arbitrage.
-5. Critically evaluate and demonstrate knowledge of the empirical research literature in the area
-<br><br>
+1. Articulate and explain the structure, conduct and performance of banking and financial markets.
+2. Articulate and explain the role of financial regulation in the banking and financial sectors.
+3. Articulate and explain analytical techniques for studying money, banks and financial markets.
+4. Assess the relative merits and limitations of analytical techniques for studying money, banks and financial markets.
+5. Translate real world problems into analytical models and vice versa and employ appropriate analytical techniques to graphically and mathematically study money, banks and financial markets.
+6. Review academic literarure relating to banking and finance in order to make policy recommendations.
 
 <h5>Teaching and planned activities</h5>
 <hr>
-The module is delivered via a combination of 22 lectures and 22 seminars over one term of 11 weeks. The programme is structured such that the two streams (International Banking and Financial Instruments) are delivered in parallel.<br>
+The module is delivered via a combination of 22 lectures and 22 seminars over one term of 11 weeks. The programme is structured such that the two streams (Financial Markets and Monetary Policy) are delivered in parallel.<br>
 **Lectures** concentrate on introducing concepts,theories, information and practices relevant to international banking and financial instruments.<br>
 **Seminars** are structured to develop an understanding of the material introduced in the lectures, to offer opportunities for formative assessment in practicing techniques introduced in the lectures and to critically review contemporary issues.
 <br><br>
 
 <h5>Assessment</h5>
 <hr>
-Coursework 1 (IB) - 25%
-: One 1,000-word individual essay that addresses the learning outcomes 1, 2 and 5.
+Coursework 1 (FM) - 40%
+: One 1,500-word individual essay that addresses the learning outcomes 1 - 6.
 
-Coursework 2 (FI) - 25%
-: One 1,000-word individual essay that addresses the learning outcomes 3, 4 and 5.
+Coursework 2 (MP) - 40%
+: One 1,500-word individual essay that addresses the learning outcomes 1 - 6.
 
-Coursework 3 (IB - FI) - 50%
-: A portfolio of tasks including one 800-words individual essay and three online quizzes that address the learning outcomes 1, 2, 3 and 4.
+Coursework 3 (FM - MP) - 20%
+: A portfolio of tasks including one 500-words individual essay and two online quizzes that address the learning outcomes 1 - 6.
 <br><br>
 
-<h5>Programme outline - TB1 - 2021</h5>
+<h5>Programme outline</h5>
 <hr>
 
-<h6>International Banking</h6>
+<h6>Financial Markets</h6>
 
-|  Week  | Lecture                              | Seminar                              |
-|:------:|--------------------------------------|--------------------------------------|
-| 1      | International banking                | What is banking                      |
-| 2      | IB services                          | International Banking                |
-| 3      | Banking systems                      | IB services                          |
-| 4      | Central banking                      | Banking systems                      |
-|        | _Consolidation week_                 | _Consolidation week_                 |
-| 5      | Country assessment                   | Central banking                      |
-| 6      | International Financial Architecture | Country assessment                   |
-| 7      | Regulation of banks                  | International Financial Architecture |
-| 8      | Banking risks                        | Regulation of Banks                  |
-| 9      | Banking risks management I           | Banking risks                        |
-| 10     | Banking risks management II          | Banking risks management I           |
-| 11     | Overview                             | Banking risks management II          |
+		
+|  Week  | Lecture                                         | Seminar                              |
+|:------:|-------------------------------------------------|--------------------------------------|
+|1       | Why Study Money, Banking, and Financial Markets?|Introduction to the assignment        |
+|2	     | An Overview of the Financial System, introduction to interest rates	| Why Study Money, Banking, and Financial Markets?|
+|3   	   | Stock Market, Rational markets, EMH	|An overview of the Financial System, introduction to interest rates|
+|4	     | Banking and the Management of Financial Institutions |Stock Market, Rational markets, EMH|
+|5	     | Banking and the Management of Financial Institutions II | Banking and the Management of Financial Institutions |
+|6	     | Banking and the Management of Financial Institutions III |Banking and the Management of Financial Institutions II|
+|7	     | Financial regulation and banking industry: structure and competition | Banking and the Management of Financial Institutions III |
+|8	     | Financial crises |	Financial regulation and banking industry: structure and competition|
+|9	     | An economic analysis of financial structure| Financial crises|
+|10	     |Alternative banking	| An economic analysis of financial structure |
+|11	     |Reflection and revision|	Alternative banking|
+
+
+
+
+
+
+
+
+
 
 <br>
-<h6>Financial Instruments</h6>
+<h6>Monetary Policy</h6>
 
 |  Week  | Lecture                                       | Seminar                                       |
 |:------:|-----------------------------------------------|-----------------------------------------------|
-| 1      | Introduction                                  | Introduction                                  |
-| 2      | Interest rates, bonds                         | Introduction and interest rates               |
-| 3      | Term structure and interest rate              | Interest rates, bonds                         |
-| 4      | Foreign exchange markets I                    | Term structure and interest rate              |
-|        | _Consolidation week_                          | _Consolidation Week_                          |
-| 5      | Foreign exchange markets II                   | Foreign exchange markets I                    |
-| 6      | International parities I                      | Foreign exchange markets II                   |
-| 7      | International parities II, futures and options| International parities I                      |
-| 8      | Managing transaction exposure                 | International parities II, futures and options|
-| 9      | Swaps                                         | Managing transaction exposure                 |
-| 10     | Other financial instruments & crises          | Swaps                                         |
-| 11.    | Revision                                      | Other financial instruments & crises          |
+|1|	Central Banks	| Introduction|
+|2|	The money supply process (1)	|Central Banks|
+|3	|The money supply process (2)	|The money supply process (1)|
+|4	|The tools of monetary policy	|The money supply process (2)|
+|5	|The conduct of monetary policy	|The tools of monetary policy|
+|6	|The demand for money	|The conduct of monetary policy|
+|7	|The ISLM 	|The demand for money|
+|8	|Monetary and fiscal policy in the ISLM  |The ISLM|
+|9	|The AS/AD	| Monetary and fiscal policy in the ISLM|
+|10	|Transmission mechanisms	| The AS/AD|
+|11	|Review of the core topics	| Transmission mechanism|
+
 
 <br>
 
