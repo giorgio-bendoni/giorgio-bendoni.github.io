@@ -1,6 +1,5 @@
 ---
 layout: page
-title:
 ---
 
 # International banking and financial instruments
