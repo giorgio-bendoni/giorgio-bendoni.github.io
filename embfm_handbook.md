@@ -74,6 +74,7 @@ Coursework 3 (FM - MP) - 20%
 |9	 | An economic analysis of financial structure                          | Financial crises|
 |10	 | Alternative banking                                                  | An economic analysis of financial structure |
 |11	 | Reflection and revision                                              | Alternative banking|
+
 <br>
 
 <h6>Monetary Policy</h6>
