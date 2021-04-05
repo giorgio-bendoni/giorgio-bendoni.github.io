@@ -35,7 +35,7 @@ On successful completion of this module, students should be able, at threshold l
 4. Assess the relative merits and limitations of analytical techniques for studying money, banks and financial markets.
 5. Translate real world problems into analytical models and vice versa and employ appropriate analytical techniques to graphically and mathematically study money, banks and financial markets.
 6. Review academic literarure relating to banking and finance in order to make policy recommendations.
-<br>
+<br><br>
 
 <h5>Teaching and planned activities</h5>
 <hr>
@@ -73,11 +73,9 @@ Coursework 3 (FM - MP) - 20%
 |9	 | An economic analysis of financial structure                          | Financial crises                                                    |
 |10	 | Alternative banking                                                  | An economic analysis of financial structure                         |
 |11	 | Reflection and revision                                              | Alternative banking                                                 |
-
 <br>
 
 <h6>Monetary Policy</h6>
-
 |  Week  | Lecture                                | Seminar                                |
 |:------:|----------------------------------------|----------------------------------------|
 |1       | Central Banks	                  | Introduction                           |
