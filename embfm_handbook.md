@@ -1,6 +1,6 @@
 <h3>Economics of Money, Banking and Financial Markets</h3>
 <hr />
-      
+<br>      
 <h5>Module overview</h5>
 <hr />
 This is a Level 5 core module for the course _BSc Economics, Finance and Banking_. This is an optional module for Level 6:
@@ -9,8 +9,7 @@ This is a Level 5 core module for the course _BSc Economics, Finance and Banking
 + BSc Business Economics
 + BSc Economics
 
-There are no prerequisites to attend this course, as students will have studied relevant introductions to macroeconomics and quantitative methods at level 4.
-
+There are no prerequisites to attend this course, as students will have studied relevant introductions to macroeconomics and quantitative methods at level 4.  
 
 This module is a very popular option at level 5 as it provides wide and strong foundations in the area of banking, financial markets, central banking and monetary policy. 
 
@@ -24,7 +23,7 @@ The content of this module is structured over two separate streams:
 To appreciate:
 1. the structure, conduct and performance of banking and financial markets
 2. the role of financial regulation
-3. the role of central banks’ monetary policy and of financial regulation
+3. the role of central banks’ monetary policy and of financial regulation  
 <br>
 
 <h5>Learning outcomes</h5>
