@@ -1,8 +1,8 @@
 <h3>Economics of Money, Banking and Financial Markets</h3>
-<hr />
+<hr>
 <br>      
 <h5>Module overview</h5>
-<hr />
+<hr>
 This is a Level 5 core module for the course _BSc Economics, Finance and Banking_. This is an optional module for Level 6:
 + BA Economics and Management
 + BA European Business
@@ -19,7 +19,7 @@ The content of this module is structured over two separate streams:
 <br><br>
 
 <h5>Aims</h5>
-<hr />
+<hr>
 To appreciate:
 1. the structure, conduct and performance of banking and financial markets
 2. the role of financial regulation
@@ -90,7 +90,7 @@ Coursework 3 (FM - MP) - 20%
 |9	 | The AS/AD                              | Monetary and fiscal policy in the ISLM |
 |10	 | Transmission mechanisms                | The AS/AD                              |
 |11	 | Review of the core topics              | Transmission mechanism                 |
-<br>
+<br><br>
 
 <h5>Reading list</h5>
 <hr>
