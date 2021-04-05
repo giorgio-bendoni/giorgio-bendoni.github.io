@@ -55,7 +55,7 @@ Coursework 2 (MP) - 40%
 
 Coursework 3 (FM - MP) - 20%
 : A portfolio of tasks including one 500-words individual essay and two online quizzes that address the learning outcomes 1 - 6.
-<br>
+<br><br>
 
 <h5>Programme outline</h5>
 <hr>
@@ -75,8 +75,8 @@ Coursework 3 (FM - MP) - 20%
 |9	 | An economic analysis of financial structure                          | Financial crises                                                    |
 |10	 | Alternative banking                                                  | An economic analysis of financial structure                         |
 |11	 | Reflection and revision                                              | Alternative banking                                                 |
-<br>
 
+<br>
 <h6>Monetary Policy</h6>
 
 |  Week  | Lecture                                | Seminar                                |
@@ -92,6 +92,7 @@ Coursework 3 (FM - MP) - 20%
 |9	 | The AS/AD                              | Monetary and fiscal policy in the ISLM |
 |10	 | Transmission mechanisms                | The AS/AD                              |
 |11	 | Review of the core topics              | Transmission mechanism                 |
+
 <br><br>
 
 <h5>Reading list</h5>
