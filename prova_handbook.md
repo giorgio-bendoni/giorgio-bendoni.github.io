@@ -2,9 +2,9 @@
 layout: page
 ---
 
-# International banking and financial instruments
+## International banking and financial instruments
 
-## Module overview
+### Module overview
 
 This is a Level 6 core module for the course _BSc Economics, Finance and Banking_. This is an optional module for Level 6:
 + BA Economics and Management
@@ -21,12 +21,12 @@ In short, the essence of international banking is about (1) operating across jur
 In the stream **International Banking** we will review the basic functioning of banking and monetary systems, to then explore the opportunities and challenges of international operations, and to finally examine risk management in the context of Global-Sistemically Important Banks (G-SIBs). The exposure to the relevant, deriving risks will require the introduction of mitigating measures such as regulatory compliant capital and liquidity; at operational elevel, such mitigating measures will constitute the core of the stream **Financial Instruments**, in which we will introduce, discuss and apply swaps, options, forward and futures, for example, to realistic scenarios.
 
 
-## Aims
+### Aims
 1. To outline the difficulties and opportunities of financial risk management and banking on an international scale.
 2. To investigate comparative institutional and policy approaches to the regulation of inter-national banking and financial markets.
 3. To provide an understanding of future, forwards, swaps and options markets.
 
-## Learning outcomes
+### Learning outcomes
 
 On successful completion of this module, students should be able, at threshold level, to:
 1. Show understanding of the functions and complexity of international banking and financial markets by addressing a realistic problem scenario.
