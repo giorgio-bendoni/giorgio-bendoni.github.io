@@ -54,7 +54,7 @@ Coursework 3 (IB - FI) - 50%
 : A portfolio of tasks including one 800-words individual essay and three online quizzes that address the learning outcomes 1, 2, 3 and 4.
 <br><br>
 
-<h5>Programme outline - TB1 - 2021</h5>
+<h5>Programme outline</h5>
 <hr>
 
 <h6>International Banking</h6>
@@ -65,7 +65,6 @@ Coursework 3 (IB - FI) - 50%
 | 2      | IB services                          | International Banking                |
 | 3      | Banking systems                      | IB services                          |
 | 4      | Central banking                      | Banking systems                      |
-|        | _Consolidation week_                 | _Consolidation week_                 |
 | 5      | Country assessment                   | Central banking                      |
 | 6      | International Financial Architecture | Country assessment                   |
 | 7      | Regulation of banks                  | International Financial Architecture |
@@ -74,7 +73,6 @@ Coursework 3 (IB - FI) - 50%
 | 10     | Banking risks management II          | Banking risks management I           |
 | 11     | Overview                             | Banking risks management II          |
 
-<br>
 <h6>Financial Instruments</h6>
 
 |  Week  | Lecture                                       | Seminar                                       |
@@ -83,14 +81,13 @@ Coursework 3 (IB - FI) - 50%
 | 2      | Interest rates, bonds                         | Introduction and interest rates               |
 | 3      | Term structure and interest rate              | Interest rates, bonds                         |
 | 4      | Foreign exchange markets I                    | Term structure and interest rate              |
-|        | _Consolidation week_                          | _Consolidation Week_                          |
 | 5      | Foreign exchange markets II                   | Foreign exchange markets I                    |
 | 6      | International parities I                      | Foreign exchange markets II                   |
 | 7      | International parities II, futures and options| International parities I                      |
 | 8      | Managing transaction exposure                 | International parities II, futures and options|
 | 9      | Swaps                                         | Managing transaction exposure                 |
 | 10     | Other financial instruments & crises          | Swaps                                         |
-| 11.    | Revision                                      | Other financial instruments & crises          |
+| 11     | Revision                                      | Other financial instruments & crises          |
 
 <br>
 
