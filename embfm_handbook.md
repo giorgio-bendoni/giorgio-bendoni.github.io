@@ -76,6 +76,7 @@ Coursework 3 (FM - MP) - 20%
 <br>
 
 <h6>Monetary Policy</h6>
+
 |  Week  | Lecture                                | Seminar                                |
 |:------:|----------------------------------------|----------------------------------------|
 |1       | Central Banks	                  | Introduction                           |
