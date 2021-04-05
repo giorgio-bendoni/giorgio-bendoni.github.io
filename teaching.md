@@ -18,7 +18,7 @@ The purpose of this module is to provide first year students in the _BSc Economi
 <br><br>
 <h4 id="embfm"><a href="https://register.port.ac.uk/ords/f?p=111:19:::NO::P19_UNIT_ID:1854820903">Economics of Money, Banking and Financial Markets - M25844 </a></h4>
 <hr />
-This is a core module (see details [here])(embfm_handbook.md) in the second year of the course _BSc Economics, Finance and Banking_ and an optional module for the other courses in Business, Economics and Management. The module is split in two streams:
+This is a core module (see details [here](embfm_handbook.md)) in the second year of the course _BSc Economics, Finance and Banking_ and an optional module for the other courses in Business, Economics and Management. The module is split in two streams:
 1. Banking and Financial Markets (FM) - Interest rates, stock markets, rational markets, financial crises, banking and bank management, financial regulation, banking industry
 2. Central banks and Monetary Policy (MP) - Central banks, monetary theory, monetary policy 
 <br><br>
