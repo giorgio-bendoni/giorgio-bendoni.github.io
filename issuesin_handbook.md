@@ -7,7 +7,7 @@
 
 The content of this module is delivered over two teaching blocks:
 
-<h7>TB1 - Issues in Finance and Banking</h7>
+<h6>TB1 - Issues in Finance and Banking</h6>
 The purpose is to provide first year students in the _BSc Economics, Finance and Banking_ with an early exposure to a selected number of topics of particular relevance to their course:
   1. Money - currency, money, legal tender, monetary aggregates
   2. Banks - banks as companies, regulated activities, deposit taking, lending, balance sheet, asset transformation
@@ -16,7 +16,7 @@ The purpose is to provide first year students in the _BSc Economics, Finance and
   5. Inflation - definition, calculation, inflation indices
 
 
-<h7>TB2 - Developments in economic toughts</h7>
+<h6>TB2 - Developments in economic toughts/h6>
 This stream deals with the general structure, functioning and management of financial markets and institutions, including risks, regulations and crises.
 1. Classical economics
 2. Neo-classical economics
