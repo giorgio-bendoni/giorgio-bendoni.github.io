@@ -13,7 +13,7 @@ There are no prerequisites to attend this course, as students will have studied 
 
 This module is a very popular option at level 5 as it provides wide and strong foundations in the area of banking, financial markets, central banking and monetary policy. 
 
-The content of this module is structured over two separate streams:
+The content of this module is delivered over two separate streams:
 + **Monetary Policy (MP)** - This stream deals with the role of central banks and monetary policy and their impact on the economy. This stream introduces a limited number of formal (mathematical) models and relies mostly on the logical development of arguments
 + **Financial Markets (FM)** - This stream deals with the general structure, functioning and management of financial markets and institutions, including risks, regulations and crises. This stream introduces a number of formal (mathematical) models and relies on the understanding of their logic and on the ability to apply them to realistic scenarios.
 <br><br>
@@ -23,7 +23,8 @@ The content of this module is structured over two separate streams:
 To appreciate:
 1. the structure, conduct and performance of banking and financial markets
 2. the role of financial regulation
-3. the role of central banks’ monetary policy and of financial regulation  
+3. the role of central banks
+4. the scope of monetary policy  
 <br>
 
 <h5>Learning outcomes</h5>
