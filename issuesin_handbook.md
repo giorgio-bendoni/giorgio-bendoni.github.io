@@ -54,7 +54,7 @@ Coursework 2 - 50%
 <h6>Teaching block 1</h6>
   
 | Week | Video lecture                   | Workshop     |  
-|:----:|:--------------------------------|:-------------| 
+|:----:|---------------------------------|--------------| 
 | 1    | Money                           |   a|
 | 2    | Banks                           |  b|
 | 3    | Financial markets and products  |  c|
