@@ -73,6 +73,7 @@ Coursework 3 (IB - FI) - 50%
 | 10     | Banking risks management II          | Banking risks management I           |
 | 11     | Overview                             | Banking risks management II          |
 
+<br>
 <h6>Financial Instruments</h6>
 
 |  Week  | Lecture                                       | Seminar                                       |
