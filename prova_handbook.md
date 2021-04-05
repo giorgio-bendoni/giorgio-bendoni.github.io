@@ -1,7 +1,3 @@
----
-layout: page
----
-
 ## International banking and financial instruments
 
 ### Module overview
