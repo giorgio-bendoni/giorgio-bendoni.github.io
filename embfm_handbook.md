@@ -61,19 +61,19 @@ Coursework 3 (FM - MP) - 20%
 
 <h6>Financial Markets</h6>
 		
-|  Week  | Lecture                                                              | Seminar                              |
-|:------:|----------------------------------------------------------------------|--------------------------------------|
-|1       | Why Study Money, Banking, and Financial Markets?                     | Introduction to the assignment        |
-|2	 | An Overview of the Financial System, introduction to interest rates	| Why Study Money, Banking, and Financial Markets?|
-|3   	 | Stock Market, Rational markets, EMH	                                | An overview of the Financial System, introduction to interest rates|
-|4	 | Banking and the Management of Financial Institutions                 | Stock Market, Rational markets, EMH|
-|5	 | Banking and the Management of Financial Institutions II              | Banking and the Management of Financial Institutions |
-|6	 | Banking and the Management of Financial Institutions III             | Banking and the Management of Financial Institutions II|
-|7	 | Financial regulation and banking industry: structure and competition | Banking and the Management of Financial Institutions III |
+|  Week  | Lecture                                                              | Seminar                                                             |
+|:------:|----------------------------------------------------------------------|---------------------------------------------------------------------|
+|1       | Why Study Money, Banking, and Financial Markets?                     | Introduction to the assignment                                      |
+|2	 | An Overview of the Financial System, introduction to interest rates	| Why Study Money, Banking, and Financial Markets?                    |
+|3   	 | Stock Market, Rational markets, EMH	                                | An overview of the Financial System, introduction to interest rates |
+|4	 | Banking and the Management of Financial Institutions                 | Stock Market, Rational markets, EMH                                 |
+|5	 | Banking and the Management of Financial Institutions II              | Banking and the Management of Financial Institutions                |
+|6	 | Banking and the Management of Financial Institutions III             | Banking and the Management of Financial Institutions II             |
+|7	 | Financial regulation and banking industry: structure and competition | Banking and the Management of Financial Institutions III            |
 |8	 | Financial crises                                                     | Financial regulation and banking industry: structure and competition|
-|9	 | An economic analysis of financial structure                          | Financial crises|
-|10	 | Alternative banking                                                  | An economic analysis of financial structure |
-|11	 | Reflection and revision                                              | Alternative banking|
+|9	 | An economic analysis of financial structure                          | Financial crises                                                    |
+|10	 | Alternative banking                                                  | An economic analysis of financial structure                         |
+|11	 | Reflection and revision                                              | Alternative banking                                                 |
 
 <br>
 
