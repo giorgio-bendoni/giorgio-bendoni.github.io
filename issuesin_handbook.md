@@ -70,21 +70,8 @@ Coursework 2 - 50%
 |
 <br>
 
-<h7>Monetary Policy</h7>
+<h7>Teaching block 2</h7>
 
-|  Week  | Lecture                                | Seminar                                |
-|:------:|----------------------------------------|----------------------------------------|
-|1       | Central Banks	                  | Introduction                           |
-|2       | The money supply process I	          | Central Banks                          |
-|3	 | The money supply process II	          | The money supply process I             |
-|4	 | The tools of monetary policy	          | The money supply process II            |
-|5	 | The conduct of monetary policy	  | The tools of monetary policy           |
-|6	 | The demand for money	                  | The conduct of monetary policy         |
-|7	 | The ISLM                               | The demand for money                   |
-|8	 | Monetary and fiscal policy in the ISLM | The ISLM                               |
-|9	 | The AS/AD                              | Monetary and fiscal policy in the ISLM |
-|10	 | Transmission mechanisms                | The AS/AD                              |
-|11	 | Review of the core topics              | Transmission mechanism                 |
 
 <br><br>
 
