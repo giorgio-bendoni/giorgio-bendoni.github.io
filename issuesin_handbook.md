@@ -6,7 +6,7 @@
 <hr>
 
 <h6>TB1 - Issues in Finance and Banking</h6>
-The purpose is to provide first year students in the _BSc Economics, Finance and Banking_ with an early exposure to a selected number of topics of particular relevance to their course:
+The objective of this part if the module is to provide first year students in the _BSc Economics, Finance and Banking_ with an early exposure to a selected number of topics of particular relevance to their course:
   1. Money - currency, money, legal tender, monetary aggregates
   2. Banks - banks as companies, regulated activities, deposit taking, lending, balance sheet, asset transformation
   3. Financial markets and products - bonds, shares, commodities, financial markets
@@ -15,7 +15,7 @@ The purpose is to provide first year students in the _BSc Economics, Finance and
 <br><br>
 
 <h6>TB2 - Developments in economic toughts</h6>
-This stream deals with the general structure, functioning and management of financial markets and institutions, including risks, regulations and crises.
+The objective of this part fo the module is to provide first year students in the courses in economics with an appreciation of the development of economic theories in the areas of business cycles and development economics. 
 1. Classical economics
 2. Neo-classical economics
 3. Behavioural economics
