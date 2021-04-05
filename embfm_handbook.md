@@ -1,9 +1,9 @@
-<h3>Economics of Money, Banking adn Financial Markets</h3>
+<h3>Economics of Money, Banking and Financial Markets</h3>
 <hr />
 <br>      
 <h5>Module overview</h5>
 <hr />
-This is a Level 56 core module for the course _BSc Economics, Finance and Banking_. This is an optional module for Level 6:
+This is a Level 5 core module for the course _BSc Economics, Finance and Banking_. This is an optional module for Level 6:
 + BA Economics and Management
 + BA European Business
 + BSc Business Economics
