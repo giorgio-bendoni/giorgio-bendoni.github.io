@@ -66,8 +66,8 @@ Coursework 3 (FM - MP) - 20%
 |1       | Why Study Money, Banking, and Financial Markets?                     | Introduction to the assignment                                      |
 |2	 | An Overview of the Financial System, introduction to interest rates	| Why Study Money, Banking, and Financial Markets?                    |
 |3   	 | Stock Market, Rational markets, EMH	                                | An overview of the Financial System, introduction to interest rates |
-|4	 | Banking and the Management of Financial Institutions                 | Stock Market, Rational markets, EMH                                 |
-|5	 | Banking and the Management of Financial Institutions II              | Banking and the Management of Financial Institutions                |
+|4	 | Banking and the Management of Financial Institutions I               | Stock Market, Rational markets, EMH                                 |
+|5	 | Banking and the Management of Financial Institutions II              | Banking and the Management of Financial Institutions I              |
 |6	 | Banking and the Management of Financial Institutions III             | Banking and the Management of Financial Institutions II             |
 |7	 | Financial regulation and banking industry: structure and competition | Banking and the Management of Financial Institutions III            |
 |8	 | Financial crises                                                     | Financial regulation and banking industry: structure and competition|
@@ -82,9 +82,9 @@ Coursework 3 (FM - MP) - 20%
 |  Week  | Lecture                                | Seminar                                |
 |:------:|----------------------------------------|----------------------------------------|
 |1       | Central Banks	                  | Introduction                           |
-|2       | The money supply process (1)	          | Central Banks                          |
-|3	 | The money supply process (2)	          | The money supply process (1)           |
-|4	 | The tools of monetary policy	          | The money supply process (2)           |
+|2       | The money supply process I	          | Central Banks                          |
+|3	 | The money supply process II	          | The money supply process I             |
+|4	 | The tools of monetary policy	          | The money supply process II            |
 |5	 | The conduct of monetary policy	  | The tools of monetary policy           |
 |6	 | The demand for money	                  | The conduct of monetary policy         |
 |7	 | The ISLM                               | The demand for money                   |
@@ -92,8 +92,6 @@ Coursework 3 (FM - MP) - 20%
 |9	 | The AS/AD                              | Monetary and fiscal policy in the ISLM |
 |10	 | Transmission mechanisms                | The AS/AD                              |
 |11	 | Review of the core topics              | Transmission mechanism                 |
-
-
 <br>
 
 <h5>Reading list</h5>
@@ -104,7 +102,7 @@ We will use the following textbooks for general reference and will access origin
 2. Casu, B, Girardone, C, Molyneux, P. (2015). _Introduction to banking_ (2nd edition). Pearson
 3. Duffie, D. (2010). _How big bank fails and what to do about it_. Princeton University Press
 4. Gan, C, Nartea, G. (2017). _Microfinance in Asia_. World scientific publishing company
-5. Giuliodori, M, Matthews, K, Mishkin, F. (2013). Economics of money banking and financial markets (European edition). Pearson
+5. Giuliodori, M, Matthews, K, Mishkin, F. (2013). _Economics of money banking and financial markets_ (European edition). Pearson
 6. Hull, J. (2018). _Risk management in financial institutions_ (5th ed.). Wiley
 7. Mishkin, F (2018). _The economics of Money Banking and Financial Markets_ (12th edition, Global Edition). Pearson
 
