@@ -58,9 +58,10 @@ Coursework 3 (FM - MP) - 20%
 <br>
 
 <h5>Programme outline</h5>
+<hr>
 
 <h6>Financial Markets</h6>
-		
+	
 |  Week  | Lecture                                                              | Seminar                                                             |
 |:------:|----------------------------------------------------------------------|---------------------------------------------------------------------|
 |1       | Why Study Money, Banking, and Financial Markets?                     | Introduction to the assignment                                      |
