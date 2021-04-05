@@ -62,7 +62,7 @@ Coursework 2 - 50%
 | 5    | Inflation                       |  e|
 | 6    | Data                            |  f|
 | 7    | Presentations                   |  g|
-|
+
 <br>
 
 <h6>Teaching block 2</h6>
