@@ -15,6 +15,7 @@ The purpose of this module (see details [here](issuesin.md)) is to provide first
 3. Financial markets and products
 4. Monetary systems
 5. Inflation
+<br>
 The economic theories are:
 1. Classical
 2. Neo-classical
