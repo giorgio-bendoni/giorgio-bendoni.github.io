@@ -40,6 +40,7 @@ The module is delivered via a combination of video lectures and workshops.
 <br>
 + **Video lectures** concentrate on introducing concepts, theories, information and practices.
 + **Workshops** are structured to develop an understanding of the material introduced in the lectures, to offer opportunities for formative assessment in practicing techniques introduced in the lectures and to critically review contemporary issues
+<br><br>
 
 <h5>Assessment</h5>
 <hr>
