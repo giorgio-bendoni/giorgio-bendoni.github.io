@@ -9,17 +9,21 @@ This section is dedicated to the subjects for which I have responsibility as the
 <br><br>
 <h4 id="issues_in"><a href="https://register.port.ac.uk/ords/f?p=111:19:::NO::P19_UNIT_ID:1876085004">Issues in Finance and Banking - M25863</a></h4>
 <hr />
-The purpose of this module (see details [here](issuesin_handbook.md)) is to provide first year students in the _BSc Economics, Finance and Banking_ with an early exposure to a selected number of (1) topics of particular relevance to their course and (2) economic theories. The topics are:
-
+The purpose of this module (see details [here](issuesin_handbook.md)) is to provide first year students in the _BSc Economics, Finance and Banking_ with an early exposure to a selected number of (1) topics of particular relevance to their course and (2) economic theories. <br>
+The topics are:
+1. Money
+2. Banks
+3. Financial markets
+4. Monetary systems
+5. Inflation
 <br>
 
-| Topics | Theories |
-|--------|----------|
-| Money  | Classical |
-| Banks  | Neo-classical |
-| Financial markets | Behavioural |
-| Monetary systems | Business cycles |
-| Inflation | Development | 
+The economic theories are:
+1. Classical
+2. Neo-classical
+3. Behavioural
+4. Business cycles
+5. Development
 
 <br><br>
 
