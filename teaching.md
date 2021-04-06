@@ -9,7 +9,7 @@ This section is dedicated to the subjects for which I have responsibility as the
 <br><br>
 <h4 id="issues_in"><a href="https://register.port.ac.uk/ords/f?p=111:19:::NO::P19_UNIT_ID:1876085004">Issues in Finance and Banking - M25863</a></h4>
 <hr />
-The purpose of this module (see details [here](issuesin_handbook.md)) is to provide first year students in the _BSc Economics, Finance and Banking_ with an early exposure to a selected number of (1) topics of particular relevance to their course and (2) economic theories.
+The purpose of this module (see details [here](issuesin_handbook.md)) is to provide first year students in the _BSc Economics, Finance and Banking_ with an early exposure to a selected number of (1) topics and (2) economic theories.
 <br>
 
 | Topics | Theories |
