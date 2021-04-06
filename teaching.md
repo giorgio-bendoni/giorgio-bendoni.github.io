@@ -39,9 +39,8 @@ This is a core module (see details [here](ibfi_handbook.md)) in the third year o
 <hr />
 This a core module in the third year of the courses _BSc Economics_, _BSc Economics, Finance and Banking_, and _BA Economics and Management_. I will be happy to supervise econometrics dissertations or policy reports in one of the following broad areas:
 + war, security, defence
++ central banking
 + charitable organisations
 + space, aviation and maritime industries
-+ transport
-+ silver economy
 
 Please contact me to discuss your ideas and to see whether I could adequately support you
