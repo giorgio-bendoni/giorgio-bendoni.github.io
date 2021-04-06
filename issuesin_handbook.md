@@ -17,7 +17,7 @@ The objective of this part if the module is to provide first year students in th
 <br><br>
 
 <h6>TB2 - Developments in economic toughts</h6>
-The objective of this part fo the module is to provide first year students in the courses in economics with an appreciation of the development of economic theories in the areas of business cycles and development economics. 
+The objective of this part fo the module is to provide first year students in the courses in economics with an appreciation of the development of a few, selected economic theories. 
 1. Classical economics
 2. Neo-classical economics
 3. Behavioural economics
