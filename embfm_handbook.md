@@ -103,9 +103,9 @@ We will use the following textbooks for general reference and will access origin
 2. Casu, B, Girardone, C, Molyneux, P. (2015). _Introduction to banking_ (2nd edition). Pearson
 3. Duffie, D. (2010). _How big bank fails and what to do about it_. Princeton University Press
 4. Gan, C, Nartea, G. (2017). _Microfinance in Asia_. World scientific publishing company
-5. Giuliodori, M, Matthews, K, Mishkin, F. (2013). _Economics of money banking and financial markets_ (European edition). Pearson
+5. Giuliodori, M, Matthews, K, Mishkin, F. (2013). _The economics of money, banking and financial markets_ (European edition). Pearson
 6. Hull, J. (2018). _Risk management in financial institutions_ (5th ed.). Wiley
-7. Mishkin, F (2018). _The economics of Money Banking and Financial Markets_ (12th edition, Global Edition). Pearson
+7. Mishkin, F. (2018). _The economics of Money, banking and financial markets_ (12th edition, Global Edition). Pearson
 
 
 
