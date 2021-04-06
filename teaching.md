@@ -12,7 +12,6 @@ This section is dedicated to the subjects for which I have responsibility as the
 The purpose of this module (see details [here](issuesin_handbook.md)) is to provide first year students in the _BSc Economics, Finance and Banking_ with an early exposure to a selected number of (1) topics of particular relevance to their course and (2) economic theories. The topics are:
 
 <br>
-<center>
 | Topics | Theories |
 |--------|----------|
 | Money  | Classical |
@@ -20,7 +19,6 @@ The purpose of this module (see details [here](issuesin_handbook.md)) is to prov
 | Financial markets | Behavioural |
 | Monetary systems | Business cycles |
 | Inflation | Development | 
-</center>
 <br><br>
 
 
