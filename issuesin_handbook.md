@@ -12,6 +12,8 @@ The objective of this part if the module is to provide first year students in th
   3. Financial markets and products - bonds, shares, commodities, financial markets
   4. Monetary systems - central banks, base rate, money supply, monetary policy
   5. Inflation - definition, calculation, inflation indices
+  6. Data - selection of sources and presentation of data and information
+  7. Presentations - general guidelines on how to prepare a short presentation: slideware, structure, topics, style
 <br><br>
 
 <h6>TB2 - Developments in economic toughts</h6>
@@ -45,32 +47,11 @@ Coursework 1 - 50%
 : One individual presentation
 
 Coursework 2 - 50%
-: One 2,000-word individual essay that addresses the learning outcomes 1 - 6.
+: One 2,000-word individual essay
 <br><br>
 
-<h5>Programme outline</h5>
-<hr>
-
-<h6>Teaching block 1</h6>
-  
-| Week | Video lecture                   | Workshop     |  
-|:----:|---------------------------------|--------------| 
-| 1    | Money                           |   a|
-| 2    | Banks                           |  b|
-| 3    | Financial markets and products  |  c|
-| 4    | Monetary systems                |  d|
-| 5    | Inflation                       |  e|
-| 6    | Data                            |  f|
-| 7    | Presentations                   |  g|
-
-<br>
-
-<h6>Teaching block 2</h6>
-
-
-<br><br>
 
 <h5>Reading list</h5>
 <hr>
-We will use the following textbooks for general reference and will access original sources (banks, central banks, the Bank for International Settlements, the IMF, the World Bank, the OECD and S&P Global) to find current data and other relevant information on the various topics of the programme.
+There are no reference textbooks for this module. In TB1 we will use official sources of information (Bank of England, Office for national statistics, OECD, FRED, World Bank, IMF, banks' websites). In TB2 we will use extracts of selected books and articles.
 
