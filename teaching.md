@@ -20,7 +20,7 @@ The purpose of this module (see details [here](issuesin_handbook.md)) is to prov
 | Monetary systems | Business cycles |
 | Inflation | Development |
 
-<br><br>
+<br>
 
 
 <h4 id="embfm"><a href="https://register.port.ac.uk/ords/f?p=111:19:::NO::P19_UNIT_ID:1854820903">Economics of Money, Banking and Financial Markets - M25844 </a></h4>
