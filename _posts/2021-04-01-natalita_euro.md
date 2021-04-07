@@ -7,7 +7,7 @@ tags: [demografia, euro, italiano]
 
 Qualche giorno addietro, un amico commentò in modo colorito un post, su Facebook, il cui autore addebitava la scarsa natalità in Italia all'adozione della moneta unica, l'Euro.
 
-Ovviamente ciò non è vero perché il tasso di natalità ha un trend negativo dai primi anni 60. Comunque, ho voluto documentarmi piu' precisamente e condivido un grafico della World Bank in cui é indicato il "Birth rate, crude (per 1,000 people)" in Italia dal 1960 ad oggi.
+Ovviamente ciò non è vero perché il tasso di natalità ha un trend negativo dai primi anni 60. Comunque, ho voluto documentarmi piu' precisamente e condivido un grafico della World Bank in cui é indicato il "Birth rate, crude (per 1,000 people)" in Italia dal 1960 ad oggi ([^1]).
 
 <iframe src="https://data.worldbank.org/share/widget?indicators=SP.DYN.CBRT.IN&locations=IT" width='700' height='466' frameBorder='0' scrolling="no" ></iframe>
 <br>
@@ -30,3 +30,6 @@ Dalla seguente tabella si vede la consistenza di adolescenti di 20 anni di eta' 
 | 2014 |  8.3       |  60,409,620 | 501,400   | 537,807     |  
 | 2024 |     -      |     -       |    -      | 567,895     |      
 | 2034 |     -      |             |           | 501,400     |
+
+
+[^1]: 
