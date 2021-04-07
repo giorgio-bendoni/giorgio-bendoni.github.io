@@ -14,7 +14,7 @@ Ovviamente ciò non è vero perché il tasso di natalità ha un trend negativo d
 
 Come si vede, il picco di nascite per 1,000 abitanti fu raggiunto nel 1964, seguito da una continua diminuzione, con un periodo di stasi tra il 1986 ed il 2008 ed un successivo, ripido declino dal 2009.
 
-![alt-text](https://github.com/giorgio-bendoni/giorgio-bendoni.github.io/blob/master/images/demographics_italy.svg)
+![alt-text](/images/demographics_italy.svg)
 
 Un pensiero che mi é venuto é relativo al posibile impatto della bassa natalitá sui successi sportivi nazionali.
 
