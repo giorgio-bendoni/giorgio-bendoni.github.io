@@ -11,7 +11,7 @@ When discussing asset bubbles in my course on central banking and monetary polic
 
 To understand why, we can look at a recent case. Credit-driven asset bubbles are market conditions in which a specific type of asset experiences increasing prices that depart from _fundamental_ values. We will look at the credit-driven, US housing bubble burst in 2006, that contributed to cause the 2008 recession.
 
-Following the dot-com bubble burst of the year 2000 and the light recession of 2001 (which concluded a 2-year period of stagnating growth - figure 1), the Federal Reserve maintained an expansionary montetary policy stance that achieved a very low Effective Funds Rate: about 1% between 2003 and 2004 (figure 2).
+Following the dot-com bubble burst of the year 2000 and the mild recession of 2001 (which concluded a 2-year period of stagnating growth - figure 1), the Federal Reserve maintained an expansionary monetary policy stance that achieved a very low Effective Funds Rate: about 1% between 2003 and 2004 (figure 2).
 <br>
 
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=CW0R&width=750&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:750px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
@@ -32,7 +32,7 @@ Incentivised by low interest rates, private residential fixed investments (inves
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=CVka&width=750&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:750px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 _Figure 4 - Private Residential Fixed Investment (PRFI)_
 
-As demand increased at a rate faster than supply, fueled by easy credit conditions, the prices of houses started to increase. In some areas they increased very quickly (figure 5). The ever increasing house prices were providing to lenders the false guarantee that future market values would have kept intact the quality of the collateral for the mortgages. In such conditions, government entities such as Fannie Mae and Freddi Mac guaranteed mortgages even to subprime borrowers, who would have not qualified for loans in different market conditions. 
+As demand increased at a rate faster than supply, fuelled by easy credit conditions, the prices of houses started to increase. In some areas they increased very quickly (figure 5). The ever increasing house prices were providing to lenders the false guarantee that future market values would have kept intact the quality of the collateral for the mortgages. In such conditions, government entities such as Fannie Mae and Freddi Mac guaranteed mortgages even to subprime borrowers, who would have not qualified for loans in different market conditions. 
 <br>
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=CVj2&width=750&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:750px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 _Figure 5 - All-Transactions House Price Index for Florida (FLSTHPI)_
