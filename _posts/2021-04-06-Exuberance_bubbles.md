@@ -8,7 +8,7 @@ subtitle: Housing market in the USA
 tags: [asset bubble, exuberance, english]
 ---
 
-In a separate post I have mentioned the dot-com bubble, whose inflation started in the mid-1990s and finally burst in 2000; this lead to a short recession and a 2-year growth stagnation in the USA (figure 1 - recession in grey).
+In a separate post I have mentioned the dot-com bubble, whose inflation started in the mid-1990s and finally burst in 2000; this lead, in the USA, to a 2-year growth stagnation and a short recession (figure 1 - recession in grey).
 
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=CW0R&width=750&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:750px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 _Figure 1 - Real Gross Domestic Product (GDPC1)_
