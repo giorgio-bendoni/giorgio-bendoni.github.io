@@ -5,7 +5,7 @@ subtitle: Housing market in the USA
 # cover-img: /assets/img/path.jpg
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
-tags: [Central bank, asset bubble, english]
+tags: [central bank, asset bubble, english]
 ---
 When discussing asset bubbles in my course on central banking and monetary policy, I pose two questions: (1) should central banks respond to bubbles and (2) should monetary policy be used to prick such bubbles. In both cases, the answer is no.
 
