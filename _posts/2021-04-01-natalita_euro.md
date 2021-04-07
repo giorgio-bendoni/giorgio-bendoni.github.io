@@ -14,7 +14,7 @@ Ovviamente ciò non è vero perché il tasso di natalità ha un trend negativo d
 
 Come si vede, il picco di nascite di 19.7 per 1,000 abitanti fu raggiunto nel 1964, seguito da una continua diminuzione, con un periodo di stasi tra il 1986 ed il 2008 ed un successivo, ripido declino dal 2009. Assumendo che tutti i nati nel 1964 siano sopravvissuti, nel 1982 si osserva il numero piu' alto di diciottenni dalla fine della seconda guerra mondiale.
 
-![](/images/demographics_italy.svg)
+![](/images/demographics720.png)
 
 Un pensiero che mi é venuto é relativo al posibile impatto della bassa natalitá sui successi sportivi nazionali.
 
