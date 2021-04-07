@@ -14,7 +14,7 @@ To understand why, we can look at a recent case. Credit-driven asset bubbles are
 Following the dot-com bubble burst of the year 2000 and the light recession of 2001 (which concluded a 2-year period of stagnating growth - figure 0), the Federal Reserve maintained an expansionary montetary policy stance that achieved a very low Effective Funds Rate: about 1% between 2003 and 2004 (figure 1).
 <br>
 
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=CW0R&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=CW0R&width=750&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:750px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 _Figure 0 - Real Gross Domestic Product (GDPC1) _
 
 <br>
