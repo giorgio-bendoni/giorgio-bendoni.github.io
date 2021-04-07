@@ -16,5 +16,5 @@ Exuberance-driven bubble are of interest under the perpectives of efficient mark
 
 The objective here is to simply display what the bubble looked like (figure 1).
 
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=CW1H&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=CW1H&width=750&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:750px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 _Figure 1 - NASDAQ Composite Index (NASDAQCOM)_
