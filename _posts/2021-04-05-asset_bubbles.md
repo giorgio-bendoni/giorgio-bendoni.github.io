@@ -11,10 +11,16 @@ When discussing asset bubbles in my course on central banking and monetary polic
 
 To understand why, we can look at a recent case. Credit-driven asset bubbles are market conditions in which a specific type of asset experiences increasing prices that depart from _fundamental_ values. We will look at the credit-driven, US housing bubble burst in 2006, that contributed to cause the 2008 recession.
 
-Following the dot-com bubble burst of the year 2000 and the recession of 2001, the Federal Reserve maintained an expansionary montetary policy stance that achieved a very low Effective Funds Rate: about 1% between 2003 and 2004 (figure 1).
+Following the dot-com bubble burst of the year 2000 and the light recession of 2001 (which concluded a 2-year period of stagnating growth - figure 0), the Federal Reserve maintained an expansionary montetary policy stance that achieved a very low Effective Funds Rate: about 1% between 2003 and 2004 (figure 1).
 <br>
+
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=CW0R&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+_Figure 0 - Real Gross Domestic Product (GDPC1) _
+
+<br>
+
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=CVfR&width=750&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:750px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
-_Figure 1 -  Effective Federal Funds Rate (DFF)_
+_Figure 1 - Effective Federal Funds Rate (DFF)_
 
 At the same time, core inflation was displaying a decreasing trend (between the end of 2001 and the end of 2003 - figure 2) which never required a reversal of the existing monetary policy stance.
 <br>
