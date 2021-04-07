@@ -37,7 +37,7 @@ As demand increased at a rate faster than supply, fuelled by easy credit conditi
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=CVj2&width=750&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:750px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 _Figure 5 - All-Transactions House Price Index for Florida (FLSTHPI)_
 
-In same areas, however, prices did not increase that dramatically (figure 6).
+In some areas, however, prices did not increase that dramatically (figure 6).
 <br>
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=CVkl&width=750&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:750px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 _Figure 6 - All-Transactions House Price Index for Austin-Round Rock-Georgetown, TX (MSA)_
