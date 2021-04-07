@@ -15,7 +15,7 @@ Following the dot-com bubble burst of the year 2000 and the light recession of 2
 <br>
 
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=CW0R&width=750&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:750px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
-_Figure 0 - Real Gross Domestic Product (GDPC1) _
+_Figure 0 - Real Gross Domestic Product (GDPC1)_
 
 <br>
 
