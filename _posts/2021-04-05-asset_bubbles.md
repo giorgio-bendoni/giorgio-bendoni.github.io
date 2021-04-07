@@ -48,7 +48,7 @@ Meanwhile, the financial industry had heavily invested in mortgage-backed securi
 
 Now back to the original questions: what could, or should, the Federal Reserve have done?
 
-Firstly, bubbles are difficult to detect. Even the definition (_asset prices departing from fundamental values_) does not provide clear criteria to tell a genuine bubble from a simple shift in market dynamics, related perhaps to an external shock. Also, different trends may coexsist at the same time, within the same market; for example, in the case of the US housing bubble, some locations experienced dramatic increase in prices, others did not (figure 4 and 5).
+Firstly, bubbles are difficult to detect. Even the definition (_asset prices departing from fundamental values_) does not provide clear criteria to tell a genuine bubble from a simple shift in market dynamics, related perhaps to an external shock. Also, different trends may coexsist at the same time, within the same market; for example, in the case of the US housing bubble, some locations experienced dramatic increase in prices, others did not (figure 5 and 6).
 
 Secondly, central banks are not in a privileged position from where to detect bubbles and to identify their nature. They do not have more information or insight  than other market participants.
 
