@@ -16,7 +16,7 @@ _Figure 1 - Real Gross Domestic Product (GDPC1)_
 
 That bubble was caused by irrational exuberance, to be interpreted as overly optimistic expectations of returns from investments in specific types of asset. The bubble involved stock of tech companies listed at NASDAQ.
 
-Exuberance-driven bubble are of interest under the perpectives of efficient markets, rational expectations and behavioural economics. Despite the result of an inefficient allocation of resources, these bubbles are by far less damaging
+Exuberance-driven bubble are of interest under the perpectives of efficient markets, rational expectations and behavioural economics. Despite the results of an inefficient allocation of resources, these bubbles are by far less damaging than credit driven-bubbles and have a shorter term effect on the economy.
 
 The objective here is to simply display what the bubble looked like (figure 2).
 
