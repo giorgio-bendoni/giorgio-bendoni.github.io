@@ -5,16 +5,16 @@ subtitle: La demografia non mente
 tags: [demografia, euro, italiano]
 ---
 
-Qualche giorno addietro, su Facebook, un amico commentò un post in cui la ridotta natalità in Italia sarebbe da ricondursi all'adozione della moneta unica, l'Euro.
+Qualche giorno addietro, un amico commentò in modo colorito un post, su Facebook, il cui autore addebitava la scarsa natalità in Italia all'adozione della moneta unica, l'Euro.
 
 Ovviamente ciò non è vero perché il tasso di natalità ha un trend negativo dai primi anni 60. Comunque, ho voluto documentarmi piu' precisamente e condivido un grafico della World Bank in cui é indicato il "Birth rate, crude (per 1,000 people)" in Italia dal 1960 ad oggi.
 
 <iframe src="https://data.worldbank.org/share/widget?indicators=SP.DYN.CBRT.IN&locations=IT" width='700' height='466' frameBorder='0' scrolling="no" ></iframe>
 <br>
 
-Come si vede, il picco di nascite per 1,000 abitanti fu raggiunto nel 1964, seguito da una continua diminuzione, con un periodo di stasi tra il 1986 ed il 2008 ed un successivo, ripido declino dal 2009.
+Come si vede, il picco di nascite di 19.7 per 1,000 abitanti fu raggiunto nel 1964, seguito da una continua diminuzione, con un periodo di stasi tra il 1986 ed il 2008 ed un successivo, ripido declino dal 2009. Assumendo che tutti i nati nel 1964 siano sopravvissuti, nel 1982 si osserva il numero piu' alto di diciottenni dalla fine della seconda guerra mondiale.
 
-![alt-text](/images/demographics_italy.svg =700x500)
+![](/images/demographics_italy.svg)
 
 Un pensiero che mi é venuto é relativo al posibile impatto della bassa natalitá sui successi sportivi nazionali.
 
