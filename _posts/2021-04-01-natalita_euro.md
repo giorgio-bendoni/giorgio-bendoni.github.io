@@ -1,0 +1,26 @@
+---
+layout: post
+title: Credit-driven asset bubbles 
+subtitle: Housing market in the USA
+tags: [demografia, euro, italiano]
+---
+
+Qualche giorno addietro, su Facebook, un amico commentò un post in cui la ridotta natalità in Italia sarebbe da ricondursi all'adozione della moneta unica, l'Euro.
+
+Ovviamente ciò non è vero perché il tasso di natalità ha un trend negativo dai primi anni 60. Comunque, ho voluto documentarmi piu' precisamente e condivido un grafico della World Bank in cui é indicato il "Birth rate, crude (per 1,000 people)" in Italia dal 1960 ad oggi.
+
+<iframe src="https://data.worldbank.org/share/widget?indicators=SP.DYN.CBRT.IN&locations=IT" width='700' height='466' frameBorder='0' scrolling="no" ></iframe>
+<br>
+
+Come si vede, il picco di nascite per 1,000 abitanti fu raggiunto nel 1964, seguito da una continua diminuzione, con un periodo di stasi tra il 1986 ed il 2008 ed un successivo, ripido declino dal 2009.
+
+Un pensiero che mi é venuto é relativo al posibile impatto della bassa natalitá sui successi sportivi nazionali.
+
+Dalla seguente tabella si vede la consistenza di adolescenti di 20 anni di eta' nel 1984 e nel 2004
+
+| Anno | Birth rate | Popolazione |    Nati   | # di 20enni |
+| :---:| :---------:| :---------: | :-------: | :---------: |
+| 1964 | 19.7       |  51,273,231 | 1,010,083 |             |
+| 1984 | 10.4       |  56,863,167 | 591,377   | 1,010,083   |
+| 2004 | 9.8.       |  57,948,424 | 567,895   | 591,377     | 
+
