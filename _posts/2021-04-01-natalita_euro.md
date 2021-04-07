@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Credit-driven asset bubbles 
-subtitle: Housing market in the USA
+title: Bassa natalitá, Euro e successi sportivi 
+subtitle: La demografia non mente
 tags: [demografia, euro, italiano]
 ---
 
@@ -20,7 +20,11 @@ Dalla seguente tabella si vede la consistenza di adolescenti di 20 anni di eta' 
 
 | Anno | Birth rate | Popolazione |    Nati   | # di 20enni |
 | :---:| :---------:| :---------: | :-------: | :---------: |
-| 1964 | 19.7       |  51,273,231 | 1,010,083 |             |
+| 1964 | 19.7       |  51,273,231 | 1,010,083 |   393,578   |
+| 1974 | 15.8       |  54,957,794 | 868,333   |   774,815   |
 | 1984 | 10.4       |  56,863,167 | 591,377   | 1,010,083   |
-| 2004 | 9.8.       |  57,948,424 | 567,895   | 591,377     | 
-
+| 1994 | 9.4.       |  57,213,544 | 537,807   | 868,333     |
+| 2004 | 9.8        |  57,948,424 | 567,895   | 591,377     |
+| 2014 |  8.3       |  60,409,620 | 501,400   | 537,807     |  
+| 2024 |     -      |     -       |    -      | 567,895     |      
+| 2034 |     -      |             |           | 501,400     |
