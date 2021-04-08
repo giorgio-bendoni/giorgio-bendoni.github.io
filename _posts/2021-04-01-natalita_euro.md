@@ -5,16 +5,23 @@ subtitle: La demografia non mente
 tags: [demografia, euro, italiano]
 ---
 
-Qualche giorno addietro, un amico commentò in modo colorito un post il cui autore addebitava la scarsa natalità in Italia all'adozione della moneta unica, l'Euro.
+Qualche giorno addietro, mi sono imbattuto in un post il cui autore individuava la causa della scarsa natalità in Italia nell'adozione della moneta unica, l'Euro.
 
-Ovviamente ciò non è vero perché il tasso di natalità ha un trend negativo dai primi anni 60. Comunque, ho voluto documentarmi piu' precisamente e condivido un grafico della World Bank in cui é indicato il "Birth rate, crude (per 1,000 people)" in Italia dal 1960 ad oggi[^1].
+Ovviamente ciò non è vero perché il tasso di natalità ha un trend negativo dai primi anni 60. Comunque, ho voluto documentarmi piu' precisamente e condivido un grafico della World Bank in cui é indicato il taso di natalità (Birth rate, crude - per 1,000 people) in Italia, dal 1960 ad oggi[^1].
 
 <iframe src="https://data.worldbank.org/share/widget?indicators=SP.DYN.CBRT.IN&locations=IT" width='700' height='466' frameBorder='0' scrolling="no" ></iframe>
 <br>
 
-Come si vede, il picco di nascite di 19.7 per 1,000 abitanti fu raggiunto nel 1964, seguito da una continua diminuzione, con un periodo di stasi tra il 1986 ed il 2008 ed un successivo, ripido declino dal 2009. Assumendo che tutti i nati nel 1964 siano sopravvissuti, nel 1982 si osserva il numero piu' alto di diciottenni dalla fine della seconda guerra mondiale.
+Come si vede, il picco di nascite di 19.7 per 1,000 abitanti fu raggiunto nel 1964, seguito da una continua diminuzione, con un periodo di stasi tra il 1986 ed il 2008 ed un successivo, ripido declino dal 2009 ad oggi. Non esiste alcun mutamento di trend in occasione dell'adozione dell'Euro, o dei passaggi della sua introduzione.
+
+Incuriosito, ho cercato le serie storiche dei dati del tasso di natalità in Italia negli anni precedenti ed ho costruito il seguente diagramma.
 
 ![](/images/ita_dem_1862_2019.svg)
+
+Dal 1862 al 1915 il tasso di natalità é oscillato tra il 30 and il 35 &#8240;. Si vede poi chiaramente l'impatto sulla natalità delle due guerre mondiali ma sembra anche di notare l'inizio di un suo declino dal 1920 in poi. 
+
+ 
+
 
 
 Un pensiero che mi é venuto é relativo al posibile impatto della bassa natalitá sui successi sportivi nazionali.
