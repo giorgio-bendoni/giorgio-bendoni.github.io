@@ -41,7 +41,7 @@ _Figure 6 - All-Transactions House Price Index for Austin-Round Rock-Georgetown,
 
 When inflation started to increase, in January 2004 (figure 3), the Federal Reserve reacted with a tightening of its monetary policy and the Fed Funds Rate Target increased continuously from mid 2004 to mid 2006 (figure 2). As a consequence, the rate of growth of residential fixed investment decreased at the end of 2005 and became negative in early 2006 (until the end of 2010 - figure 4). Housing prices declined dramatically therefore deflating the bubble (figure 5).
 
-Meanwhile, the financial industry had heavily invested in mortgage-backed securities (MBS) and derivatives (such as the Collateralised Debt Obligations - CDO). Once the market prices of the collaterals (the houses) steeply declined, the value of mortgages and of the MBS collapsed, driving the balance sheet of many banks towards illiquidity, if not straight into insolvency. The downturn on the housing market had just become a financial crisis, causing the 2008 recession.
+Meanwhile, the financial industry had heavily invested in mortgage-backed securities (MBS) and derivatives (such as the Collateralised Debt Obligations - CDO). Once the market prices of the collaterals (the houses) steeply declined, the value of mortgages and of the MBS collapsed, driving the balance sheet of many banks towards illiquidity, if not straight into insolvency. The downturn in the housing market had just become a financial crisis, causing the 2008 recession.
 
 Now back to the original questions: what could, or should, the Federal Reserve have done?
 
