@@ -54,5 +54,5 @@ Secondly, central banks are not in the privileged position they appear to be in;
 
 Thirdly, even if a bubble was detectable, central banks could only deploy a contractionary monetary policy by increasing the base rate (the Fed Funds Rate Target in the US). However, such a policy would negatively affect investments (and, only later, prices) across the entire economy, not just in the sector in which, allegedly, a bubble is inflating.
 
-To answer the original questions, central banks are not in a better position than other market participants to detect an asset bubble and, even if they were able to detect it, they do not have a suitable tool to prick it without negatively affecting the entire economy.
+To answer the original questions, central banks should not respond to asset bubbles as they are not in a better position than other market participants to detect it and, even if they were able to detect it, monetary policy does not provide a suitable tool to prick the bubble without negatively affecting the entire economy.
 
