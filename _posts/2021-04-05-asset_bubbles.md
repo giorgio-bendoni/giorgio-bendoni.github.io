@@ -47,7 +47,7 @@ Now back to the original questions: what could, or should, the Federal Reserve h
 
 Firstly, bubbles are difficult to detect. Even the definition (_asset prices departing from fundamental values_) does not provide clear criteria to tell a genuine bubble from a simple shift in market dynamics, related perhaps to an external shock. In addition, different trends may coexsist at the same time, within the same market; for example, in the case of the US housing bubble, some locations experienced a dramatic increase in prices, others did not (figure 5 and 6).
 
-Secondly, central banks are not in the privileged position they appear to be in; they do not have mor einformation or insight than other market paricipants, so they are unable to detect bubbles and to identify theur nature.
+Secondly, central banks are not in the privileged position they appear to be in; they do not have more information or insight than other market paricipants, so they are unable to detect bubbles and to identify their nature.
 
 Thirdly, even if a bubble was detectable, central banks could only deploy a contractionary monetary policy by increasing the base rate (the Fed Funds Rate Target in the US). However, such a policy would negatively affect investments (and, only later, prices) across the entire economy, not just in the sector in which, allegedly, a bubble is inflating.
 
