@@ -22,7 +22,7 @@ Dal 1862 al 1915 il tasso di natalità é oscillato tra il 30 and il 35 &#8240;.
 
 E lo sport?
 
-Nel 1965 il numero di nati vivi superò il milione. Questo vuol dire che 15 anni dopo, nel 1980, il bacino di giovani da avviare allo sport era, grosso modo, di un milione. Nel 1995 il numero di nati vivi superò di poco il mezzo milione. Nel 2010, il bacino di giovani da avviare allo sport era, quindi, grosso modo la metà di quelli disponibili nel 1980. Anche se la qualitá dei processi di selezione é migliorata, la dimensione del bacino di potenziali atleti é un fattore che indubbiamente influenza la capacitá di ottenere successi sportivi in una molteplicitá di discipline. La demografia può contribuire a spiegare come mai la nazionale di calcio ha avuto crescenti difficoltá ripetere i successi del passato.
+Nel 1965 il numero di nati vivi superò il milione. Questo vuol dire che 15 anni dopo, nel 1980, il bacino di giovani da avviare allo sport era, grosso modo, di un milione. Nel 1995 il numero di nati vivi superò di poco il mezzo milione. Nel 2010, il bacino di giovani da avviare allo sport era, quindi, grosso modo la metà di quelli disponibili nel 1980. Anche se la qualitá dei processi di selezione é migliorata, la dimensione del bacino di potenziali atleti é un fattore che indubbiamente influenza la capacitá di ottenere successi sportivi in una molteplicitá di discipline. La demografia può contribuire a spiegare come mai la nazionale di calcio ha avuto crescenti difficoltá a ripetere i successi del passato.
 
 
 
