@@ -14,7 +14,7 @@ Ovviamente ciò non è vero: non solo la relazione causale tra sistema monetario
 
 Come si vede, il picco di nascite di 19.7 per 1,000 abitanti fu raggiunto nel 1964, seguito da una continua diminuzione, con un periodo di stasi tra il 1986 ed il 2008 ed un successivo, ripido declino dal 2009 ad oggi. Non esiste alcun mutamento di trend in occasione dell'adozione dell'Euro, o dei passaggi della sua introduzione.
 
-Incuriosito, ho cercato le serie storiche ISTAT[^2] del tasso di natalità in Italia ed ho costruito il seguente diagramma.
+Incuriosito, ho cercato le serie storiche ISTAT[^2] del tasso di natalità ed ho costruito il seguente diagramma.
 
 ![](/images/ita_dem_1862_2019.svg)
 
