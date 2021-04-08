@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bassa natalitá, Euro e successi sportivi 
+title: Natalità, Euro e sport 
 subtitle: La demografia non mente
 tags: [demografia, euro, italiano]
 ---
