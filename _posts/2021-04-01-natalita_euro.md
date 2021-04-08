@@ -7,7 +7,7 @@ tags: [demografia, euro, italiano]
 
 Qualche giorno addietro, un amico commentò in modo colorito un post il cui autore addebitava la scarsa natalità in Italia all'adozione della moneta unica, l'Euro.
 
-Ovviamente ciò non è vero perché il tasso di natalità ha un trend negativo dai primi anni 60. Comunque, ho voluto documentarmi piu' precisamente e condivido un grafico della World Bank in cui é indicato il "Birth rate, crude (per 1,000 people)" in Italia dal 1960 ad oggi ([^1]).
+Ovviamente ciò non è vero perché il tasso di natalità ha un trend negativo dai primi anni 60. Comunque, ho voluto documentarmi piu' precisamente e condivido un grafico della World Bank in cui é indicato il "Birth rate, crude (per 1,000 people)[^1]" in Italia dal 1960 ad oggi.
 
 <iframe src="https://data.worldbank.org/share/widget?indicators=SP.DYN.CBRT.IN&locations=IT" width='700' height='466' frameBorder='0' scrolling="no" ></iframe>
 <br>
