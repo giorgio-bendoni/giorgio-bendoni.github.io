@@ -18,7 +18,7 @@ Incuriosito, ho cercato le serie storiche ISTAT[^2] del tasso di natalità in It
 
 ![](/images/ita_dem_1862_2019.svg)
 
-Dal 1862 al 1915 il tasso di natalità é oscillato tra il 30 and il 35 &#8240;. Si vede poi chiaramente l'impatto sulla natalità delle due guerre mondiali ma sembra anche di notare l'inizio di un trend in declino dal 1920 in poi. Ovviamente il tasso di natalità é influenzato da fattori differenti: consistenza della popolazione per fasce d'età e sesso, credo religioso, accettazione della contraccezione e dell'aborto, opportunità di lavoro femminile, condizioni economiche, livello di povertà, tasso di mortalità, conflitti o guerre, età tipica femminile al matrimonio, livello di educazione. In ogni caso, qualunque sia stata la combinazione di fattori, l'Italia mostra un tasso decrescente di natalità da quasi cento anni.
+Dal 1862 al 1915 il tasso di natalità é oscillato tra il 30 and il 35 &#8240;. Si vede poi chiaramente l'impatto sulla natalità delle due guerre mondiali ma sembra anche di notare l'inizio di un trend in declino dal 1920 in poi. Ovviamente il tasso di natalità é influenzato da fattori differenti[^3]: consistenza della popolazione per fasce d'età e sesso, credo religioso, accettazione della contraccezione e dell'aborto, opportunità di lavoro femminile, condizioni economiche, livello di povertà, tasso di mortalità, conflitti o guerre, età tipica femminile al matrimonio, livello di educazione. In ogni caso, qualunque sia stata la combinazione di fattori, l'Italia mostra un tasso decrescente di natalità da quasi cento anni.
 
 E lo sport?
 
@@ -30,3 +30,4 @@ Nel 1965 il numero di nati vivi superò il milione. Questo vuol dire che 15 anni
 
 [^1]: [World Bank data](https://data.worldbank.org/indicator/SP.DYN.CBRT.IN?locations=IT)
 [^2]: [ISTAT - Banche dati](https://www.istat.it/it/dati-analisi-e-prodotti/banche-dati)
+[^3]: [Population education](https://populationeducation.org/what-factors-affect-the-total-fertility-rate-or-tfr/)
