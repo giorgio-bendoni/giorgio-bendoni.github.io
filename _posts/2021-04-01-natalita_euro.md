@@ -14,30 +14,19 @@ Ovviamente ciò non è vero perché il tasso di natalità ha un trend negativo d
 
 Come si vede, il picco di nascite di 19.7 per 1,000 abitanti fu raggiunto nel 1964, seguito da una continua diminuzione, con un periodo di stasi tra il 1986 ed il 2008 ed un successivo, ripido declino dal 2009 ad oggi. Non esiste alcun mutamento di trend in occasione dell'adozione dell'Euro, o dei passaggi della sua introduzione.
 
-Incuriosito, ho cercato le serie storiche dei dati del tasso di natalità in Italia negli anni precedenti ed ho costruito il seguente diagramma.
+Incuriosito, ho cercato le serie storiche ISTAT[^2] del tasso di natalità in Italia negli anni precedenti ed ho costruito il seguente diagramma.
 
 ![](/images/ita_dem_1862_2019.svg)
 
-Dal 1862 al 1915 il tasso di natalità é oscillato tra il 30 and il 35 &#8240;. Si vede poi chiaramente l'impatto sulla natalità delle due guerre mondiali ma sembra anche di notare l'inizio di un suo declino dal 1920 in poi. 
+Dal 1862 al 1915 il tasso di natalità é oscillato tra il 30 and il 35 &#8240;. Si vede poi chiaramente l'impatto sulla natalità delle due guerre mondiali ma sembra anche di notare l'inizio di un trend in declino dal 1920 in poi. Ovviamente il tasso di natalità é influenzato da fattori differenti: consistenza della popolazione per fasce d'età e sesso, credo religioso, accettazione della contraccezione e dell'aborto, opportunità di lavoro femminile, condizioni economiche, livello di povertà, tasso di mortalità, conflitti o guerre, età tipica femminile al matrimonio, livello di educazione. In ogni caso, qualunque sia stata la combinazione di fattori, l'Italia mostra un tasso decrescente di natalità da quasi cento anni.
 
- 
+E lo sport?
 
-
-
-Un pensiero che mi é venuto é relativo al posibile impatto della bassa natalitá sui successi sportivi nazionali.
-
-Dalla seguente tabella si vede la consistenza di adolescenti di 20 anni di eta' nel 1984 e nel 2004
-
-| Anno | Birth rate | Popolazione |    Nati   | # di 20enni |
-| :---:| :---------:| :---------: | :-------: | :---------: |
-| 1964 | 19.7       |  51,273,231 | 1,010,083 |   393,578   |
-| 1974 | 15.8       |  54,957,794 | 868,333   |   774,815   |
-| 1984 | 10.4       |  56,863,167 | 591,377   | 1,010,083   |
-| 1994 | 9.4.       |  57,213,544 | 537,807   | 868,333     |
-| 2004 | 9.8        |  57,948,424 | 567,895   | 591,377     |
-| 2014 |  8.3       |  60,409,620 | 501,400   | 537,807     |  
-| 2024 |     -      |     -       |    -      | 567,895     |      
-| 2034 |     -      |             |           | 501,400     |
+Nel 1965 il numero di nati vivi superò il milione. Questo vuol dire che 15 anni dopo, nel 1980, il bacino di giovani da avviare allo sport era, grosso modo, di un milione. Nel 1995 il numero di nati vivi superò di poco il mezzo milione. Nel 2010, il bacino di giovani da avviare allo sport era, quindi, grosso modo la metà di quelli disponibili nel 1980. Anche se la qualitá dei processi di selezione é migliorata, la dimensione del bacino di potenziali atleti é un fattore che indubbiamente influenza la capacitá di ottenere successi sportivi in una molteplicitá di discipline. La demografia può contribuire a spiegare come mai la nazionale di calcio ha avuto crescenti difficoltá ripetere i successi del passato.
 
 
-[^1]: [https://data.worldbank.org/indicator/SP.DYN.CBRT.IN?locations=IT](https://data.worldbank.org/indicator/SP.DYN.CBRT.IN?locations=IT)
+
+
+
+[^1]: [World Bank data](https://data.worldbank.org/indicator/SP.DYN.CBRT.IN?locations=IT)
+[^2]: [ISTAT - Banche dati](https://www.istat.it/it/dati-analisi-e-prodotti/banche-dati)
