@@ -6,7 +6,7 @@ tags: [central bank, asset bubble, english]
 ---
 When discussing asset bubbles in my course on central banking and monetary policy, I pose two questions: (1) should central banks respond to bubbles and (2) should monetary policy be used to prick such bubbles. In both cases, the answer is no.
 
-To understand why, we can look at the credit-driven, US housing bubble burst in 2006, that contributed to the 2008 recession. Credit-driven asset bubbles are market conditions in which a specific type of asset experiences increasing prices that depart from _fundamental_ values.
+To understand why, we can look at the credit-driven, US housing bubble burst in 2006, that contributed to causing the 2008 recession. Credit-driven asset bubbles are market conditions in which a specific type of asset experiences increasing prices that depart from _fundamental_ values.
 
 Following the dot-com bubble burst of the year 2000 and the mild recession of 2001 (which concluded a 2-year period of stagnating growth - figure 1), the Federal Reserve maintained an expansionary monetary policy stance that achieved a very low Effective Funds Rate: about 1% between 2003 and 2004 (figure 2).
 <br>
