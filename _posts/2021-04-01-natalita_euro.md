@@ -5,7 +5,7 @@ subtitle: La demografia non mente
 tags: [demografia, euro, italiano]
 ---
 
-Qualche giorno addietro, un amico commentò in modo colorito un post, su Facebook, il cui autore addebitava la scarsa natalità in Italia all'adozione della moneta unica, l'Euro.
+Qualche giorno addietro, un amico commentò in modo colorito un post il cui autore addebitava la scarsa natalità in Italia all'adozione della moneta unica, l'Euro.
 
 Ovviamente ciò non è vero perché il tasso di natalità ha un trend negativo dai primi anni 60. Comunque, ho voluto documentarmi piu' precisamente e condivido un grafico della World Bank in cui é indicato il "Birth rate, crude (per 1,000 people)" in Italia dal 1960 ad oggi ([^1]).
 
