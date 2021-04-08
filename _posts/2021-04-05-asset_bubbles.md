@@ -2,9 +2,6 @@
 layout: post
 title: Credit-driven asset bubbles 
 subtitle: Housing market in the USA
-# cover-img: /assets/img/path.jpg
-# thumbnail-img: /assets/img/thumb.png
-# share-img: /assets/img/path.jpg
 tags: [central bank, asset bubble, english]
 ---
 When discussing asset bubbles in my course on central banking and monetary policy, I pose two questions: (1) should central banks respond to bubbles and (2) should monetary policy be used to prick such bubbles. In both cases, the answer is no.
@@ -54,5 +51,5 @@ Secondly, central banks are not in the privileged position they appear to be in;
 
 Thirdly, even if a bubble was detectable, central banks could only deploy a contractionary monetary policy by increasing the base rate (the Fed Funds Rate Target in the US). However, such a policy would negatively affect investments (and, only later, prices) across the entire economy, not just in the sector in which, allegedly, a bubble is inflating.
 
-To answer the original questions, central banks should not respond to asset bubbles as they are not in a better position than other market participants to detect it and, even if they were able to detect it, monetary policy does not provide a suitable tool to prick the bubble without negatively affecting the entire economy.
+To answer the original questions, central banks should not respond to asset bubbles as they are not in a better position than other market participants to detect them and, even if they were able to, monetary policy should not be used to prick them without negatively affecting the entire economy, as a central bank is not equipped with a suitable tool .
 
