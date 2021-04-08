@@ -2,7 +2,7 @@
 layout: post
 title: Natalità, Euro e sport 
 subtitle: La demografia non mente
-tags: [demografia, euro, italiano]
+tags: [demografia, euro, sport, italiano]
 ---
 
 Qualche giorno addietro, mi sono imbattuto in un post il cui autore individuava la causa della scarsa natalità in Italia nell'adozione della moneta unica, l'Euro.
