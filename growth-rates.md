@@ -3,7 +3,8 @@ layout: page
 title:
 subtitle:
 ---
-# Growth rates
+
+## Growth rates
 
 If some variable x (for example, the number of gallons of gasoline sold in a week) changes from x1 to x2, then we can define the change in that variable as Δx = x2 − x1. But there are difficulties with this simple definition. The number that we calculate will change, depending on the units in which we measure x. If we measure in millions of gallons, x will be a much smaller number than if we measure in gallons. If we measured x in liters rather than gallons (as it is measured in most countries), it would be a bigger number. So the number we calculate depends on the units we choose. To avoid these problems, we look at percentage changes and express the change as a fraction of the individual value. In what follows, we use the notation %Δx to mean the percentage change in x and define it as follows: %Δx = (x2 − x1)/x1. A percentage change equal to 0.1 means that gasoline consumption increased by 10 percent. Why? Because 10 percent means 10 “per hundred,” so 10 percent = 10/100 = 0.1.
 
@@ -37,7 +38,8 @@ Then
 %Δy = a(%Δx).
 For example, if y = x2, then the growth rate of y is twice the growth rate of x. If then the growth rate of y is half the growth rate of x (remembering that a square root is the same as a power of ½).
 
-## More Formally
+### More Formally
+
 Growth rates compound over time: if the growth rate of a variable is constant, then the change in the variable increases over time. For example, suppose GDP in 2020 is 20.0, and it grows at 10 percent per year. Then in 2021, GDP is 22.0 (an increase of 2.0), but in 2022, GDP is 24.2 (an increase of 2.2). If this compounding takes place every instant, then we say that we have exponential growth. Formally, we write exponential growth using the number e = 2.71828.… If the value of Y at time 0 equals Y0 and if Y grows at the constant rate g (where g is an “annualized” or per year growth rate), then at time t (measured in years),
 
 $$Y_t = e^{gt}Y_0$$
@@ -45,6 +47,7 @@ $$Y_t = e^{gt}Y_0$$
 A version of this formula can also be used to calculate the average growth rate of a variable if we know its value at two different times. We can write the formula as
 
 $$e^{gt} = \frac{Y_t}{Y_0}$$
+
 which also means
 
 gt = ln(Yt/Y0),
