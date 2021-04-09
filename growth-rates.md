@@ -1,7 +1,6 @@
 ---
 layout: page
 title:
-subtitle:
 ---
 
 ## Growth rates
@@ -46,7 +45,7 @@ $$Y_t = e^{gt}Y_0$$
 
 A version of this formula can also be used to calculate the average growth rate of a variable if we know its value at two different times. We can write the formula as
 
-$$e^{gt} = \frac{Y_t}{Y_0}$$
+$$ e^{gt} = \frac{Y_t}{Y_0} $$
 
 which also means
 
