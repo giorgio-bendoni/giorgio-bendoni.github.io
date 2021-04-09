@@ -57,16 +57,20 @@ $$ g = \frac{\ln{\frac{Y_t}{Y_0}}}{t} $$
 For example, suppose GDP in 2020 is 20.0 and GDP in 2030 is 28.0. Then Y2030/Y2020 = 28/20 = 1.4. Using a calculator, we can find ln(1.4) = 0.3364. Dividing by 10 (since the two dates are 10 years apart), we get an average growth rate of 0.034, or 3.4 percent per year.
 
 ### Mathematical appendix
+***
 
 If a variable \[ x \] has a value of $x_0$ today and grows at a rate \(r\) over a period of time \(t\), the value of \(x\) at the end of the period of time \(t_1\) will be
 
 $$ x_1 = x_0 + r \times x_0 = x_0 \times (1+r)$$
 
-After \[ n \] periods, the value of $x$ will be
+After compounding over \[ n \] periods, the value of $x$ will be
 
 $$x_n = x_0 \times (1+r)^n$$
 
+The above formula can be written 
 
+$$ X_n = X_0 \times (1 + \frac{365}{n})^{nt} $$
 
+where it is assumed that the time period t is of 365 days, and that compounding is calculated n times year. 
 
 
