@@ -1,6 +1,7 @@
 ---
 layout: page
-title: growth rates
+title:
+subtitle: Growth rates
 ---
 If some variable x (for example, the number of gallons of gasoline sold in a week) changes from x1 to x2, then we can define the change in that variable as Δx = x2 − x1. But there are difficulties with this simple definition. The number that we calculate will change, depending on the units in which we measure x. If we measure in millions of gallons, x will be a much smaller number than if we measure in gallons. If we measured x in liters rather than gallons (as it is measured in most countries), it would be a bigger number. So the number we calculate depends on the units we choose. To avoid these problems, we look at percentage changes and express the change as a fraction of the individual value. In what follows, we use the notation %Δx to mean the percentage change in x and define it as follows: %Δx = (x2 − x1)/x1. A percentage change equal to 0.1 means that gasoline consumption increased by 10 percent. Why? Because 10 percent means 10 “per hundred,” so 10 percent = 10/100 = 0.1.
 
