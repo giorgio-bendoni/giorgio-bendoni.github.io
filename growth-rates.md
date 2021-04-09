@@ -8,6 +8,8 @@ Very often in economics, we are interested in changes that take place over time.
 
 $$\%\Delta Y = \frac{Y_2013 - Y_2012}{Y_2012} = \frac{14.7 - 10}{14} = 0.05$$
 
+\( x + y = z \)
+
 %ΔY2013 = (Y2013 − Y2012)/Y2012 = (14.7 − 14)/14 = 0.05.
 The growth rate equals 5 percent. In general, we write %ΔYt+1 = (Yt+1 − Yt)/Yt. Occasionally, we use the gross growth rate, which simply equals 1 + the growth rate. So, for example, the gross growth rate of GDP equals Y2013/Y2012, or 1.05.
 
