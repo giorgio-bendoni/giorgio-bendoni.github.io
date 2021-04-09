@@ -6,7 +6,7 @@ If some variable x (for example, the number of gallons of gasoline sold in a wee
 
 Very often in economics, we are interested in changes that take place over time. Thus we might want to compare gross domestic product (GDP) between 2012 and 2013. Suppose we know that GDP in the United States in 2012 was $14 trillion and that GDP in 2013 was $14.7 trillion. Using the letter Y to denote GDP measured in trillions, we write Y2012 = 14.0 and Y2013 = 14.7. If we want to talk about GDP at different points in time without specifying a particular year, we use the notation Yt. We express the change in a variable over time in the form of a growth rate, which is just an example of a percentage change. Thus the growth rate of GDP in 2013 is calculated as follows:
 
-\%\Delta Y = \frac{Y_2013 - Y_2012}{Y_2012} = \frac{14.7 - 10}{14} = 0.05
+$$\%\Delta Y = \frac{Y_2013 - Y_2012}{Y_2012} = \frac{14.7 - 10}{14} = 0.05$$
 
 %ΔY2013 = (Y2013 − Y2012)/Y2012 = (14.7 − 14)/14 = 0.05.
 The growth rate equals 5 percent. In general, we write %ΔYt+1 = (Yt+1 − Yt)/Yt. Occasionally, we use the gross growth rate, which simply equals 1 + the growth rate. So, for example, the gross growth rate of GDP equals Y2013/Y2012, or 1.05.
