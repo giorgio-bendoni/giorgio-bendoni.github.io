@@ -1,6 +1,5 @@
 ---
 layout: page
-title:
 ---
 
 ## Growth rates
@@ -41,7 +40,7 @@ For example, if y = x2, then the growth rate of y is twice the growth rate of x.
 
 Growth rates compound over time: if the growth rate of a variable is constant, then the change in the variable increases over time. For example, suppose GDP in 2020 is 20.0, and it grows at 10 percent per year. Then in 2021, GDP is 22.0 (an increase of 2.0), but in 2022, GDP is 24.2 (an increase of 2.2). If this compounding takes place every instant, then we say that we have exponential growth. Formally, we write exponential growth using the number e = 2.71828.… If the value of Y at time 0 equals Y0 and if Y grows at the constant rate g (where g is an “annualized” or per year growth rate), then at time t (measured in years),
 
-$$Y_t = e^{gt}Y_0$$
+$$ Y_t = e^{gt}Y_0 $$
 
 A version of this formula can also be used to calculate the average growth rate of a variable if we know its value at two different times. We can write the formula as
 
@@ -49,8 +48,10 @@ $$ e^{gt} = \frac{Y_t}{Y_0} $$
 
 which also means
 
-gt = ln(Yt/Y0),
-where ln() is the natural logarithm. You do not need to know exactly what this means; you can simply calculate a logarithm using a scientific calculator or a spreadsheet. Dividing by t we get the average growth rate
+$$ gt = \ln{\frac{Y_t}{Y_0}} $$
 
-g = ln(Yt/Y0)/t.
+where \ln is the natural logarithm. Dividing by t we get the average growth rate
+
+$$ g = \frac{\ln{\frac{Y_t}{Y_0}}}{t} $$
+
 For example, suppose GDP in 2020 is 20.0 and GDP in 2030 is 28.0. Then Y2030/Y2020 = 28/20 = 1.4. Using a calculator, we can find ln(1.4) = 0.3364. Dividing by 10 (since the two dates are 10 years apart), we get an average growth rate of 0.034, or 3.4 percent per year.
