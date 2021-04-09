@@ -58,11 +58,11 @@ For example, suppose GDP in 2020 is 20.0 and GDP in 2030 is 28.0. Then Y2030/Y20
 
 ### Mathematical appendix
 
-If a variable \(x\) has a value of $x_0$ today and grows at a rate \(r\) over a period of time \(t\), the value of \(x\) at the end of the period of time \(t_1\) will be
+If a variable \[ x \] has a value of $x_0$ today and grows at a rate \(r\) over a period of time \(t\), the value of \(x\) at the end of the period of time \(t_1\) will be
 
 $$ x_1 = x_0 + r \times x_0 = x_0 \times (1+r)$$
 
-After $n$ periods, the value of $x$ will be
+After \[ n \] periods, the value of $x$ will be
 
 $$x_n = x_0 \times (1+r)^n$$
 
