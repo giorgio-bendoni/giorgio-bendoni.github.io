@@ -17,7 +17,7 @@ My IT set up includes the following:
 
 <h4> Workstation 2</h4>
 + HP Pavilion 500 - AMD 8-5500 - 32GB 
-+ OS: Windows 10
++ OS: Linux Ubuntu 20.04.2
 + Int. dr.: 1TB SATA
 + Monitor: 1 x Samsung 24
 
