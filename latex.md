@@ -43,7 +43,7 @@ Kopka and Daly (2004) is a very good resource as the overview it provides is at 
 <h3>On-line resources on LaTeX</h3>
 There are literally thousands of on-line resources. 
 + [The TeX Users Group](www.tug.org) (web)
-+ [The Comprehensive TeX Archive Network - CTAN](https:://ctan.org/) web
++ [The Comprehensive TeX Archive Network - CTAN](https:://ctan.org/) (web)
 + [The LaTeX project](https://www.latex-project.org/) (web)
 + [The not so short introduction to LaTeX2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) (pdf)
 + [The LaTeX primer](https://www.tug.org/twg/mactex/tutorials/ltxprimer-1.0.pdf) (pdf)
