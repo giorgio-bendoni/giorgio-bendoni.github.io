@@ -18,13 +18,13 @@ Incuriosito, ho cercato le serie storiche ISTAT[^2] del tasso di natalità ed ho
 
 ![](/images/ita_dem_1862_2019.svg)
 
-Il tasso di natalità sembra in continua discesa dal 1862 ad oggi, evidenziando andamenti piu' bruschi in occasione delle due guerre mondiali. Si nota un picco locale di natalita' nel 1964, inserito in un trend altrimenti in lento declino.
+Il tasso di natalità sembra in continua discesa dal 1862 ad oggi, evidenziando andamenti piu' bruschi in occasione delle due guerre mondiali. Si nota il picco di natalita' nel 1964, inserito in un trend comunque negativo.
 
-Ovviamente il tasso di natalità é influenzato da fattori differenti[^3]: consistenza della popolazione per fasce d'età e sesso, credo religioso, accettazione della contraccezione e dell'aborto, opportunità di lavoro femminile, condizioni economiche, livello di povertà, tasso di mortalità, conflitti o guerre, età tipica femminile al matrimonio o alla nascita del primo figlio, livello di educazione. In ogni caso, qualunque sia stata la combinazione di fattori, l'Italia mostra un tasso decrescente di natalità da quasi cento anni.
+Ovviamente il tasso di natalità é influenzato da fattori di molti tipi[^3]: consistenza della popolazione per fasce d'età e sesso, credo religioso, accettazione della contraccezione e dell'aborto, opportunità di lavoro femminile, condizioni economiche, livello di povertà, tasso di mortalità, conflitti o guerre, età tipica femminile al matrimonio o alla nascita del primo figlio, livello di educazione, condizioni sanitarie e progressi nelle scienze mediche. In ogni caso, qualunque sia stata la combinazione di fattori, l'Italia mostra un tasso decrescente di natalità da quasi centocinquanta anni.
 
-E lo sport?
+E lo sport cosa c'entra?
 
-Nel 1965 il numero di nati vivi superò il milione. Questo vuol dire che 15 anni dopo, nel 1980, il bacino di giovani da avviare allo sport era, grosso modo, di un milione. Nel 1995 il numero di nati vivi superò di poco il mezzo milione. Nel 2010, il bacino di giovani da avviare allo sport era, quindi, grosso modo la metà di quelli disponibili nel 1980. Anche se la qualitá dei processi di selezione é migliorata, la dimensione del bacino di potenziali atleti é un fattore che indubbiamente influenza la capacitá di ottenere successi sportivi in una molteplicitá di discipline. La demografia può contribuire a spiegare come mai la nazionale di calcio ha avuto crescenti difficoltá a ripetere i successi del passato.
+Nel 1965 il numero di nati vivi superò il milione. Questo vuol dire che 15 anni dopo, nel 1980, il bacino di giovani da avviare allo sport era, grosso modo, di un milione. Nel 1995 il numero di nati vivi superò di poco il mezzo milione. Nel 2010, il bacino di giovani da avviare allo sport era, quindi, grosso modo la metà di quelli disponibili nel 1980. Anche se la qualitá dei processi di selezione é migliorata, la dimensione del bacino di potenziali atleti é un fattore che indubbiamente influenza la capacitá di ottenere successi sportivi in una molteplicitá di discipline. La demografia può contribuire a spiegare come mai la nazionale di calcio ed altri sport hanno avuto crescenti difficoltá a ripetere i successi del passato: meno adolescenti da cui selezionare i futuri atleti e crescentre domanda da sport sempre piu'popolari (pallavolo, pallacanestro, rugby, per esempio).
 
 
 
