@@ -21,6 +21,13 @@ My IT set up includes the following:
 + Int. dr.: 1TB SATA
 + Monitor: 1 x Samsung 24
 
+<h4>Mobile devices</h4>
++ Toshiba Chromebook
++ Macbook
++ Ipad
++ reMarkable 2
++ Kindle
+
 <h4>Music / audio station</h4>
 + Keyboard/Midi controller: Alesis Recital
 + Synth: Yamaha CS2x
