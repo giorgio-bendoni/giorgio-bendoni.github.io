@@ -23,7 +23,7 @@ My IT set up includes the following:
 
 <h4>Mobile devices</h4>
 + Toshiba Chromebook
-+ Macbook
++ MacBook
 + iPad
 + reMarkable 2
 + Kindle
