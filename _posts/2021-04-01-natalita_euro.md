@@ -10,7 +10,7 @@ Qualche giorno addietro, mi sono imbattuto in un post il cui autore individuava 
 Ovviamente ciò non è vero: non solo la relazione causale tra sistema monetario e tassi di natalitá non esiste ma il tasso di natalità, in Italia, ha un trend negativo dai primi anni '60. Comunque, ho voluto documentarmi piu' precisamente e condivido un grafico della World Bank in cui é indicato il tasso di natalità (Birth rate, crude - per 1,000 people) in Italia, dal 1960 ad oggi[^1].
 
 <iframe src="https://data.worldbank.org/share/widget?indicators=SP.DYN.CBRT.IN&locations=IT" width='700' height='466' frameBorder='0' scrolling="no" ></iframe>
-<br>
+
 
 Come si vede, il picco di 19.7 nascite per 1,000 abitanti fu raggiunto nel 1964, seguito da una continua diminuzione, con un periodo di stasi tra il 1986 ed il 2008 ed un successivo, ripido declino dal 2009 ad oggi. Non esiste alcun mutamento di trend in occasione dell'adozione dell'Euro, o dei passaggi della sua introduzione.
 
@@ -28,7 +28,7 @@ Nel 1965 il numero di nati vivi superò il milione. Questo vuol dire che 15 anni
 
 Anche se la qualitá dei processi di selezione é migliorata, la dimensione del bacino di potenziali atleti é un fattore che indubbiamente influenza la capacitá di ottenere successi sportivi in una molteplicitá di discipline.
 
-La demografia può contribuire a spiegare come mai la nazionale di calcio ed di altri sport hanno avuto crescenti difficoltá a ripetere i successi del passato: via via meno adolescenti da cui selezionare i futuri atleti, associata alla crescente domanda da parte di sport sempre piu'popolari (pallavolo, pallacanestro, rugby, per esempio).
+La demografia può contribuire a spiegare come mai la nazionale di calcio ed di altri sport hanno avuto crescenti difficoltá a ripetere i successi del passato: via via meno adolescenti da cui selezionare i futuri atleti, associata alla crescente domanda da parte di sport sempre piu' popolari (pallavolo, pallacanestro e rugby, per esempio).
 
 
 
