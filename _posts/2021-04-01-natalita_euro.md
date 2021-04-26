@@ -14,13 +14,13 @@ Ovviamente ciò non è vero: non solo la relazione causale tra sistema monetario
 
 Come si vede, il picco di 19.7 nascite per 1,000 abitanti fu raggiunto nel 1964, seguito da una continua diminuzione, con un periodo di stasi tra il 1986 ed il 2008 ed un successivo, ripido declino dal 2009 ad oggi. Non esiste alcun mutamento di trend in occasione dell'adozione dell'Euro, o dei passaggi della sua introduzione.
 
-Incuriosito, ho cercato le serie storiche ISTAT[^2] del tasso di natalità ed ho costruito il seguente diagramma.
+Per investigare il lungo periodo, ho cercato le serie storiche ISTAT[^2] del tasso di natalità ed ho costruito il seguente diagramma.
 
 ![](/images/ita_dem_1862_2019.svg)
 
-Il tasso di natalità sembra in continua discesa dal 1862 ad oggi, evidenziando andamenti piu' bruschi in occasione delle due guerre mondiali. Si nota il picco di natalita' nel 1964, inserito in un trend comunque negativo.
+Il tasso di natalità sembra in continua discesa dal 1862 ad oggi; si notano i picchi negativi in occasione delle guerre mondiali ed il picco positivo del 1964. Il trend generale è negativo.
 
-Ovviamente il tasso di natalità é influenzato da fattori di molti tipi[^3]: consistenza della popolazione per fasce d'età e sesso, credo religioso, accettazione della contraccezione e dell'aborto, opportunità di lavoro femminile, condizioni economiche, livello di povertà, tasso di mortalità, conflitti o guerre, età tipica femminile al matrimonio o alla nascita del primo figlio, livello di educazione, condizioni sanitarie e progressi nelle scienze mediche. In ogni caso, qualunque sia stata la combinazione di fattori, l'Italia mostra un tasso decrescente di natalità da quasi centocinquanta anni.
+Ovviamente il tasso di natalità é influenzato da fattori di molti tipi[^3]: consistenza della popolazione per fasce d'età e sesso, credo religioso, accettazione culturale e sociale della contraccezione e dell'aborto, opportunità di lavoro femminile, condizioni e prospettive economiche, livello di povertà, tasso di mortalità, conflitti o guerre, età tipica femminile al matrimonio o alla nascita del primo figlio, livello di educazione, condizioni sanitarie e progressi nelle scienze mediche. In ogni caso, qualunque sia stata la combinazione di fattori, l'Italia mostra un tasso decrescente di natalità da quasi centocinquanta anni.
 
 E lo sport cosa c'entra?
 
@@ -28,8 +28,7 @@ Nel 1965 il numero di nati vivi superò il milione. Questo vuol dire che 15 anni
 
 Anche se la qualitá dei processi di selezione é migliorata, la dimensione del bacino di potenziali atleti é un fattore che indubbiamente influenza la capacitá di ottenere successi sportivi in una molteplicitá di discipline.
 
-La demografia può contribuire a spiegare come mai la nazionale di calcio ed di altri sport hanno avuto crescenti difficoltá a ripetere i successi del passato: via via meno adolescenti da cui selezionare i futuri atleti, associata alla crescente domanda da parte di sport sempre piu' popolari (pallavolo, pallacanestro e rugby, per esempio).
-
+La demografia può contribuire a spiegare come mai la nazionale di calcio, e magari di altri sport, ha avuto crescenti difficoltá a ripetere i successi del passato: sempre meno adolescenti da cui selezionare i futuri atleti, associati alla crescente domanda da parte di sport sempre piu' popolari (pallavolo, pallacanestro e rugby, per esempio).
 
 
 
