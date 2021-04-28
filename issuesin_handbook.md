@@ -13,7 +13,7 @@ The objective of this part if the module is to provide first year students in th
   4. Monetary systems - central banks, base rate, money supply, monetary policy
   5. Inflation - definition, calculation, inflation indices
   6. Data - selection of sources and presentation of data and information
-  7. Presentations - general guidelines on how to prepare a short presentation: slideware, structure, topics, style
+  7. Presentations - general guidelines on how to prepare a short presentation: slideware, structure, style
 <br><br>
 
 <h6>TB2 - Developments in economic toughts</h6>
