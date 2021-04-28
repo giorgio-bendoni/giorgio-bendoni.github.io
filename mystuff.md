@@ -50,7 +50,6 @@ My IT set up includes the following:
   + Macdown
   + StackEdit
   + G suite
-  + Office 365
   + Pandoc
 <h4>Graphics</h4>
   + Inkscape
