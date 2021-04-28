@@ -31,12 +31,12 @@ The alternative option is to download a LaTeX distribution from CTAN and a LaTeX
 <h3>Books on LaTeX</h3>
 
 Due the proliferation of free-to-access, online resources, there is little space left in the market for conventional books. There are, however, a few notable products which is worth exploring:
-+ Kopka, H. and Daly, P. (2004). Guide to LaTeX  (4th Ed.). Boston: Addison-Wesley
-+ Mittelbach, F. and Goossens, M. (2004). The LaTeX Companion (2nd Ed.). Boston: Addison-Wesley
-+ Mittelbach, F. and Goossens, M. (2008). The LaTeX Graphics Companion (2nd Ed.). Boston: Addison-Wesley
-+ Goossens, M. and Rahtz, S. (1999). The LaTeX Web Companion. Boston: Addison-Wesley
-+ Lamport, L. (1994). LaTeX: A document preparation system. User's Guide and Reference Manual (2nd Ed.). Boston: Addison-Wesley
-+ Knuth, D. (1984). The TeXBook. Boston: Addison-Wesley
++ Kopka, H. and Daly, P. (2004). _Guide to LaTeX_  (4th Ed.). Boston: Addison-Wesley
++ Mittelbach, F. and Goossens, M. (2004). _The LaTeX Companion_ (2nd Ed.). Boston: Addison-Wesley
++ Mittelbach, F. and Goossens, M. (2008). _The LaTeX Graphics Companion_ (2nd Ed.). Boston: Addison-Wesley
++ Goossens, M. and Rahtz, S. (1999). _The LaTeX Web Companion_. Boston: Addison-Wesley
++ Lamport, L. (1994). _LaTeX: A document preparation system. User's Guide and Reference Manual_ (2nd Ed.). Boston: Addison-Wesley
++ Knuth, D. (1984). _The TeXBook_. Boston: Addison-Wesley
 
 Kopka and Daly (2004) is a very good resource as the overview it provides is at the same time wide in scope and detailed in guidance. Mittelbach and Goossens (2004 and 2008) address the same content as Kopka (2004) but in much greater depth and these two books are for more hardcore users. Gooseens and Rahtz (1999) has become a little obsolete due to the advances made by the Web pages rendering and style technology but it still provides a wealth of information on preparing LaTeX documents for subsequent Web publication.   
 
