@@ -26,12 +26,13 @@ My interests span over a few different streams:
 <h3 id="Teaching Responsibilities">Teaching Responsibilities</h3>
 <hr />
 I have taught several undergraduate modules in the _BSc_ programmes in _Economics_; _Business Economics_; _Economics, Banking and Finance_, and in the _BA Economics and Management_:
-1. Issues in Finance and Banking
-2. Mathematics for Economists
-3. Economics of Money, Banking and Financial Markets
-4. International Banking and Financial Instruments
-5. Intermediate Microeconomics
-6. Intermediate Macroeconomics
+1. Issues in finance and banking
+2. Mathematics for economists
+3. Quantitative methods and data analysis
+4. Economics of money, banking and financial markets
+5. International banking and financial instruments
+6. Intermediate microeconomics
+7. Intermediate macroeconomics
 
 I am the Senior Tutor for the Subject Group Economics and Finance, and a dissertation supervisor at undergraduate and postgraduate level.
 <br>
