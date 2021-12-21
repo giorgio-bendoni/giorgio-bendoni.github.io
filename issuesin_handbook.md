@@ -49,7 +49,7 @@ Coursework 1 - 50%
 : One 5' individual presentation
 
 Coursework 2 - 50%
-: One 2,000-word individual essay
+: One 2,000-word essay
 <br><br>
 
 
