@@ -56,7 +56,7 @@ Coursework 2 (FI) - 25%
 : One 1,000-word individual essay that addresses the learning outcomes 1, 2, 4 and 5.
 
 Coursework 3 (IB - FI) - 50%
-: A portfolio of four online quizzes that address the learning outcomes 1, 2, 3 and 5.
+: A portfolio of four online quizzes that addresses the learning outcomes 1, 2, 3 and 5.
 <br><br>
 
 <h5>Programme outline</h5>
