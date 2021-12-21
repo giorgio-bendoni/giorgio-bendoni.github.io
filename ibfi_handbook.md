@@ -1,5 +1,6 @@
 ---
-
+layout: page
+title: 
 ---
 
 <h3>International Banking and Financial Instruments</h3>
