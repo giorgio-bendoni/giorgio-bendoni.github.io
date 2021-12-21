@@ -40,7 +40,7 @@ title:
 + <a href="https://www.sloanehelicopters.com/">Sloane Helicopters</a> - Director
 + <a href="https://www.iod.com/">Institute of Directors</a> - Lead Examiner
 + <a href="https://www.wiltshireairambulance.co.uk/">Wiltshire Air Ambulance</a> - Director of Aviation / Accountable Manager
-+ <a href="https://www.port.ac.uk/">University of Portsmouth</a> - Senior Teaching Fellow
++ <a href="https://www.port.ac.uk/">University of Portsmouth</a> - Principal Lecturer
 <br><br>
 <h4>Other experiences</h4>
 <hr />
