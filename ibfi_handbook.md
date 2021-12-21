@@ -101,7 +101,7 @@ Coursework 3 (IB - FI) - 50%
 <hr>
 We will use the following textbooks for general reference and will access original sources (banks, central banks, the Bank for International Settlements, the IMF, the World Bank, the OECD and S&P Global) to find current data and other relevant information on the various topics of the programme.
 
-1. Mishkin, F (2018). _The economics of Money Banking and Financial Markets_ (13th edition, Global Edition). Pearson
+1. Mishkin, F (2018). _The economics of money, banking and financial markets_ (13th edition, Global Edition). Pearson
 2. Casu, B, Girardone, C, Molyneux, P. (2015). _Introduction to banking_ (2nd edition). Pearson
 3. Hull, J. (2016). _Fundamentals of futures and options markets_ (8th edition, global edition). Pearson
 4. Arnold, G. (2014). _FT Guide to Banking_. Pearson
