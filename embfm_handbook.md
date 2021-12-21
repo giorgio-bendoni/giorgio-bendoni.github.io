@@ -31,9 +31,9 @@ To appreciate:
 <hr>
 On successful completion of this module, students should be able, at threshold level, to:
 1. Articulate and explain the structure, conduct and performance of banking and financial markets.
-2. Articulate and explain the role of financial regulation in the banking and financial sectors.
-3. Articulate and explain analytical techniques for studying money, banks and financial markets.
-4. Assess the relative merits and limitations of analytical techniques for studying money, banks and financial markets.
+2. Articulate and explain the role of money and the principles, conduct and effects of monetary policy in the economy
+3. Translate real world problems into analytical models and vice versa and employ appropriate analytical techniques to graphically and mathematically study and critically assess money, banks and financial markets
+4. Review academic literature relating to money, banking and finance in order to make policy recommendations and assessments
 5. Translate real world problems into analytical models and vice versa and employ appropriate analytical techniques to graphically and mathematically study money, banks and financial markets.
 6. Review academic literarure relating to banking and finance in order to make policy recommendations.
 <br><br>
