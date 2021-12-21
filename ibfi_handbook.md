@@ -31,8 +31,8 @@ On successful completion of this module, students should be able, at threshold l
 1. Show understanding of the functions and complexity of international banking and financial markets by addressing a realistic problem scenario.
 2. Organise and present appropriate data to frame a problem in the area of banking and finance and identify a solution.
 3. Show understanding of the issues surrounding the effective regulation of financial systems.
-4. Implement strategies involving financial derivatives in measurement and management of financial risk, hedging, speculation, and arbitrage.
-5. Critically evaluate and demonstrate knowledge of the empirical research literature in the area
+4. Critically evaluate and demonstrate knowledge of the empirical research literature in the area.
+5. Implement strategies involving financial derivatives in measurement and management of financial risk, hedging, speculation, and arbitrage.
 <br><br>
 
 <h5>Teaching and planned activities</h5>
@@ -45,13 +45,13 @@ The module is delivered via a combination of 22 lectures and 22 seminars over on
 <h5>Assessment</h5>
 <hr>
 Coursework 1 (IB) - 25%
-: One 1,000-word individual essay that addresses the learning outcomes 1, 2 and 5.
+: One 1,000-word individual essay that addresses the learning outcomes 1, 2, 3 and 4.
 
 Coursework 2 (FI) - 25%
-: One 1,000-word individual essay that addresses the learning outcomes 3, 4 and 5.
+: One 1,000-word individual essay that addresses the learning outcomes 1, 2, 4 and 5.
 
 Coursework 3 (IB - FI) - 50%
-: A portfolio of tasks including one 800-words individual essay and three online quizzes that address the learning outcomes 1, 2, 3 and 4.
+: A portfolio of four online quizzes that address the learning outcomes 1, 2, 3 and 5.
 <br><br>
 
 <h5>Programme outline</h5>
@@ -65,13 +65,13 @@ Coursework 3 (IB - FI) - 50%
 | 2      | IB services                          | International Banking                |
 | 3      | Banking systems                      | IB services                          |
 | 4      | Central banking                      | Banking systems                      |
-| 5      | Country assessment                   | Central banking                      |
-| 6      | International Financial Architecture | Country assessment                   |
-| 7      | Regulation of banks                  | International Financial Architecture |
-| 8      | Banking risks                        | Regulation of Banks                  |
-| 9      | Banking risks management I           | Banking risks                        |
-| 10     | Banking risks management II          | Banking risks management I           |
-| 11     | Overview                             | Banking risks management II          |
+| 5      | Regulation of banks                  | Central banking                      |
+| 6      | Banking risks                        | Regulation of banks                  |
+| 7      | Banking risks management I           | Banking risks                        |
+| 8      | Banking risks management II          | Banking risks management I           |
+| 9      | International financial architecture | Banking risks management II          |
+| 10     | Green and ethical finance            | International financial architecture |
+| 11     | Overview                             | Green and ethical finance            |
 
 <br>
 <h6>Financial Instruments</h6>
@@ -96,7 +96,7 @@ Coursework 3 (IB - FI) - 50%
 <hr>
 We will use the following textbooks for general reference and will access original sources (banks, central banks, the Bank for International Settlements, the IMF, the World Bank, the OECD and S&P Global) to find current data and other relevant information on the various topics of the programme.
 
-1. Mishkin, F (2018). _The economics of Money Banking and Financial Markets_ (12th edition, Global Edition). Pearson
+1. Mishkin, F (2018). _The economics of Money Banking and Financial Markets_ (13th edition, Global Edition). Pearson
 2. Casu, B, Girardone, C, Molyneux, P. (2015). _Introduction to banking_ (2nd edition). Pearson
 3. Hull, J. (2016). _Fundamentals of futures and options markets_ (8th edition, global edition). Pearson
 4. Arnold, G. (2014). _FT Guide to Banking_. Pearson
