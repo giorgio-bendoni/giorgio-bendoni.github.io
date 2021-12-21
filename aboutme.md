@@ -8,7 +8,7 @@ title:
 
 I am a [Principal Lecturer](https://researchportal.port.ac.uk/portal/en/persons/giorgio-bendoni(f78fd62b-bcbd-478c-a975-3f155aef6504).html) affiliated to the Subject Group of Economics and Finance at the [University of Portsmouth](https://www.port.ac.uk).
 
-I am the Director of the Undergraduate Courses in Economics; I coordinate the activities of more than 30 colleagues, teaching in excess of 40 subjects, to more than 400 students, enrolled in our three courses: _BSc Economics_; _BSc Economics, Banking amd Finance_; _BA Economics and Management_.
+I am the Director of the Undergraduate Courses in Economics; I coordinate the activities of more than 30 colleagues, teaching in excess of 40 subjects, to more than 400 students, enrolled in our three courses: _BSc Economics_; _BSc Economics, Banking and Finance_; _BA Economics and Management_.
 
 <h3 id="Research interest">Research Interests</h3>
 <hr />
