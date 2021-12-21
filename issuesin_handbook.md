@@ -6,12 +6,12 @@
 <hr>
 
 <h6>TB1 - Issues in Finance and Banking</h6>
-The objective of this part if the module is to provide first year students in the _BSc Economics, Finance and Banking_ with an early exposure to a selected number of topics of particular relevance to their course:
+The objective of this part of the module is to provide first year students in the _BSc Economics, Finance and Banking_ with an early exposure to a selected number of topics of particular relevance to their course:
   1. Money - currency, money, legal tender, monetary aggregates
   2. Banks - banks as companies, regulated activities, deposit taking, lending, balance sheet, asset transformation
-  3. Financial markets and products - bonds, shares, commodities, financial markets
-  4. Monetary systems - central banks, base rate, money supply, monetary policy
-  5. Inflation - definition, calculation, inflation indices
+  3. Financial markets and products - loans, bonds, shares, commodities, financial markets, payment systems
+  4. Monetary systems - central banks, monetary policy, base rate, money supply
+  5. Inflation - definition, calculation, indices
   6. Data - selection of sources and presentation of data and information
   7. Presentations - general guidelines on how to prepare a short presentation: slideware, structure, style
 <br><br>
@@ -45,7 +45,8 @@ The module is delivered via a combination of video lectures and workshops.
 <h5>Assessment</h5>
 <hr>
 Coursework 1 - 50%
-: One individual presentation
+: One 1,000-word essay
+: One 5' individual presentation
 
 Coursework 2 - 50%
 : One 2,000-word individual essay
