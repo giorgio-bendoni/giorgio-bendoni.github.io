@@ -21,7 +21,7 @@ In the stream **International Banking** we will review the basic functioning of 
 <h5>Aims</h5>
 <hr />
 1. To outline the difficulties and opportunities of financial risk management and banking on an international scale.
-2. To investigate comparative institutional and policy approaches to the regulation of inter-national banking and financial markets.
+2. To investigate comparative institutional and policy approaches to the regulation of international banking and financial markets.
 3. To provide an understanding of future, forwards, swaps and options markets.
 <br><br>
 
