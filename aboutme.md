@@ -37,4 +37,4 @@ I am the Senior Tutor for the Subject Group Economics and Finance, and a dissert
 
 <h3 id="Other Interests">Other Interests</h3>
 <hr />
-I am the Director of Aviation and Accountable Manager at [Wiltshire Air Ambulance](https://www.wiltshireairambulance.co.uk) and the Lead Examiner for the Diploma in Company Direction of the [Institute of Directors](https://www.iod.com). I provide consultancy services in the domains of aviation, charities, strategic and financial planning.
+I am the Director of Aviation and Accountable Manager at [Wiltshire Air Ambulance](https://www.wiltshireairambulance.co.uk) and the Lead Examiner for the Diploma in Company Direction of the [Institute of Directors](https://www.iod.com).
