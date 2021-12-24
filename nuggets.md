@@ -63,3 +63,5 @@ This is [trial](prova_handbook.md) page
 
 This is [issues](issuesin_handbook.md)
 
+This is a [test bookdown project](http://www.giorgiobendoni.com/test_bookdown_project/)
+
