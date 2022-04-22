@@ -6,7 +6,7 @@ My IT set up includes the following:
 
 <h4>Workstation 1</h4>
 + Mac Pro 5.1 - 2 x 3.33 GHz 6-Core Intel Xeon - 32GB
-+ OS: macOS Mojave
++ OS: macOS Monterey
 + Int. dr.: Samsung SSD 850 EVO 500GB + 500GB SATA 
 + Ext. dr.: Samsung SSD T5 500GB + iomega 500GB
 + GPU: AMD Radeon R9 280X 3GB
@@ -23,6 +23,7 @@ My IT set up includes the following:
 
 <h4>Mobile devices</h4>
 + Toshiba Chromebook
++ MS Surface
 + MacBook
 + iPad
 + reMarkable 2
