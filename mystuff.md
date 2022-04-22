@@ -25,7 +25,7 @@ My IT set up includes the following:
 + Toshiba Chromebook
 + MS Surface
 + MacBook
-+ iPad
++ iPad Air 2
 + reMarkable 2
 + Kindle
 
