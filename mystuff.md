@@ -30,7 +30,7 @@ My IT set up includes the following:
 + Kindle
 
 <h4>Music / audio station</h4>
-+ Keyboard/Midi controller: Alesis Recital
++ Keyboard/Midi controller: Kurzweil SP4-8
 + Synth: Yamaha CS2x
 + Microphone: Rode Podcaster
 + Mixer: Alesis iMultiMix 8 USB
