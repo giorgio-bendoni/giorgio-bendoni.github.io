@@ -30,8 +30,10 @@ My IT set up includes the following:
 + Kindle
 
 <h4>Music / audio station</h4>
-+ Keyboard/Midi controller: Kurzweil SP4-8
-+ Synth: Yamaha CS2x
++ Keyboard/Midi controller: Kurzweil SP4-8, Arturia Keylab Essential 61, SubZero Controlkey 49S
++ Digital Synth: Yamaha CS2x
++ Analog Synth: Crave, Neutron, Model D, Wasp
++ Step sequencer: Arturia Beatstep Pro
 + Microphone: Rode Podcaster
 + Mixer: Alesis iMultiMix 8 USB
 + Studio monitors: PreSonus Eris E3.5
@@ -67,6 +69,8 @@ My IT set up includes the following:
 <h4>DAW</h4>
   + Audacity
   + Garageband
+  + Logic Pro
+  + Komplete Start
 <h4>Video conferencing</h4>
   + zoom
   + Cisco Webex
