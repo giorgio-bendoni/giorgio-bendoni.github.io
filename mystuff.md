@@ -46,7 +46,6 @@ My IT set up includes the following:
 <hr />
 <h4>Productivity</h4>
   + Evernote
-  + Obsidian
   + Dropbox
   + Github
   + TeXMaker
