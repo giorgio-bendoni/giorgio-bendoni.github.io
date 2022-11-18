@@ -30,11 +30,14 @@ My IT set up includes the following:
 + Kindle
 
 <h4>Music / audio station</h4>
-+ Keyboard/Midi controller: Kurzweil SP4-8, Arturia Keylab Essential 61, SubZero Controlkey 49S
++ Digital piano: Kurzweil SP4-8
++ Midi controller: Arturia Keylab Essential 61, SubZero Controlkey 49S
 + Digital Synth: Yamaha CS2x
 + Analog Synth: Crave, Neutron, Model D, Wasp
 + Step sequencer: Arturia Beatstep Pro
-+ Microphone: Rode Podcaster
++ Acoustic guitar: Fender CN-60S
++ Microphone: Rode Podcaster, Rode PodMic
++ Audio interface: Rode AI1
 + Mixer: Alesis iMultiMix 8 USB
 + Studio monitors: PreSonus Eris E3.5
 + Headset monitor: Sennheiser HD280 Pro
