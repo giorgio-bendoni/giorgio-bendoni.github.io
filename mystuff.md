@@ -6,7 +6,7 @@ My IT set up includes the following:
 
 <h4>Workstation 1</h4>
 + Mac Pro 5.1 - 2 x 3.33 GHz 6-Core Intel Xeon - 32GB
-+ OS: macOS Monterey
++ Mac Mini 2018 3.2 GHz 6-Core Intel i7 - 32GB
 + Int. dr.: Samsung SSD 850 EVO 500GB + 500GB SATA 
 + Ext. dr.: Samsung SSD T5 500GB + iomega 500GB
 + GPU: AMD Radeon R9 280X 3GB
@@ -19,7 +19,7 @@ My IT set up includes the following:
 + HP Pavilion 500 - AMD 8-5500 - 32GB 
 + OS: Linux Ubuntu 20.04.2
 + Int. dr.: 1TB SATA
-+ Monitor: 1 x Samsung 24
++ Monitor: 1 x Apple Cinema 27
 
 <h4>Mobile devices</h4>
 + Toshiba Chromebook
@@ -31,7 +31,7 @@ My IT set up includes the following:
 
 <h4>Music / audio station</h4>
 + Digital piano: Kurzweil SP4-8
-+ Midi controller: Arturia Keylab Essential 61, SubZero Controlkey 49S
++ Midi controller: Arturia Keylab Essential 61, SubZero Controlkey 49S, Arturia Keystep 37
 + Digital Synth: Yamaha CS2x
 + Analog Synth: Crave, Neutron, Model D, Wasp
 + Step sequencer: Arturia Beatstep Pro
@@ -70,6 +70,7 @@ My IT set up includes the following:
   + Shotcut
 <h4>DAW</h4>
   + Audacity
+  + Ableton Live
   + Garageband
   + Logic Pro
   + Komplete Start
