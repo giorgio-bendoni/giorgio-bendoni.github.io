@@ -4,22 +4,25 @@ My IT set up includes the following:
 <h3>Hardware</h3>
 <hr />
 
-<h4>Workstation 1</h4>
-+ Mac Pro 5.1 - 2 x 3.33 GHz 6-Core Intel Xeon - 32GB
+<h4>Workstation 1</h4>h4
 + Mac Mini 2018 3.2 GHz 6-Core Intel i7 - 32GB
-+ Int. dr.: Samsung SSD 850 EVO 500GB + 500GB SATA 
 + Ext. dr.: Samsung SSD T5 500GB + iomega 500GB
-+ GPU: AMD Radeon R9 280X 3GB
 + Monitors: 3 x HP Pavilion 23xi + 2 x iPad 2nd gen
 + Webcam: Logitech C920
 + Graphic tablet: Wacom One
 + Comms: Microsoft LifeChat LX-3000
 
-<h4> Workstation 2</h4>
+<h4>Workstation 2</h4>
++ Mac Pro 5.1 - 2 x 3.33 GHz 6-Core Intel Xeon - 32GB
++ Int. dr.: Samsung SSD 850 EVO 500GB + 500GB SATA 
++ GPU: AMD Radeon R9 280X 3GB
++ Monitor: 1 x Apple Cinema 27
+
+<h4> Workstation 3</h4>
 + HP Pavilion 500 - AMD 8-5500 - 32GB 
 + OS: Linux Ubuntu 20.04.2
 + Int. dr.: 1TB SATA
-+ Monitor: 1 x Apple Cinema 27
++ Monitor: 1 x Samsung 24
 
 <h4>Mobile devices</h4>
 + Toshiba Chromebook
