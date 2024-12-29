@@ -4,7 +4,7 @@ My IT set up includes the following:
 <h3>Hardware</h3>
 <hr />
 
-<h4>Workstation 1</h4>h4
+<h4>Workstation 1</h4>
 + Mac Mini 2018 3.2 GHz 6-Core Intel i7 - 32GB
 + Ext. dr.: Samsung SSD T5 500GB + iomega 500GB
 + Monitors: 3 x HP Pavilion 23xi + 2 x iPad 2nd gen
