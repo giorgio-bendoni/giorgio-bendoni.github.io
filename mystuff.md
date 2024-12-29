@@ -34,7 +34,10 @@ My IT set up includes the following:
 
 <h4>Music / audio station</h4>
 + Digital piano: Kurzweil SP4-8
-+ Midi controller: Arturia Keylab Essential 61, SubZero Controlkey 49S, Arturia Keystep 37
++ Midi controllers:
+  - Arturia Keylab Essential 61
+  - SubZero Controlkey 49S
+  - Arturia Keystep 37
 + Digital Synth: Yamaha CS2x
 + Analog Synth: Crave, Neutron, Model D, Wasp
 + Step sequencer: Arturia Beatstep Pro
